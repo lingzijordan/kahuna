@@ -2,11 +2,11 @@ package mappers
 
 import "github.com/zling/zi-goproject/formats"
 
-func convertToMap(list []*formats.NewCompanyRecord, companyMap map[string]*formats.NewCompanyRecord) map[string]*formats.NewCompanyRecord {
+func convertToMap(list formats.MappedCompanyRecords, companyMap map[string]*formats.MappedCompanyRecord) map[string]*formats.MappedCompanyRecord {
 	for _, elem := range list {
 		value, ok := companyMap[elem.CompanyId]
 		if !ok {
-			companyMap[elem.CompanyId] = &formats.NewCompanyRecord{
+			companyMap[elem.CompanyId] = &formats.MappedCompanyRecord{
 				CompanyId: elem.CompanyId,
 				City:      elem.City,
 				Sector:    elem.Sector,
@@ -24,7 +24,7 @@ func convertToMap(list []*formats.NewCompanyRecord, companyMap map[string]*forma
 			} else {
 				sectors = value.Sector
 			}
-			companyMap[elem.CompanyId] = &formats.NewCompanyRecord{
+			companyMap[elem.CompanyId] = &formats.MappedCompanyRecord{
 				CompanyId: elem.CompanyId,
 				City:      city,
 				Sector:    sectors,
@@ -35,8 +35,8 @@ func convertToMap(list []*formats.NewCompanyRecord, companyMap map[string]*forma
 	return companyMap
 }
 
-func CombineCityAndSectorMapped(cityMapped []*formats.NewCompanyRecord, sectorMapped []*formats.NewCompanyRecord) map[string]*formats.NewCompanyRecord {
-	companyMap := make(map[string]*formats.NewCompanyRecord)
+func CombineCityAndSectorMapped(cityMapped formats.MappedCompanyRecords, sectorMapped formats.MappedCompanyRecords) map[string]*formats.MappedCompanyRecord {
+	companyMap := make(map[string]*formats.MappedCompanyRecord)
 
 	companyMap = convertToMap(cityMapped, companyMap)
 	companyMap = convertToMap(sectorMapped, companyMap)

@@ -5,8 +5,8 @@ import (
 	"github.com/zling/zi-goproject/formats"
 )
 
-func MapCities(records []*formats.Record) ([]*formats.NewCompanyRecord, []string) {
-	var results []*formats.NewCompanyRecord
+func MapCities(records []*formats.Record) (formats.MappedCompanyRecords, []string) {
+	var results formats.MappedCompanyRecords
 	var unMappedCities []string
 	cityMap := data.GetCityMapping()
 	for _, record := range records {
@@ -20,7 +20,7 @@ func MapCities(records []*formats.Record) ([]*formats.NewCompanyRecord, []string
 			city = value
 		}
 
-		result := &formats.NewCompanyRecord{
+		result := &formats.MappedCompanyRecord{
 			CompanyId: companyId,
 			City:      city,
 		}

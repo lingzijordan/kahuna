@@ -32,8 +32,8 @@ func addToIndustries(industry string, mappedIndustries []string) []string {
 	return mappedIndustries
 }
 
-func MapSectors(records []*formats.Record) ([]*formats.NewCompanyRecord, []string) {
-	var results []*formats.NewCompanyRecord
+func MapSectors(records []*formats.Record) (formats.MappedCompanyRecords, []string) {
+	var results formats.MappedCompanyRecords
 	var unMappedSectors []string
 	sectorMap := data.GetIndustryMapping()
 	newSectorCompanyMapping := data.GetNewSectorMapping("files/newSector.txt")
@@ -74,7 +74,7 @@ func MapSectors(records []*formats.Record) ([]*formats.NewCompanyRecord, []strin
 			continue
 		}
 
-		result := &formats.NewCompanyRecord{
+		result := &formats.MappedCompanyRecord{
 			CompanyId: companyId,
 			Sector:    mappedIndustries,
 		}

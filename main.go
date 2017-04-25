@@ -5,11 +5,40 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
+	"sort"
+	"strconv"
 	"strings"
 
 	"github.com/zling/zi-goproject/data"
+	"github.com/zling/zi-goproject/formats"
 	"github.com/zling/zi-goproject/mappers"
 )
+
+func getCeoRatingAndNumberOfVotes(records []*formats.Record, resultMap map[string]*formats.MappedCompanyRecord) formats.MappedCompanyRecords {
+	var ceoList formats.MappedCompanyRecords
+
+	for _, record := range records {
+		companyId := record.CompanyId
+		rating, err := strconv.Atoi(record.CeoRating)
+		if err != nil {
+			panic(err)
+		}
+		numberOfVotes, err := strconv.Atoi(record.TotalNumberOfCeoRatings)
+		if err != nil {
+			panic(err)
+		}
+		value, ok := resultMap[companyId]
+		if !ok {
+			continue
+		} else {
+			value.Rating = rating
+			value.NumberOfVotes = numberOfVotes
+			ceoList = append(ceoList, value)
+		}
+	}
+
+	return ceoList
+}
 
 func main() {
 	records := data.GetCompanyRawRecords("files/company_list.txt")
@@ -19,6 +48,14 @@ func main() {
 	sectorMapped, unMappedSectors := mappers.MapSectors(records)
 
 	result := mappers.CombineCityAndSectorMapped(cityMapped, sectorMapped)
+
+	ceoList := getCeoRatingAndNumberOfVotes(records, result)
+
+	sort.Sort(ceoList)
+
+	for _, ceo := range ceoList {
+		fmt.Println("%d : %d", ceo.Rating, ceo.NumberOfVotes)
+	}
 
 	fmt.Println(len(cityMapped))
 
