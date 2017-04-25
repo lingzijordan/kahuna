@@ -60,6 +60,7 @@ func GetCityMapping() map[string]string {
 		"Burlington":          "Burlington",
 		"Montreal":            "Montreal",
 		"Kansas City":         "Kansas City",
+		"Kansas city":         "Kansas City",
 		"Scottsdale":          "Scottsdale",
 		"Melbourne":           "Melbourne",
 		"Omaha":               "Omaha",

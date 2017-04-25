@@ -6,7 +6,7 @@ type MappedCompanyRecord struct {
 	Sector        []string
 	Rating        int
 	NumberOfVotes int
-	isWinner      bool
+	IsWinner      bool
 }
 
 type MappedCompanyRecords []*MappedCompanyRecord

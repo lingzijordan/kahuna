@@ -1,0 +1,3875 @@
+887904	true	100	73		Consulting & Business Services
+12058939	true	100	55		Travel & Hospitality
+12305182	true	100	54		Consulting & Business Services
+318530	true	100	33		Consulting & Business Services
+129314	true	100	30	Atlanta	Food & Beverages
+199703	true	100	26	Dallas	Retail & Ecommerce
+11884959	true	100	26	Seattle	
+1187162	true	100	25		Energy & Utilities
+500965	true	100	20		Retail & Ecommerce
+12060111	true	100	20	Mumbai	
+324124	true	100	20		Real Estate & Construction
+206187	true	100	20	Pittsburgh	Real Estate & Construction
+1536190	true	100	19	Nashville	Consulting & Business Services
+380709	true	100	19		Consulting & Business Services
+132371	true	100	19		Pharma & Biotech
+125737	true	100	19	Indianapolis	Hardware & Equipment
+8142793	true	100	16	Silicon Valley	
+191482	true	100	16		Pharma & Biotech
+365638	true	100	15		Health Care
+135205	true	100	15	Philadelphia	Transportation & Warehousing
+127025	true	100	15		Consulting & Business Services
+136177	true	100	15	Washington	
+151356	true	100	14		Health Care
+156059	true	100	14	Silicon Valley	Health Care
+397826	true	100	13	Dallas	
+152043	true	100	13		Consulting & Business Services
+1576630	true	100	13		Media & Entertainment
+384486	true	100	13		Consulting & Business Services
+141340	true	100	13	Silicon Valley	
+6711272	true	100	13		Personal & Household Goods
+670520	true	100	13		Consulting & Business Services
+100195	true	100	12	Scottsdale	
+680893	true	100	12	Salt Lake City	
+9711721	true	100	12	Mumbai	
+12022133	true	100	12		Food & Beverages
+315416	true	100	11		Real Estate & Construction
+1576625	true	100	11		Consulting & Business Services
+12057784	true	100	11	Mumbai	Education
+3325117	true	100	11		Retail & Ecommerce
+171659	true	100	11		Hardware & Equipment
+2672372	true	100	11		Consulting & Business Services
+11275464	true	100	11	Silicon Valley	
+483899	true	100	11	Mumbai	
+486140	true	100	11	San Francisco	Real Estate & Construction
+129718	true	100	11		Telecommunications
+4383822	true	100	11	San Francisco	
+1491174	true	100	11		Media & Entertainment
+4426456	true	100	10		Retail & Ecommerce
+1849793	true	100	10	New York	
+269633	true	100	10		Energy & Utilities
+229324	true	100	10		Media & Entertainment
+137038	true	100	10	Cambridge	
+105831	true	100	10	Boston	Consulting & Business Services
+100145	true	100	10	Atlanta	Consulting & Business Services
+579107	true	100	10		Transportation & Warehousing
+1159208	true	100	10		Consulting & Business Services
+158897	true	98	58		Automobile
+217151	true	98	57	Omaha	Health Care
+146281	true	98	51		Food & Beverages
+1395949	true	98	37	Austin	Artificial Intelligence
+1274197	true	98	32		Consulting & Business Services
+9218914	true	98	31		Consulting & Business Services
+131208	true	98	26	Minneapolis	
+135705	true	98	26	Columbus	Real Estate & Construction
+680750	true	98	14	San Francisco	
+145427	true	97	52	San Francisco	
+167237	true	97	42		Consulting & Business Services
+209172	true	97	38		Pharma & Biotech
+124269	true	97	22	Silicon Valley	
+164143	true	97	21		Telecommunications
+1618558	true	97	21		Health Care
+173519	true	97	20	Los Angeles	
+425317	true	97	19		Health Care
+299895	true	97	19	Philadelphia	Transportation & Warehousing
+1856372	true	97	17	London	
+124745	true	97	17	Silicon Valley	
+149277	true	97	17	New York	Real Estate & Construction
+887393	true	96	576		Education
+12124752	true	96	136	Seattle	Transportation & Warehousing
+129977	true	96	111		Real Estate & Construction
+418399	true	96	102	Mumbai	Telecommunications
+166862	true	96	65	New York	Media & Entertainment
+180016	true	96	51		Travel & Hospitality
+243075	true	96	34	New York	Media & Entertainment
+12048509	true	96	33	Silicon Valley	
+379564	true	96	25	San Francisco	
+268922	false	96	25	Mumbai	
+1168669	true	96	25		Travel & Hospitality
+696654	true	96	24	New York	
+280397	true	96	16		Consulting & Business Services
+128310	true	96	15	New York	
+127943	true	96	15		Hardware & Equipment
+159227	true	96	15		Real Estate & Construction
+679604	true	96	15	New York	
+127401	true	96	15	Cambridge	Pharma & Biotech
+134229	true	96	15		Food & Beverages
+172065	true	96	14	Silicon Valley	Consulting & Business Services
+211340	true	96	14		Consulting & Business Services
+361131	true	96	14		Retail & Ecommerce
+12047577	true	96	14	Toronto	Consulting & Business Services
+126283	true	96	13	Chicago	Consulting & Business Services
+135359	true	96	13	Chicago	Telecommunications
+496434	true	96	13		Consulting & Business Services
+7184823	true	96	13		Consulting & Business Services
+130234	true	96	13	Silicon Valley	Hardware & Equipment
+102038	true	96	13	San Francisco	
+8145153	true	96	13	San Francisco	
+125019	true	96	13	Austin	
+1372049	true	96	12	New York	
+249677	true	96	12	New York	
+126916	true	96	11		Pharma & Biotech
+129458	true	96	11	Pittsburgh	
+138084	true	95	288		Automobile
+124076	true	95	265	Scottsdale	Telecommunications
+188233	true	95	100		Industrial Goods
+234683	true	95	76		Education
+158203	true	95	30	Salt Lake City	Consulting & Business Services
+382857	false	95	29		Consulting & Business Services
+4374480	true	95	23		Telecommunications
+135221	true	95	23	Dallas	Energy & Utilities
+139288	true	95	22	Austin	Energy & Utilities
+169007	true	95	21		Food & Beverages
+133958	true	95	20		Retail & Ecommerce
+127644	true	95	20	San Francisco	
+263634	true	95	20		Travel & Hospitality
+103358	true	95	20	Las Vegas	
+125111	true	95	19	New York	Consulting & Business Services
+140118	true	95	12	Seattle	
+140933	true	95	12	New York	
+142954	true	95	12	San Diego	Media & Entertainment
+178403	true	95	12		Automobile
+697636	true	95	12		Pharma & Biotech
+149538	true	95	12	Montreal	
+122577	true	95	12	Silicon Valley	
+135670	true	95	12		Energy & Utilities
+128539	true	95	12		On Demand Economy
+194228	true	95	12		Retail & Ecommerce
+1395832	true	95	11	Irvine	Transportation & Warehousing
+123465	false	95	11		Consulting & Business Services
+139979	true	95	11	Silicon Valley	
+152298	true	95	11	London	Consulting & Business Services
+169726	true	95	11	Miami	Education
+1831596	true	95	11	San Francisco	
+142103	true	95	11		Media & Entertainment
+707356	true	95	11	Boston	Consulting & Business Services
+982967	false	95	11		Consulting & Business Services
+123122	false	95	10	Mumbai	Consulting & Business Services
+135797	true	95	10		Health Care
+211394	true	95	10	Silicon Valley	Consulting & Business Services
+489558	true	95	10		Health Care
+1837947	true	95	10	Austin	
+190047	true	95	10	Silicon Valley	
+4442983	true	95	10	New Delhi	Consulting & Business Services
+130021	true	95	10	New York	Media & Entertainment
+128760	true	95	10	Silicon Valley	
+2991940	true	95	10	Birmingham	
+1668547	true	95	10	San Antonio	Health Care
+142834	true	95	10	New York	Retail & Ecommerce
+392042	false	95	10		Consulting & Business Services
+414765	true	95	10	Dallas	Consulting & Business Services
+112859	false	95	10		Consulting & Business Services
+1404705	true	95	10	Cambridge	Pharma & Biotech
+547738	true	95	10		Industrial Goods
+265256	true	95	10	Silicon Valley	
+1894159	true	95	10	Silicon Valley	
+428864	true	95	10		Real Estate & Construction
+213606	true	95	10		Transportation & Warehousing
+1575054	true	95	10	Atlanta	
+123612	true	94	629		Retail & Ecommerce
+129905	true	94	94		Food & Beverages
+196591	true	94	52		Retail & Ecommerce
+135285	true	94	41	Miami	Real Estate & Construction
+132195	true	94	38	San Antonio	
+128462	true	94	29		Health Care
+129784	true	94	28		Health Care
+128597	true	94	27		Personal & Household Goods
+109513	true	94	27	Fort Worth	Media & Entertainment
+185288	true	94	27		Health Care
+261157	true	94	26	Mumbai	Energy & Utilities
+247635	true	94	26		Automobile
+127212	true	94	26		Hardware & Equipment
+141833	false	94	25		Consulting & Business Services
+580133	true	94	19		Retail & Ecommerce
+123121	true	94	18		Banking
+1831768	true	94	17	New York	
+382844	true	94	17		Telecommunications
+123457	true	94	17	Dallas	Consulting & Business Services
+149009	true	94	17	Kansas City	
+258682	true	94	17	Mumbai	Travel & Hospitality
+163452	true	94	17	Denver	
+135132	true	93	729	Atlanta	Transportation & Warehousing
+128614	true	93	80		Automobile
+148382	true	93	63		Food & Beverages
+128979	true	93	45		Pharma & Biotech
+182799	true	93	33	Chicago	
+157973	true	93	32		Transportation & Warehousing
+369505	false	93	31		Consulting & Business Services
+138126	true	93	29		Personal & Household Goods
+492462	true	93	28	Tampa	
+144811	true	93	22	Silicon Valley	
+185864	true	93	22		Real Estate & Construction
+186390	true	93	21	Silicon Valley	SaaS
+286415	true	93	16	Silicon Valley	
+138521	true	93	16		Telecommunications
+290801	false	93	16		Consulting & Business Services
+1414399	true	93	16	Silicon Valley	
+159547	true	93	16	New York	Consulting & Business Services
+136398	true	93	16		Media & Entertainment
+249339	false	93	15	Mumbai	
+198406	true	93	15		Education
+135125	true	93	15	San Antonio	Energy & Utilities
+176552	true	93	15	Vancouver	
+235998	true	93	14	New Delhi	
+143225	true	93	13	Chicago	Consulting & Business Services
+131672	true	92	685		Travel & Hospitality
+143853	true	92	377		Real Estate & Construction
+135554	true	92	73	Houston	Energy & Utilities
+137349	true	92	70		Personal & Household Goods
+129657	true	92	53		Hardware & Equipment
+135454	true	92	51	Louisville	Food & Beverages
+198439	false	92	47	Mumbai	
+264239	false	92	28		Consulting & Business Services
+182261	true	92	27		Automobile
+210262	true	92	26		Real Estate & Construction
+8238082	true	92	25	Denver	
+143696	true	92	25	Boston	Consulting & Business Services
+1838056	true	92	24	New Delhi	Personal & Household Goods
+1871973	true	92	24		Personal & Household Goods
+123498	true	92	23	Silicon Valley	Consulting & Business Services
+113615	true	92	22		Retail & Ecommerce
+184619	true	92	21		Transportation & Warehousing
+114225	true	92	21	Cambridge	
+459263	true	92	19		Health Care
+157335	true	92	19	Atlanta	
+1552194	true	92	19		Health Care
+495852	true	92	17	Toronto	Media & Entertainment
+133248	true	92	14		Automobile
+127825	true	92	14		Personal & Household Goods
+127018	true	92	14		Automobile
+493546	true	92	14	Silicon Valley	
+185779	true	92	14		Education
+12015445	true	92	14	New York	
+137189	true	92	14	San Francisco	
+135762	true	92	13	San Antonio	Retail & Ecommerce
+1284496	true	92	13	Irvine	Consulting & Business Services
+141124	true	92	13	Silicon Valley	
+152275	true	92	13	London	
+301478	true	92	13		Media & Entertainment
+151458	true	92	13		Pharma & Biotech
+1575901	true	92	13	New York	
+136978	true	92	13	Omaha	Real Estate & Construction
+264821	true	92	13		Telecommunications
+124521	false	92	13		Consulting & Business Services
+122248	false	92	13		Consulting & Business Services
+8796427	false	92	13		Consulting & Business Services
+156377	true	92	13		Health Care
+695416	false	92	12		Consulting & Business Services
+495870	true	92	12	San Francisco	
+359669	true	92	12	Silicon Valley	SaaS
+125573	true	91	732		Pharma & Biotech
+131675	true	91	423	Chicago	Travel & Hospitality
+125275	true	91	197		Health Care
+137209	true	91	120		Telecommunications
+145274	true	91	111	New York	Real Estate & Construction
+125916	true	91	87	Denver	SaaS
+135810	true	91	74		Media & Entertainment
+127590	true	91	63		Health Care
+135189	true	91	54		Energy & Utilities
+132112	true	91	53	Houston	
+108991	true	91	51	New York	Media & Entertainment
+201148	true	91	36		SaaS
+130606	true	91	35	Chicago	Consulting & Business Services
+150756	true	91	35		Real Estate & Construction
+127613	false	91	34		Consulting & Business Services
+12039072	true	91	30	Silicon Valley	
+680530	true	91	30		Real Estate & Construction
+199936	true	91	29	Houston	Real Estate & Construction
+132187	true	91	24	Minneapolis	Health Care
+170874	true	91	24		Retail & Ecommerce
+140894	true	91	23	New York	
+1175950	true	91	23	Charlotte	Health Care
+191234	true	91	23	Austin	
+208915	true	91	23		Travel & Hospitality
+177105	true	91	22	Silicon Valley	Health Care
+128466	true	91	22	London	
+130659	true	91	21	Columbus	Energy & Utilities
+140757	true	91	20	Pittsburgh	
+677844	true	91	18	Minneapolis	
+155929	true	91	18		Media & Entertainment
+154510	true	91	18	Columbus	Consulting & Business Services
+487814	true	91	17	Boston	Media & Entertainment
+144712	true	91	17	Sydney	
+4868617	true	91	17		Retail & Ecommerce
+178797	true	91	17	Atlanta	
+144350	true	91	17	Indianapolis	
+201320	true	91	17		Energy & Utilities
+102209	true	91	16	Silicon Valley	Hardware & Equipment
+102130	true	91	16	Seattle	Retail & Ecommerce
+124755	true	91	15	Boston	
+180052	true	91	15		SaaS
+117146	true	91	13		SaaS
+324243	false	91	12		Consulting & Business Services
+180323	true	91	12		Health Care
+360567	true	91	12	Scottsdale	Real Estate & Construction
+493957	true	91	12		Health Care
+357222	true	91	12	Silicon Valley	
+215009	false	91	12		Consulting & Business Services
+140524	true	91	12		Media & Entertainment
+1577319	true	91	12		Energy & Utilities
+12063450	true	91	12		Telecommunications
+268111	true	91	12		Transportation & Warehousing
+281265	true	91	12	San Diego	
+1297416	true	91	12		Energy & Utilities
+140923	true	91	12	San Francisco	Consulting & Business Services|Artificial Intelligence
+136292	true	91	12		Transportation & Warehousing
+6795465	false	91	12		Consulting & Business Services
+128695	false	91	12		Consulting & Business Services
+698830	true	91	12	New York	Consulting & Business Services
+197268	true	91	12		Health Care
+123768	true	91	10	Silicon Valley	
+261354	true	91	10	San Francisco	
+176551	true	91	10	Irvine	
+164023	true	91	10	San Francisco	
+135756	true	90	93	Birmingham	
+132156	true	90	55	Toronto	Hardware & Equipment
+135757	true	90	53	Chicago	Food & Beverages
+119646	false	90	51		Consulting & Business Services
+130693	true	90	46		Telecommunications
+146225	true	90	36	Toronto	
+128438	true	90	35		Media & Entertainment
+120993	true	90	33	New York	Consulting & Business Services
+150200	true	90	31	San Francisco	
+139995	true	90	31	San Francisco	Consulting & Business Services
+130349	true	90	21	Silicon Valley	SaaS
+175584	true	90	21	Las Vegas	Travel & Hospitality
+136801	true	90	20		SaaS
+131906	true	90	20	Minneapolis	Health Care
+139650	true	90	20	Cambridge	Pharma & Biotech
+1538576	true	90	19	Silicon Valley	
+12267873	true	90	16	Minneapolis	
+1180653	true	90	16		Industrial Goods
+139161	true	90	16	Silicon Valley	Personal & Household Goods
+131617	true	90	16		Retail & Ecommerce
+176873	false	90	16		Consulting & Business Services
+281353	true	90	16	New York	Consulting & Business Services
+165334	true	90	16		Telecommunications
+1819120	true	90	16	Silicon Valley	Education
+136947	true	90	15		Energy & Utilities
+122406	true	90	15	Cleveland	Consulting & Business Services
+122335	true	90	15	Irvine	Retail & Ecommerce
+12029790	true	90	15	New York	
+2549836	true	90	15	New York	Consulting & Business Services
+144282	true	90	15	London	Energy & Utilities
+1127737	true	90	15	Atlanta	Consulting & Business Services
+137491	true	90	11	San Francisco	
+2238933	true	90	11		Health Care
+1577473	true	90	11		Food & Beverages
+12156739	true	90	11	San Francisco	
+173829	true	90	11	Silicon Valley	Consulting & Business Services
+210656	true	90	11		Telecommunications
+133819	true	90	11	Silicon Valley	Energy & Utilities
+107250	false	90	11	New York	
+1531619	true	90	11	Chicago	
+101864	false	90	11	New York	Consulting & Business Services
+188588	true	90	11		Personal & Household Goods
+1180632	true	90	11	Cambridge	Pharma & Biotech
+221528	true	90	11		Retail & Ecommerce
+166517	true	90	11	Phoenix	Retail & Ecommerce
+214585	true	90	11	New York	Food & Beverages
+135407	true	90	11	Boston	Consulting & Business Services
+123262	true	90	11	Birmingham	
+147466	true	90	11		Education
+697481	true	90	10	San Francisco	Retail & Ecommerce
+106443	true	90	10	San Francisco	Travel & Hospitality
+4488118	false	90	10	Mumbai	
+219560	true	90	10		Industrial Goods
+166076	true	90	10	San Francisco	Pharma & Biotech
+1861644	true	90	10	Silicon Valley	
+133474	false	90	10		Consulting & Business Services
+139505	true	90	10	Silicon Valley	Pharma & Biotech
+123393	true	90	10	Charlotte	Consulting & Business Services
+124135	true	90	10	Silicon Valley	Hardware & Equipment
+170458	false	90	10	New York	
+208020	false	90	10	New York	Consulting & Business Services
+224488	false	90	10	New York	
+101236	false	90	10	Mumbai	
+135196	false	90	10		Consulting & Business Services
+5008781	true	90	10	San Francisco	
+1630060	true	90	10	Melbourne	
+3239587	true	90	10		Retail & Ecommerce
+1178385	false	90	10	New York	
+196653	true	90	10	Portland	
+139124	true	90	10		Food & Beverages
+224734	true	90	10		Travel & Hospitality
+12121972	false	90	10		Consulting & Business Services
+141667	true	90	10	Denver	
+8902064	false	90	10		Consulting & Business Services
+126893	true	90	10	Silicon Valley	Media & Entertainment
+4252589	true	90	10	Silicon Valley	
+429619	true	90	10		Transportation & Warehousing
+138389	true	90	10	Kansas City	
+151422	true	90	10		Travel & Hospitality
+1383786	true	90	10	San Francisco	
+122290	true	90	10	Silicon Valley	
+1284225	true	90	10		Travel & Hospitality
+180305	true	90	10	Irvine	Health Care
+126067	true	89	382		Automobile
+135145	true	89	119		Retail & Ecommerce
+132611	true	89	105		Food & Beverages
+165767	true	89	104	London	
+135294	true	89	93	Atlanta	
+126740	true	89	81	Silicon Valley	Hardware & Equipment|Artificial Intelligence
+122126	true	89	70	Houston	
+135777	true	89	58	Houston	Consulting & Business Services
+127758	true	89	47		Hardware & Equipment
+195441	true	89	43	New Delhi	Automobile
+134424	true	89	39		Real Estate & Construction
+138083	true	89	32		Personal & Household Goods
+141605	true	89	32	San Francisco	
+153308	true	89	29		Travel & Hospitality
+100766	true	89	27	New York	Banking
+166288	false	89	23		Health Care
+221934	true	89	23	Silicon Valley	
+12113633	true	89	22	Montreal	
+122373	true	89	22	San Diego	
+141283	true	89	19	London	
+147366	true	89	19	Jacksonville	Health Care
+5218064	true	89	19		Transportation & Warehousing
+135646	true	89	19		Travel & Hospitality
+135138	true	89	19	Miami	Energy & Utilities
+132649	true	89	19		Energy & Utilities
+1633441	true	89	19	Atlanta	
+1185161	true	89	15	New Delhi	
+123203	true	89	14	Silicon Valley	
+1469703	true	89	14	Seattle	
+149855	true	89	14		Industrial Goods
+372561	true	89	14		Real Estate & Construction
+224436	true	89	14		Travel & Hospitality
+124800	true	89	14	London	SaaS
+120076	true	89	14	Brooklyn	Media & Entertainment
+183941	true	89	14	San Diego	
+172918	true	89	14	Montreal	Consulting & Business Services|On Demand Economy
+365093	false	89	14	Cambridge	
+1670968	true	89	14		Automobile
+135734	true	89	14	Silicon Valley	Health Care
+218332	true	89	14	Sydney	
+141606	true	89	13	Chicago	Health Care
+204605	false	89	13	New York	
+155419	true	89	13	Chicago	
+140427	false	89	13		Consulting & Business Services
+182180	true	89	12		Energy & Utilities
+179635	true	89	12	Melbourne	
+159964	true	88	245		Automobile
+101070	true	88	202	Raleigh	Internet of Things
+134899	true	88	182		Travel & Hospitality
+125644	true	88	80		Retail & Ecommerce
+135739	true	88	75	Atlanta	Media & Entertainment
+130026	true	88	70		Retail & Ecommerce
+159534	true	88	52		Media & Entertainment
+170476	true	88	37		Real Estate & Construction
+139860	true	88	32		Telecommunications
+1857019	true	88	30		Industrial Goods
+150152	true	88	30		Telecommunications
+135313	true	88	27	New York	Personal & Household Goods
+127520	true	88	27		Industrial Goods
+126800	true	88	26	Montreal	Consulting & Business Services
+124457	true	88	22	Silicon Valley	
+126119	true	88	21	Chicago	
+11372647	true	88	18	Silicon Valley	
+144095	true	88	18	Silicon Valley	
+134168	true	88	18	New York	Real Estate & Construction
+135262	true	88	18		Real Estate & Construction
+316663	false	88	17		Consulting & Business Services
+4812898	false	88	17	New York	
+225244	true	88	17	San Francisco	
+129034	true	88	17		Food & Beverages
+1723824	false	88	17		Health Care
+461106	true	88	16	Denver	Consulting & Business Services
+192667	true	88	16	Denver	
+1532749	false	88	15	New York	Consulting & Business Services
+706366	false	88	13		Health Care
+12239934	true	88	13	Boston	
+123316	false	88	13	Atlanta	
+1285541	true	88	13	Toronto	
+194156	true	88	13		Pharma & Biotech
+142065	true	88	13	Scottsdale	
+143368	true	88	13	Los Angeles	Education
+141725	true	88	13		On Demand Economy
+12016049	true	88	13	Silicon Valley	
+135620	false	88	13	New York	
+139485	true	88	13	San Diego	Transportation & Warehousing
+370706	true	88	13	Vancouver	
+135853	false	88	13		Health Care
+714881	false	88	13		Consulting & Business Services
+706315	true	88	12	San Francisco	Pharma & Biotech
+100107	true	88	12	San Francisco	Media & Entertainment
+496313	true	88	12	Silicon Valley	
+123467	true	88	12	New York	Media & Entertainment
+140771	false	88	12	New York	
+114187	true	88	11	Seattle	Consulting & Business Services|SaaS
+126066	true	87	1291		Automobile
+100080	false	87	287	New York	Consulting & Business Services
+125452	true	87	174	San Francisco	Pharma & Biotech
+128732	true	87	109	Nashville	Health Care
+143500	true	87	64	Toronto	
+122917	true	87	41	San Francisco	SaaS
+100552	false	87	39	San Francisco	
+106145	true	87	35	Denver	
+109687	true	87	33	London	Retail & Ecommerce
+382895	true	87	33	Pittsburgh	Media & Entertainment
+135260	true	87	32		Energy & Utilities
+1182827	true	87	31	Boston	
+12119534	true	87	31		Transportation & Warehousing
+123639	false	87	31	New York	
+124202	true	87	31	San Diego	Health Care
+381451	true	87	28	Nashville	
+138759	true	87	27		Education
+1470661	true	87	24	Austin	Consulting & Business Services
+135795	true	87	24		Energy & Utilities
+223412	false	87	24	Mumbai	
+189555	true	87	23		Personal & Household Goods
+211805	false	87	21	Silicon Valley	
+170923	true	87	20	London	
+222896	false	87	20		Media & Entertainment
+1287467	true	87	19	Philadelphia	
+6127013	false	87	19	Silicon Valley	
+12020662	false	87	19		Media & Entertainment
+173024	true	87	16		Telecommunications
+215398	true	87	16	Irvine	Real Estate & Construction
+135093	true	87	16	Chicago	Consulting & Business Services
+1425688	false	87	16		Consulting & Business Services
+323964	true	87	16	London	Consulting & Business Services
+121329	false	87	13	San Francisco	Media & Entertainment
+189674	true	87	13		Pharma & Biotech
+125413	true	87	12	Silicon Valley	Hardware & Equipment
+132843	true	87	12	Atlanta	Transportation & Warehousing
+135302	true	87	12	Denver	Food & Beverages
+257782	false	87	12	New York	Media & Entertainment
+12039534	false	87	12		Consulting & Business Services
+12217111	false	87	12	Silicon Valley	
+190633	true	87	12		Food & Beverages
+198611	false	87	12	New York	Consulting & Business Services
+125087	true	87	12	Seattle	Consulting & Business Services
+126048	true	87	12	San Francisco	Consulting & Business Services|SaaS
+204831	false	87	12	San Francisco	
+217063	true	87	12		Hardware & Equipment
+1157749	true	87	12		Internet of Things
+10013932	true	87	11	Chicago	Health Care
+1419055	true	87	11		Automobile
+114111	true	87	11	New York	Banking
+125109	false	87	11	Silicon Valley	Media & Entertainment
+264130	true	87	11	Charlotte	
+155556	true	87	10		Transportation & Warehousing
+386054	false	87	10		Health Care
+4498930	true	87	10	London	
+1173201	false	87	10		Retail & Ecommerce
+129442	true	86	509	London	Consulting & Business Services
+12117435	true	86	490	Boston	Consulting & Business Services
+145787	true	86	159	Toronto	
+125918	false	86	137	San Francisco	Real Estate & Construction
+129404	false	86	129		Retail & Ecommerce
+250875	true	86	70		Transportation & Warehousing
+128216	true	86	65		Industrial Goods|Internet of Things
+174349	true	86	55		Energy & Utilities
+254963	false	86	55		Retail & Ecommerce
+131662	true	86	44		Food & Beverages
+138658	true	86	43		Travel & Hospitality
+172128	true	86	43	Omaha	Real Estate & Construction
+107911	true	86	39	Chicago	
+164747	false	86	27	San Francisco	
+372543	false	86	26		Health Care
+8727148	true	86	25	Chicago	
+699809	true	86	25	New Delhi	Education|On Demand Economy
+106458	true	86	25		Industrial Goods
+362688	false	86	24		Media & Entertainment
+135284	true	86	23	Columbus	Retail & Ecommerce
+497551	true	86	23	San Francisco	On Demand Economy
+12147814	false	86	23		Health Care
+207202	true	86	22	Washington	
+12290802	true	86	22	Columbus	Energy & Utilities
+140751	true	86	22	Toronto	
+120074	false	86	22	New York	Consulting & Business Services
+12010715	false	86	22		Retail & Ecommerce
+100402	false	86	21	San Francisco	
+131448	true	86	19	San Diego	
+202599	true	86	19	Silicon Valley	SaaS
+135017	true	86	19	Houston	
+100647	true	86	19	Silicon Valley	SaaS
+2235951	false	86	19	San Francisco	
+219134	false	86	19	New York	
+135491	true	86	18		Energy & Utilities
+368268	false	86	18		Health Care
+191367	true	86	18	San Francisco	SaaS
+135638	true	86	18	Charlotte	Industrial Goods
+123093	true	86	18		SaaS
+125666	true	86	18		Pharma & Biotech
+100526	false	86	15	San Francisco	
+226693	true	86	15		Telecommunications
+415863	true	86	15		Food & Beverages
+187878	true	86	15		Automobile
+106528	true	86	15		SaaS
+226174	false	86	15	New Delhi	
+202039	true	86	15	London	Consulting & Business Services
+135932	false	86	15		Real Estate & Construction
+147206	true	86	15		Transportation & Warehousing
+123372	false	86	15	New York	
+134968	true	86	15	Los Angeles	
+129008	true	86	15	Salt Lake City	
+424813	true	86	15	Chicago	
+1844439	false	86	15	New York	Media & Entertainment
+324095	true	86	14		Transportation & Warehousing
+1622462	false	86	13	San Francisco	
+1279821	false	86	11		Retail & Ecommerce
+9715148	false	86	11	New York	Real Estate & Construction
+150184	true	86	11		Automobile
+383663	true	86	11	London	Consulting & Business Services
+151446	true	86	11	Scottsdale	
+216432	false	86	11		Consulting & Business Services
+124621	false	86	11		Consulting & Business Services
+375649	true	86	11		Food & Beverages
+1147491	true	86	11	Seattle	Travel & Hospitality
+9857757	true	86	11	London	Consulting & Business Services
+115284	true	86	11		Pharma & Biotech
+118503	false	86	11		Consulting & Business Services
+3391224	true	86	11	Vancouver	Transportation & Warehousing
+102551	false	86	11	Silicon Valley	Media & Entertainment
+229495	false	86	11	Silicon Valley	
+141467	true	86	11	Los Angeles	
+168306	true	86	11		Education
+153190	true	86	11	Austin	
+138330	false	86	11		Consulting & Business Services
+2241109	false	86	10		Consulting & Business Services
+1594383	true	86	10	Portland	
+363017	false	86	10		Media & Entertainment
+284636	true	86	10		Travel & Hospitality
+153231	true	86	10	Seattle	Retail & Ecommerce
+129033	true	85	141	Minneapolis	Food & Beverages
+144908	false	85	118		Real Estate & Construction
+230126	true	85	77	Austin	Consulting & Business Services
+184636	true	85	73		Personal & Household Goods
+128293	true	85	69		Travel & Hospitality
+194242	true	85	51		Industrial Goods
+133634	false	85	50		Health Care
+135222	true	85	41	Las Vegas	Travel & Hospitality
+203441	true	85	37		Pharma & Biotech
+101700	true	85	31	New York	Banking
+135135	true	85	30		Automobile
+137936	true	85	28	Houston	Energy & Utilities
+100035	true	85	28	San Francisco	Artificial Intelligence
+496281	false	85	28	New York	
+121145	true	85	28	Silicon Valley	Banking
+128167	false	85	27		Media & Entertainment
+117326	true	85	27	Denver	
+142761	false	85	25		Retail & Ecommerce
+212445	false	85	24	Silicon Valley	
+1398702	false	85	23		Consulting & Business Services
+169106	true	85	21	Silicon Valley	Hardware & Equipment
+121703	false	85	21		Media & Entertainment
+201564	true	85	20		Pharma & Biotech
+3875469	false	85	20	Mumbai	
+126267	false	85	20		Health Care
+119346	false	85	20	New York	Media & Entertainment
+133548	false	85	20		Consulting & Business Services
+1150653	false	85	20		Media & Entertainment
+490020	false	85	17	New York	
+212738	true	85	17		Industrial Goods
+125126	true	85	16		Telecommunications
+100067	true	85	15	Silicon Valley	Banking
+209888	true	85	15	New York	On Demand Economy
+153860	true	85	14		Education
+6411954	false	85	14	San Francisco	Consulting & Business Services
+1280052	true	85	14		Pharma & Biotech
+269999	true	85	14	Cincinnati	Industrial Goods
+201333	true	85	14	Seattle	
+12113639	false	85	14	Silicon Valley	
+180825	true	85	14	Boston	
+379652	false	85	14	San Francisco	
+1489734	false	85	14		Media & Entertainment
+135338	true	85	14	Cincinnati	Consulting & Business Services
+148834	false	85	14		Health Care
+1869158	true	85	14	Cambridge	Pharma & Biotech
+150201	true	85	14	Nashville	Consulting & Business Services
+1147295	false	85	13		Retail & Ecommerce
+336267	false	85	12		Retail & Ecommerce
+126338	true	85	12	Atlanta	Industrial Goods
+153151	false	85	10		Retail & Ecommerce
+164120	false	85	10	San Francisco	
+125005	false	85	10	San Francisco	
+106647	true	85	10	San Diego	
+142957	false	85	10	Silicon Valley	
+130708	false	85	10		Consulting & Business Services
+199506	true	85	10	London	Health Care
+184566	true	85	10	Jacksonville	Consulting & Business Services
+6569028	false	85	10		Consulting & Business Services
+190144	false	85	10		Retail & Ecommerce
+132016	true	85	10	Los Angeles	Consulting & Business Services
+141426	false	85	10	New York	
+174284	true	85	10		Transportation & Warehousing
+143202	false	85	10	San Francisco	
+185271	false	85	10	New Delhi	
+362695	true	85	10		Hardware & Equipment
+297354	true	85	10		Pharma & Biotech
+137259	false	85	10	Silicon Valley	
+179830	true	85	10	London	Energy & Utilities
+487358	true	85	10	Houston	Health Care
+1847530	false	85	10	New York	
+128284	true	85	10	Silicon Valley	Education
+12041128	true	85	10	Houston	
+6127284	true	85	10		Automobile
+238899	false	85	10	Mumbai	
+146383	false	85	10		Health Care
+115640	true	85	10	Chicago	Media & Entertainment
+217290	true	85	10		Automobile
+137380	false	85	10		Consulting & Business Services
+500376	false	85	10	Silicon Valley	
+10890583	false	85	10	New York	Real Estate & Construction
+101694	true	84	2198	Dallas	Telecommunications|Internet of Things
+100486	false	84	450	Silicon Valley	
+133152	false	84	245		Energy & Utilities
+125412	true	84	148	Dallas	Hardware & Equipment|Internet of Things
+123035	true	84	97	Silicon Valley	SaaS
+126263	true	84	72		Hardware & Equipment
+140857	false	84	47	Silicon Valley	
+129879	false	84	40		Health Care
+100206	true	84	38	Boston	Retail & Ecommerce
+133602	true	84	36		Travel & Hospitality
+106009	true	84	31	Silicon Valley	Education
+229854	true	84	26	London	
+229123	false	84	24	San Francisco	Consulting & Business Services
+124152	true	84	23	Denver	
+102415	false	84	22	San Francisco	Media & Entertainment
+219891	true	84	19	London	
+127846	false	84	19		Consulting & Business Services
+137218	true	84	19	Las Vegas	Travel & Hospitality
+127378	false	84	19		Retail & Ecommerce
+126812	true	84	19	Burlington	Health Care
+123726	false	84	19	New York	Consulting & Business Services
+140285	true	84	18		Telecommunications
+715551	true	84	16	Austin	
+1471117	false	84	16		Consulting & Business Services
+140012	false	84	16	Atlanta	
+368599	false	84	16	New York	
+135503	true	84	16		Industrial Goods
+7630608	false	84	16	San Francisco	
+199973	true	84	14	Jacksonville	Real Estate & Construction
+4489571	true	84	14	Seattle	Artificial Intelligence
+481595	false	84	13	San Francisco	
+139773	false	84	13	San Francisco	Health Care
+140900	false	84	13	San Francisco	
+1385472	false	84	13	San Francisco	
+142560	false	84	13	Irvine	
+138953	false	84	13		Health Care
+101752	false	84	13	San Francisco	
+272855	true	84	13	Orlando	Retail & Ecommerce
+138953	false	84	13		Health Care
+2485783	false	84	13	Atlanta	
+144292	false	84	13		Consulting & Business Services
+12124701	true	84	13		Transportation & Warehousing
+214819	false	84	13	San Francisco	Consulting & Business Services
+206926	false	84	13	Silicon Valley	
+124096	true	84	12	Houston	
+223642	true	84	12	Melbourne	Consulting & Business Services
+142296	true	84	11	Birmingham	
+100654	true	83	1938	San Francisco	SaaS|Artificial Intelligence|Internet of Things
+163922	false	83	401		Energy & Utilities
+123050	true	83	376	Atlanta	Transportation & Warehousing
+167059	true	83	281	London	Energy & Utilities
+133120	true	83	254	Minneapolis	Health Care
+136270	true	83	223		Travel & Hospitality
+124418	false	83	136	Seattle	Real Estate & Construction
+126010	false	83	134		Media & Entertainment
+100106	true	83	124	Boston	SaaS
+142358	false	83	56	Silicon Valley	Health Care
+1172156	false	83	50		Consulting & Business Services
+135681	false	83	45		Health Care
+102229	false	83	43	Silicon Valley	
+123536	false	83	40	Silicon Valley	
+135161	false	83	39		Energy & Utilities
+4380138	false	83	36	Mumbai	
+134702	false	83	33	New York	
+129309	true	83	33		Hardware & Equipment|Internet of Things
+147088	true	83	33	London	Consulting & Business Services
+125097	false	83	33	New York	Consulting & Business Services
+112573	false	83	31	San Francisco	
+117693	false	83	31	New York	Consulting & Business Services
+104298	false	83	30		Media & Entertainment
+1575753	false	83	30		Consulting & Business Services
+108881	true	83	29	London	
+293193	false	83	28		Consulting & Business Services
+135366	false	83	28	Columbus	
+133256	false	83	27	Houston	Energy & Utilities
+138630	false	83	27	New York	
+128641	true	83	27		Hardware & Equipment
+126183	true	83	27	Boston	SaaS
+1488758	true	83	25		Education
+163051	true	83	24	Dallas	Transportation & Warehousing
+119774	false	83	24	Atlanta	
+100976	true	83	21		SaaS
+128558	true	83	21	Philadelphia	Education
+130888	true	83	21	Cleveland	
+1819252	false	83	21	Silicon Valley	
+2156543	false	83	20	Mumbai	
+366782	false	83	20		Health Care
+711402	true	83	18	Vancouver	
+126342	false	83	18		Real Estate & Construction
+709452	false	83	18	Silicon Valley	
+418233	true	83	18	Chicago	
+12037790	false	83	18		Real Estate & Construction
+136448	false	83	18		Real Estate & Construction
+1007933	false	83	18	San Francisco	
+128886	false	83	18	Columbus	
+190749	false	83	17		Consulting & Business Services
+135625	true	83	15	Jacksonville	Retail & Ecommerce
+126194	true	83	15	Vancouver	Retail & Ecommerce
+175686	true	83	15	Fort Worth	
+205103	true	83	15		Industrial Goods
+199558	false	83	15	New York	Transportation & Warehousing
+193101	true	83	15	San Francisco	Education
+127342	false	83	15	New York	Health Care
+173136	false	83	13	Cambridge	
+124744	false	83	12	Seattle	
+12030202	true	83	12	Pittsburgh	
+191308	false	83	12	Mumbai	Pharma & Biotech
+118375	false	83	12	Silicon Valley	
+375490	false	83	12	San Francisco	Consulting & Business Services
+12224662	true	83	12	Minneapolis	
+124110	true	83	12	Boston	
+127859	false	83	12	Silicon Valley	
+266752	false	83	12		Health Care
+1395201	true	83	12	Chicago	Consulting & Business Services
+486953	false	83	12	Silicon Valley	Health Care
+701446	false	83	12		Travel & Hospitality
+206205	false	83	12	Mumbai	
+384315	false	83	12	New York	Consulting & Business Services
+486219	true	83	12		On Demand Economy
+317120	true	83	12	Fort Worth	Food & Beverages
+138269	false	83	12		Real Estate & Construction
+158382	true	83	12		Telecommunications
+1841074	false	83	12		Consulting & Business Services
+199696	false	83	12		Retail & Ecommerce
+129313	true	83	12	Louisville	Travel & Hospitality
+217575	false	83	12	New York	
+142538	false	83	12	New York	
+171890	false	83	12		Energy & Utilities
+101974	false	83	12	New York	
+382015	false	83	11	Seattle	
+147294	true	83	11	Orlando	Retail & Ecommerce
+105939	false	83	11	Silicon Valley	
+1176714	false	83	11	San Francisco	
+467877	false	83	11	San Francisco	
+9710844	false	83	11		Transportation & Warehousing
+138884	true	83	10	Washington	Consulting & Business Services
+126843	true	83	10	Boston	
+124586	true	82	206	London	Personal & Household Goods
+133592	true	82	101		Personal & Household Goods
+163419	true	82	90	Kansas City	
+123723	false	82	87	Silicon Valley	
+125495	false	82	75	Atlanta	
+157743	true	82	73	Kansas City	Real Estate & Construction
+103031	false	82	72	Silicon Valley	Media & Entertainment
+131021	true	82	68		Industrial Goods
+161193	false	82	49	San Francisco	
+128812	false	82	43		Travel & Hospitality
+132842	false	82	42		Transportation & Warehousing
+212112	false	82	40	Mumbai	
+124371	false	82	40	Silicon Valley	
+119454	true	82	37	Chicago	Consulting & Business Services
+130792	false	82	37	Houston	Energy & Utilities
+1416274	false	82	35		Consulting & Business Services
+130793	false	82	32	Columbus	Energy & Utilities
+133808	false	82	28	Silicon Valley	Energy & Utilities
+1186852	false	82	25	Silicon Valley	
+1188295	true	82	25	Washington	Internet of Things
+213596	true	82	25		Travel & Hospitality|On Demand Economy
+139156	false	82	25		Media & Entertainment
+135175	false	82	25		Transportation & Warehousing
+190292	true	82	24	San Francisco	Internet of Things
+129294	false	82	23		Energy & Utilities
+149621	false	82	23		Energy & Utilities
+153786	true	82	23	Chicago	Food & Beverages
+168273	false	82	23		Retail & Ecommerce
+1413972	true	82	22		Education
+135570	true	82	21	Los Angeles	Pharma & Biotech
+501487	true	82	20	Boston	
+125071	false	82	20	Silicon Valley	Pharma & Biotech
+151009	true	82	20		Retail & Ecommerce|On Demand Economy
+100296	true	82	20	Chicago	Consulting & Business Services
+139413	true	82	20	Melbourne	SaaS
+132077	false	82	20		Real Estate & Construction
+4868725	false	82	20	San Francisco	
+150134	true	82	19		Telecommunications
+140720	false	82	18	San Francisco	
+12226376	true	82	17	Indianapolis	
+114231	true	82	17		Banking
+132695	false	82	17	New York	Consulting & Business Services
+186063	true	82	17	Chicago	
+122705	false	82	17	Silicon Valley	
+134526	false	82	17	New York	
+115090	true	82	16	Los Angeles	
+143020	true	82	14		On Demand Economy
+211309	false	82	14	San Francisco	
+197866	false	82	14	Silicon Valley	
+1153416	true	82	14	Chicago	Consulting & Business Services
+197956	false	82	14		Media & Entertainment
+118373	false	82	14	New York	
+141925	false	82	14	Silicon Valley	
+112995	true	82	14		SaaS
+135438	true	82	14		Hardware & Equipment
+370381	false	82	14		Health Care
+1280780	true	82	14	Austin	
+1536587	true	82	14	London	
+135248	false	82	14		Real Estate & Construction
+131292	false	82	14	Denver	
+139215	true	82	14	Los Angeles	Media & Entertainment
+136011	true	82	14		Telecommunications
+126689	true	82	14		Telecommunications
+12053168	true	82	14	Portland	
+149537	true	82	14		Telecommunications|Internet of Things
+131198	true	82	13	Portland	Travel & Hospitality
+124589	true	82	12	Las Vegas	Retail & Ecommerce
+270794	false	82	11		Consulting & Business Services
+118053	false	81	369	Silicon Valley	Media & Entertainment
+149760	false	81	218		Pharma & Biotech
+131379	false	81	215	Silicon Valley	
+123305	true	81	107		SaaS
+178068	false	81	80		Real Estate & Construction
+132233	true	81	79	Chicago	
+133676	true	81	70	Toronto	
+233010	true	81	57		Retail & Ecommerce|On Demand Economy
+133042	false	81	53	New York	
+150676	false	81	49	San Francisco	
+103601	false	81	48		Consulting & Business Services
+154262	true	81	44	Silicon Valley	Personal & Household Goods
+12224300	false	81	38	London	
+130766	true	81	37		Automobile
+126478	true	81	35	Cambridge	SaaS|Artificial Intelligence
+122621	false	81	33	Silicon Valley	
+136788	false	81	33		Travel & Hospitality
+138533	true	81	32	Kansas City	Real Estate & Construction
+131594	false	81	32		Energy & Utilities
+198485	false	81	32	Mumbai	
+142582	false	81	31	Silicon Valley	
+148291	false	81	31		Health Care
+12014076	false	81	31	New Delhi	
+167624	false	81	30	Mumbai	Pharma & Biotech
+236419	false	81	29		Transportation & Warehousing
+132052	true	81	29	Orlando	Travel & Hospitality
+236419	false	81	29		Transportation & Warehousing
+132768	false	81	27		Energy & Utilities
+127515	true	81	26		Hardware & Equipment
+125811	false	81	24		Telecommunications
+127089	false	81	22	New York	Consulting & Business Services
+169354	false	81	22	London	Media & Entertainment
+12147237	false	81	22		Consulting & Business Services
+145963	false	81	22	Silicon Valley	
+125664	false	81	22		Pharma & Biotech
+1632537	true	81	22		Education
+135201	true	81	19	Cincinnati	
+135201	true	81	19	Cincinnati	
+141594	true	81	19	Silicon Valley	Consulting & Business Services|On Demand Economy
+130855	true	81	19		Personal & Household Goods
+309146	false	81	19	Chicago	Media & Entertainment
+103392	false	81	19		Consulting & Business Services
+1170563	false	81	19		Media & Entertainment
+187383	true	81	19		Food & Beverages
+5085609	false	81	19	New York	Media & Entertainment
+137136	true	81	19	Chicago	On Demand Economy
+154102	false	81	18	New York	
+143167	false	81	17	Austin	
+182196	false	81	16		Pharma & Biotech
+122121	false	81	16		Health Care
+164493	true	81	16	Dallas	SaaS
+1292973	false	81	16		Health Care
+1484621	false	81	16	San Francisco	
+184526	true	81	15	Melbourne	
+143181	false	81	15	New York	
+170414	false	81	15		Consulting & Business Services
+137653	false	81	14	Cambridge	
+164476	false	81	11		SaaS
+4598074	true	81	11	Los Angeles	Consulting & Business Services
+137590	false	81	11		Consulting & Business Services
+2519064	false	81	11	Silicon Valley	
+141378	false	81	11		Media & Entertainment
+367826	false	81	11	New York	
+202872	false	81	11	Pittsburgh	
+174486	false	81	11		Retail & Ecommerce
+134618	false	81	11	Silicon Valley	
+132263	false	81	11	Denver	Real Estate & Construction
+163104	true	81	11	Cleveland	
+208407	false	81	11	Vancouver	
+704474	false	81	11	London	
+142849	false	81	11	New York	Media & Entertainment
+1583959	false	81	11	New York	Travel & Hospitality
+184486	false	81	11	San Francisco	Travel & Hospitality
+171605	true	81	11		Industrial Goods
+12141508	false	81	11		Real Estate & Construction
+169536	false	81	11	Atlanta	Consulting & Business Services
+1175651	false	81	11	Chicago	
+1409520	false	81	11	Columbus	
+135896	false	81	11		Health Care
+142285	false	81	11	Cambridge	
+139540	true	81	11	Boston	Industrial Goods
+4366348	false	81	11		Health Care
+125848	true	81	11	San Francisco	Travel & Hospitality|On Demand Economy
+3935844	false	81	10		Consulting & Business Services
+110374	true	81	10	Boston	
+779508	false	81	10	Silicon Valley	
+418808	false	81	10		Health Care
+172049	true	81	10	London	Industrial Goods
+100202	false	81	10	Seattle	Retail & Ecommerce
+1537862	true	81	10	Chicago	Food & Beverages|On Demand Economy
+101412	true	80	1453	Seattle	Retail & Ecommerce|Artificial Intelligence|Internet of Things|On Demand Economy
+126201	true	80	1066		Industrial Goods|SaaS|Internet of Things
+131380	false	80	349	New York	
+102259	false	80	185		Telecommunications|SaaS
+100637	false	80	115		SaaS
+130873	true	80	109	San Antonio	Energy & Utilities
+157313	false	80	84		Consulting & Business Services
+132845	true	80	69	Charlotte	Food & Beverages
+123092	true	80	69		Hardware & Equipment
+190979	false	80	68		Travel & Hospitality
+135738	false	80	63		Health Care
+381572	false	80	63		Consulting & Business Services
+136335	true	80	62	Burlington	
+116507	false	80	58		Consulting & Business Services
+213691	false	80	55	San Francisco	Energy & Utilities
+100503	false	80	53	Silicon Valley	SaaS
+140690	false	80	41	London	
+124881	false	80	40		Travel & Hospitality
+127996	true	80	39	New York	Internet of Things
+7658889	false	80	35	Silicon Valley	
+1664283	false	80	35	Cambridge	
+125638	false	80	30	Silicon Valley	Real Estate & Construction
+124829	false	80	30	Chicago	
+125040	true	80	29	Boston	SaaS|Internet of Things
+128084	false	80	28	Chicago	Media & Entertainment
+126726	false	80	28		SaaS
+1185498	false	80	28	Silicon Valley	
+125796	false	80	26	Silicon Valley	
+123351	false	80	26		SaaS
+131861	true	80	25		Industrial Goods
+133362	false	80	25	New York	Food & Beverages
+142874	false	80	25	Silicon Valley	
+1195149	false	80	25	San Francisco	
+1386441	false	80	25	New Delhi	Transportation & Warehousing
+298775	true	80	25		Hardware & Equipment
+1395327	false	80	24	San Francisco	Consulting & Business Services
+375070	false	80	24	New York	
+172673	true	80	23	Silicon Valley	Internet of Things
+264540	false	80	23	London	
+100404	true	80	23		Consulting & Business Services|On Demand Economy
+149058	true	80	23	Raleigh	
+140243	true	80	23	Philadelphia	Health Care
+152513	false	80	23	New Delhi	
+135081	false	80	23		Food & Beverages
+128363	false	80	22		Health Care
+695006	true	80	22	Washington	
+123869	true	80	21	Cleveland	
+166045	true	80	21	Toronto	
+1530681	true	80	21	Boston	Real Estate & Construction
+130348	false	80	21		Consulting & Business Services
+132209	false	80	20		Health Care
+135329	false	80	20	Atlanta	Transportation & Warehousing
+138819	false	80	20	Silicon Valley	
+153036	true	80	19	Portland	Consulting & Business Services
+412985	false	80	19		Consulting & Business Services
+139746	false	80	19	San Francisco	
+134733	false	80	18		Transportation & Warehousing
+12213042	false	80	18	Seattle	Consulting & Business Services
+113517	false	80	18	Portland	
+133360	false	80	18	Irvine	Retail & Ecommerce
+373666	false	80	17		Media & Entertainment
+128279	false	80	17		Media & Entertainment
+103809	false	80	17	New York	Media & Entertainment
+126191	false	80	17	Vancouver	
+139797	true	80	16	Salt Lake City	Health Care
+217777	true	80	15	Orlando	
+9266052	true	80	15	Mumbai	Retail & Ecommerce|On Demand Economy
+128576	true	80	15		Hardware & Equipment
+141419	false	80	15		Health Care
+1475915	false	80	15	Cambridge	
+122520	false	80	15	New York	Media & Entertainment
+9713540	false	80	15		Health Care
+1415679	false	80	15	Silicon Valley	
+152591	false	80	14	London	
+219537	false	80	13	San Francisco	
+117507	false	80	13	San Francisco	
+277109	true	80	13	Boston	Real Estate & Construction
+733947	true	80	13	San Diego	Consulting & Business Services
+1174296	true	80	13	Dallas	Energy & Utilities
+140964	false	80	13	Silicon Valley	Retail & Ecommerce
+483007	true	80	13	Brooklyn	Consulting & Business Services|On Demand Economy
+1255531	true	80	13	Minneapolis	Consulting & Business Services
+135349	false	80	13		Consulting & Business Services
+135198	true	80	13	Los Angeles	
+736642	false	80	13	San Francisco	
+12010414	false	80	13		Transportation & Warehousing
+129352	true	80	13	Phoenix	Consulting & Business Services
+1148735	true	80	12		On Demand Economy
+12035782	false	80	12	Mumbai	Retail & Ecommerce
+170044	false	80	12	Silicon Valley	
+166935	false	80	12		Consulting & Business Services|SaaS
+5858586	false	80	12	Austin	
+290338	false	80	11	New York	Consulting & Business Services
+104254	false	80	11	San Francisco	
+125322	false	80	11	San Francisco	Retail & Ecommerce
+1657871	false	80	10	London	Media & Entertainment
+918835	true	80	10	Miami	Internet of Things
+938701	true	80	10	Orlando	
+8227296	true	80	10		Retail & Ecommerce|On Demand Economy
+115996	false	80	10	Silicon Valley	
+1574784	true	80	10	Sydney	Consulting & Business Services
+111246	false	80	10	Columbus	Consulting & Business Services
+1391874	false	80	10	London	
+402011	false	80	10	Seattle	
+500665	true	80	10	San Francisco	Education
+128035	false	80	10	Silicon Valley	Energy & Utilities
+357696	false	80	10	San Francisco	
+168291	false	80	10		Media & Entertainment
+2231402	false	80	10	Silicon Valley	
+133074	false	80	10		Consulting & Business Services
+133344	false	80	10		Food & Beverages
+419141	false	80	10		Consulting & Business Services
+131421	false	80	10	New York	Travel & Hospitality
+202320	false	80	10		Consulting & Business Services
+141335	true	80	10	Minneapolis	
+129872	true	80	10	Irvine	Hardware & Equipment
+370064	false	80	10	New York	Media & Entertainment
+217595	true	80	10	San Francisco	Education
+131165	true	80	10	Cambridge	Hardware & Equipment|Internet of Things
+142770	false	80	10	Vancouver	
+106159	false	80	10	San Francisco	
+9236427	false	80	10	New York	
+257898	false	80	10	Silicon Valley	
+122183	false	80	10	Silicon Valley	
+211092	true	80	10		Personal & Household Goods
+265246	false	80	10	London	Travel & Hospitality
+371600	true	80	10	Boston	Education|On Demand Economy
+129472	true	80	10	San Diego	Telecommunications
+689960	false	80	10	New York	
+100651	false	79	1528	Silicon Valley	SaaS|Artificial Intelligence|Internet of Things
+109133	false	79	510	Silicon Valley	SaaS
+105875	false	79	425		SaaS
+126427	false	79	226	Silicon Valley	Hardware & Equipment
+125319	false	79	200		Personal & Household Goods
+100650	false	79	110		Banking
+497325	false	79	104	Silicon Valley	
+135150	false	79	95		Automobile
+109499	false	79	78	San Francisco	SaaS
+129103	false	79	75		Retail & Ecommerce
+142886	false	79	74	Silicon Valley	
+1864596	false	79	74	Atlanta	Consulting & Business Services
+125684	false	79	69		Pharma & Biotech
+1170487	false	79	66		Industrial Goods
+208839	false	79	60		Telecommunications
+137473	false	79	58	New York	Consulting & Business Services
+111944	false	79	53		Consulting & Business Services
+156303	false	79	47	Dallas	Travel & Hospitality
+135136	false	79	43		Retail & Ecommerce
+135231	false	79	41		Retail & Ecommerce
+1575986	false	79	39		SaaS
+216123	false	79	39		Consulting & Business Services
+1482035	false	79	38	San Francisco	
+137329	false	79	36	New York	
+135400	false	79	36		Health Care
+100095	false	79	32	San Francisco	
+125709	false	79	32	San Francisco	
+134943	false	79	31	San Francisco	Artificial Intelligence
+223576	false	79	30	Mumbai	Telecommunications
+124567	false	79	29		Banking
+219967	false	79	28	New York	
+135876	false	79	28	San Francisco	Retail & Ecommerce
+129600	false	79	27		Consulting & Business Services
+128148	false	79	27		Transportation & Warehousing
+105775	false	79	26		Telecommunications
+130500	false	79	24		Pharma & Biotech
+482143	false	79	24	London	
+195708	false	79	24	Phoenix	
+123582	false	79	24	Silicon Valley	
+130500	false	79	24		Pharma & Biotech
+128874	false	79	22	Silicon Valley	
+114123	false	79	22	Silicon Valley	Banking
+244325	false	79	22		Retail & Ecommerce
+821243	false	79	22	San Francisco	SaaS
+122732	false	79	20	San Francisco	
+157948	false	79	20		Retail & Ecommerce
+100442	false	79	20	Tampa	
+714333	false	79	19		Media & Entertainment
+135814	false	79	17		Hardware & Equipment
+212344	false	79	17	Atlanta	
+141329	false	79	17	New York	
+12050156	false	79	17	Silicon Valley	
+261415	false	79	17	Silicon Valley	
+129400	false	79	17		Health Care
+681259	false	79	17	Irvine	
+148400	false	79	17		Travel & Hospitality
+217931	false	79	16	Silicon Valley	
+127932	false	79	16		Education
+4464493	false	79	16	Minneapolis	
+124866	false	79	16		Hardware & Equipment|SaaS
+1402475	false	79	15	Portland	
+126099	false	79	14	Silicon Valley	Telecommunications
+100247	false	79	13	San Francisco	Media & Entertainment
+121039	false	79	12		Media & Entertainment
+1479126	false	79	12	Mumbai	
+8227029	false	79	12		Automobile
+489626	false	79	12		Consulting & Business Services
+135368	false	79	12	Charlotte	Personal & Household Goods
+123680	false	79	12	Atlanta	Media & Entertainment
+700858	false	79	12	Denver	Real Estate & Construction
+135065	false	79	12	Silicon Valley	
+186540	false	79	12	London	Industrial Goods
+134335	false	79	12	Philadelphia	Pharma & Biotech
+1519701	false	79	12	Chicago	
+133868	false	79	12		Automobile
+1189946	false	79	12	San Francisco	Pharma & Biotech
+210863	false	79	12		Industrial Goods
+107296	false	79	12	Boston	Consulting & Business Services
+4409221	false	79	12		On Demand Economy
+101923	false	79	12	Austin	
+195163	false	79	12		Industrial Goods
+9486162	false	79	12		Retail & Ecommerce
+12022643	false	79	12	Silicon Valley	
+125421	false	79	12	Raleigh	
+135230	false	79	12	Fort Worth	Real Estate & Construction
+104772	false	79	12	San Francisco	
+704478	false	79	12		Hardware & Equipment
+137735	false	79	12		Food & Beverages
+140504	false	79	11	Washington	Consulting & Business Services
+131181	false	79	11		Artificial Intelligence
+177923	false	79	11	Boston	
+1190239	false	79	11	London	
+112355	false	79	11	Silicon Valley	
+121547	false	78	305	Silicon Valley	
+157863	false	78	137	Silicon Valley	Automobile|Artificial Intelligence
+104390	false	78	132	Seattle	
+131128	false	78	95	Charlotte	Energy & Utilities
+124779	false	78	66	Silicon Valley	SaaS
+131040	false	78	53		Media & Entertainment
+222734	false	78	48		Retail & Ecommerce
+113986	false	78	48	New York	Media & Entertainment
+135154	false	78	46	New York	Media & Entertainment
+615130	false	78	45	Silicon Valley	
+117603	false	78	44	Austin	
+100524	false	78	43	Silicon Valley	
+102181	false	78	42	New York	
+158809	false	78	37	Miami	Personal & Household Goods
+12218672	false	78	33		Hardware & Equipment
+133547	false	78	33		Real Estate & Construction
+101991	false	78	32		Consulting & Business Services
+131593	false	78	32		Energy & Utilities
+142460	false	78	29	San Francisco	
+184430	false	78	28		Transportation & Warehousing
+113976	false	78	28	Silicon Valley	
+142670	false	78	28	San Francisco	
+487748	false	78	27	London	
+100075	false	78	25	New York	
+127057	false	78	25		SaaS
+135736	false	78	23		Real Estate & Construction
+180719	false	78	23		Industrial Goods
+192832	false	78	23	Atlanta	
+171396	false	78	23	Toronto	Travel & Hospitality
+128362	false	78	21		Health Care
+137453	false	78	21	Pittsburgh	Real Estate & Construction
+1398106	false	78	21	Silicon Valley	Transportation & Warehousing
+1174249	false	78	21	Silicon Valley	
+1391677	false	78	20		Hardware & Equipment
+120550	false	78	20	Toronto	Education
+162939	false	78	19	Silicon Valley	
+494360	false	78	19		Health Care
+149862	false	78	19		Energy & Utilities
+632081	false	78	19		Education
+126158	false	78	19	San Diego	SaaS
+189663	false	78	19	Seattle	Real Estate & Construction
+9800930	false	78	19		Consulting & Business Services
+1187998	false	78	19	Silicon Valley	SaaS
+124856	false	78	19	Chicago	Consulting & Business Services
+1187998	false	78	19	Silicon Valley	SaaS
+101872	false	78	17		Personal & Household Goods
+139895	false	78	17	San Francisco	Travel & Hospitality|On Demand Economy
+116567	false	78	17	San Francisco	Travel & Hospitality|On Demand Economy
+262318	false	78	16		Personal & Household Goods
+196656	false	78	16	Chicago	Transportation & Warehousing
+156851	false	78	16		Education
+127266	false	78	16		Industrial Goods
+135209	false	78	16		Industrial Goods
+150971	false	78	16		Industrial Goods
+100575	false	78	16		Education
+123809	false	78	16	Silicon Valley	Banking
+1454727	false	78	16	Cambridge	Artificial Intelligence
+121107	false	78	16		Health Care
+139960	false	78	16	Silicon Valley	Hardware & Equipment
+379309	false	78	16	London	
+136671	false	78	15	San Francisco	
+122401	false	78	15	Phoenix	Consulting & Business Services
+1664614	false	78	15	San Francisco	
+125146	false	78	15	Silicon Valley	Pharma & Biotech
+12281122	false	78	14		Consulting & Business Services
+124678	false	78	14	Cincinnati	Retail & Ecommerce
+488743	false	78	14	New York	Consulting & Business Services
+238098	false	78	14	New York	
+1424519	false	78	14	Cambridge	Education
+636973	false	78	14	New York	Food & Beverages
+123169	false	78	14		Media & Entertainment
+1375398	false	78	14	San Francisco	
+1389182	false	78	14	London	
+105937	false	78	14	Silicon Valley	
+1169814	false	78	14	Mumbai	
+1190817	false	78	14		Retail & Ecommerce
+130088	false	78	13	San Francisco	
+130538	false	78	13	Minneapolis	
+1145489	false	78	13	Silicon Valley	
+1295800	false	78	13	San Francisco	
+103673	false	78	12	Toronto	
+136663	false	78	12	Boston	
+137390	false	78	12	Omaha	
+134026	false	78	12		Health Care
+363283	false	78	11	Silicon Valley	
+101935	false	77	1441		SaaS|Internet of Things
+124582	false	77	216	Cincinnati	Personal & Household Goods
+223735	false	77	175		Retail & Ecommerce
+126344	false	77	114	Silicon Valley	Pharma & Biotech
+155598	false	77	104		Telecommunications
+117262	false	77	102	Austin	
+12027724	false	77	79	Silicon Valley	
+131573	false	77	75	Toronto	Travel & Hospitality
+12017989	false	77	74		On Demand Economy
+122542	false	77	74		Health Care
+100497	false	77	74	Boston	Banking
+1171576	false	77	63	Philadelphia	Transportation & Warehousing
+128811	false	77	57		Travel & Hospitality
+208882	false	77	56	Mumbai	Real Estate & Construction
+135227	false	77	53		Energy & Utilities
+119551	false	77	52	Silicon Valley	
+126521	false	77	50		Telecommunications
+153216	false	77	47		Automobile
+125924	false	77	46	Boston	
+153567	false	77	38	Chicago	Transportation & Warehousing
+130686	false	77	36		Consulting & Business Services
+1186076	false	77	36	Silicon Valley	
+126345	false	77	35		Health Care
+125356	false	77	35		Media & Entertainment
+168272	false	77	34	Fort Worth	Health Care
+103959	false	77	34	Seattle	
+129306	false	77	34	San Diego	Travel & Hospitality
+117927	false	77	33	New York	
+135188	false	77	29	Birmingham	
+132549	false	77	27		Consulting & Business Services
+135532	false	77	27	Silicon Valley	Health Care
+122975	false	77	27	San Francisco	On Demand Economy
+100366	false	77	27	New York	
+127885	false	77	26	New York	Media & Entertainment
+139430	false	77	24	Silicon Valley	Hardware & Equipment
+148772	false	77	22		Energy & Utilities
+157933	false	77	22		Personal & Household Goods
+124349	false	77	21	San Francisco	Retail & Ecommerce
+369875	false	77	21	Sydney	
+164349	false	77	20		Food & Beverages
+158920	false	77	20	San Francisco	
+199780	false	77	20		Travel & Hospitality
+208980	false	77	20	Mumbai	
+249790	false	77	20	San Francisco	Media & Entertainment
+130537	false	77	18	Atlanta	
+218793	false	77	18		Industrial Goods
+212727	false	77	18	New York	Media & Entertainment
+1722973	false	77	18	Portland	
+100087	false	77	17	Silicon Valley	
+126658	false	77	17	Boston	
+988928	false	77	17	Silicon Valley	
+486273	false	77	11	London	
+4791068	false	77	11	San Francisco	
+164029	false	77	11	Montreal	
+12158318	false	77	11	Philadelphia	
+171819	false	77	11	Silicon Valley	Hardware & Equipment
+219668	false	77	11	Mumbai	
+159348	false	77	11	Chicago	
+178627	false	77	11		Consulting & Business Services
+130212	false	77	11	Atlanta	Education
+144340	false	77	11		Telecommunications
+137809	false	77	11	San Francisco	
+1397164	false	77	11		Health Care
+126199	false	77	11	Silicon Valley	
+7914281	false	77	11	Silicon Valley	
+132050	false	77	11		Personal & Household Goods
+157329	false	77	11		Real Estate & Construction
+144030	false	77	11		Consulting & Business Services
+454867	false	77	11		Pharma & Biotech
+115057	false	77	11	New York	Personal & Household Goods
+262338	false	77	11		Telecommunications
+1835091	false	77	11	London	
+106323	false	77	11		Consulting & Business Services
+198454	false	77	11		Health Care
+135258	false	77	11	Miami	Travel & Hospitality
+130153	false	77	11	Silicon Valley	Hardware & Equipment
+262925	false	77	11		Energy & Utilities
+5946626	false	77	11	Silicon Valley	
+10291545	false	77	11	Montreal	
+105841	false	77	11	Washington	
+126072	false	77	11	Atlanta	Consulting & Business Services
+495824	false	77	10	Silicon Valley	Consulting & Business Services
+319810	false	77	10		Retail & Ecommerce
+1582192	false	77	10	New York	Real Estate & Construction
+1373303	false	77	10	Silicon Valley	
+125994	false	77	10	Silicon Valley	Artificial Intelligence
+100978	false	76	2830		SaaS|Artificial Intelligence|Internet of Things
+102211	false	76	1368	Silicon Valley	Hardware & Equipment|SaaS|Internet of Things
+135108	false	76	442	Omaha	
+119273	false	76	364	Minneapolis	Health Care
+179759	false	76	141		SaaS
+150190	false	76	105		Health Care
+103944	false	76	95	Silicon Valley	SaaS
+128554	false	76	78	Silicon Valley	
+127745	false	76	69	New York	
+122971	false	76	64	Silicon Valley	Hardware & Equipment
+199417	false	76	54		Health Care
+123360	false	76	44		Consulting & Business Services
+196718	false	76	43	Silicon Valley	
+193521	false	76	41		Retail & Ecommerce
+100010	false	76	40	Chicago	Consulting & Business Services
+3760781	false	76	39		SaaS
+100052	false	76	35		Consulting & Business Services
+114229	false	76	34		Consulting & Business Services
+157544	false	76	34		Energy & Utilities
+182119	false	76	33	Salt Lake City	Consulting & Business Services
+482914	false	76	31	San Francisco	Consulting & Business Services
+114903	false	76	30	Miami	Health Care
+139659	false	76	30	San Diego	
+100547	false	76	28	San Francisco	Media & Entertainment
+167889	false	76	28		Education
+186596	false	76	27	San Francisco	Health Care
+103035	false	76	27		Media & Entertainment
+100509	false	76	26	Silicon Valley	
+191026	false	76	26	London	Energy & Utilities
+140470	false	76	25	Silicon Valley	SaaS
+160987	false	76	25	Vancouver	
+137985	false	76	25	Las Vegas	Consulting & Business Services
+125415	false	76	25		Hardware & Equipment
+200737	false	76	23	Austin	
+133469	false	76	21	Charlotte	
+134990	false	76	21	Denver	
+129336	false	76	21	London	Consulting & Business Services
+133961	false	76	19	New York	Retail & Ecommerce
+199248	false	76	19		Food & Beverages
+164827	false	76	19	New York	
+125072	false	76	19	Silicon Valley	
+374889	false	76	19	San Francisco	
+123583	false	76	18	Silicon Valley	
+105907	false	76	17	Silicon Valley	
+153511	false	76	17		Consulting & Business Services
+177181	false	76	17		Consulting & Business Services
+154920	false	76	17		Food & Beverages
+134097	false	76	16	Burlington	
+140695	false	76	16	Boston	
+100413	false	76	15	New York	Media & Entertainment
+126960	false	76	15	Denver	
+110408	false	76	15	Cambridge	
+125938	false	76	15		Retail & Ecommerce
+115632	false	76	15	Seattle	
+125753	false	76	15	New York	Media & Entertainment
+163510	false	76	15	Chicago	Consulting & Business Services
+147473	false	76	15	Mumbai	
+115691	false	76	15		SaaS
+1470997	false	76	15	New York	Artificial Intelligence
+1150101	false	76	15	Mumbai	
+120886	false	76	15	San Francisco	SaaS
+205486	false	76	14	Vancouver	
+1579359	false	76	13	San Francisco	Real Estate & Construction
+168129	false	76	13	New York	Media & Entertainment
+213553	false	76	13		Pharma & Biotech
+2229256	false	76	13	Montreal	
+142337	false	76	13	Silicon Valley	
+121032	false	76	13		Consulting & Business Services
+128341	false	76	13	New York	Transportation & Warehousing
+498700	false	76	13	San Francisco	
+4455238	false	76	13		Consulting & Business Services
+706705	false	76	13		Travel & Hospitality
+142546	false	76	13	London	
+100305	false	76	13	New York	Retail & Ecommerce
+150429	false	76	13		Hardware & Equipment
+1596850	false	76	13	Omaha	
+1278647	false	76	13	Silicon Valley	
+140186	false	76	13		Telecommunications
+1504233	false	76	13		Transportation & Warehousing
+147723	false	76	13	Silicon Valley	
+1578824	false	76	13		Retail & Ecommerce|On Demand Economy
+1385724	false	76	13	Minneapolis	Health Care
+186578	false	76	12	San Francisco	
+760797	false	76	12	Silicon Valley	
+1187130	false	76	12	New York	
+190253	false	76	12	Toronto	
+102901	false	75	966		Hardware & Equipment|SaaS|Internet of Things
+124584	false	75	490		Pharma & Biotech
+116231	false	75	333	San Francisco	Travel & Hospitality|On Demand Economy
+102324	false	75	232		SaaS
+694810	false	75	100		Telecommunications
+111996	false	75	99	San Francisco	Artificial Intelligence
+113067	false	75	83	Vancouver	Consulting & Business Services
+122591	false	75	79	San Francisco	
+140492	false	75	74	Boston	
+125770	false	75	72		Health Care
+5217911	false	75	68	Chicago	
+149562	false	75	62		SaaS
+123539	false	75	62	New York	
+132363	false	75	59		Telecommunications
+132542	false	75	54		Automobile
+129102	false	75	51		Retail & Ecommerce
+100345	false	75	48	Silicon Valley	
+100557	false	75	46	Boston	
+100912	false	75	45	New York	
+122374	false	75	41	San Francisco	Health Care|SaaS
+119277	false	75	40	Irvine	Pharma & Biotech
+5954333	false	75	38	Denver	
+156864	false	75	35		On Demand Economy
+103190	false	75	34	Indianapolis	
+106610	false	75	33	Jacksonville	
+2517206	false	75	33	London	Artificial Intelligence
+154186	false	75	33	Washington	Education
+164450	false	75	33	New York	
+101079	false	75	32	Silicon Valley	SaaS
+809817	false	75	32		Consulting & Business Services
+212359	false	75	31	San Francisco	
+114281	false	75	30	San Francisco	Media & Entertainment
+124077	false	75	29		Telecommunications
+263625	false	75	28	New York	
+1287373	false	75	28	Minneapolis	
+126422	false	75	28		Personal & Household Goods
+139811	false	75	28	Mumbai	Travel & Hospitality
+1293255	false	75	27	Seattle	
+201903	false	75	27	Silicon Valley	
+181026	false	75	27		Real Estate & Construction
+103942	false	75	26	Silicon Valley	
+134627	false	75	26		Health Care
+114835	false	75	26	San Francisco	
+190425	false	75	26		Telecommunications
+1383295	false	75	26	Silicon Valley	
+12060874	false	75	24	San Diego	Telecommunications
+125397	false	75	24	San Francisco	
+176529	false	75	24	Cambridge	
+185255	false	75	24	San Francisco	
+221203	false	75	24	Silicon Valley	
+1870546	false	75	24		Telecommunications
+191149	false	75	23	Silicon Valley	
+133168	false	75	23	Denver	Health Care
+1721931	false	75	22		Personal & Household Goods
+153867	false	75	22	Toronto	Real Estate & Construction
+1829905	false	75	22	Silicon Valley	
+133966	false	75	22	Houston	Energy & Utilities
+122610	false	75	22	New York	Media & Entertainment
+1159066	false	75	22		Telecommunications
+370390	false	75	22	San Francisco	
+126524	false	75	21	Mumbai	Consulting & Business Services
+128268	false	75	21	Irvine	Consulting & Business Services
+124069	false	75	20	New York	
+133430	false	75	20	Scottsdale	
+10851227	false	75	20	San Francisco	
+1291138	false	75	20		Media & Entertainment
+100028	false	75	19	Chicago	
+128682	false	75	18		Personal & Household Goods
+157577	false	75	18		Retail & Ecommerce
+166984	false	75	18	Mumbai	Industrial Goods
+1164994	false	75	18	New York	Real Estate & Construction
+705489	false	75	18	San Francisco	
+128645	false	75	18		Telecommunications|Internet of Things
+166269	false	75	18		Automobile
+210210	false	75	18		Industrial Goods
+106752	false	75	18	San Francisco	
+106106	false	75	18		Media & Entertainment
+12083426	false	75	17	Mumbai	Health Care
+359040	false	75	16	Austin	
+135889	false	75	16		Energy & Utilities
+100350	false	75	16	San Diego	Health Care
+100083	false	75	16	Brooklyn	Media & Entertainment
+139318	false	75	16	Cambridge	Pharma & Biotech
+122895	false	75	16	Montreal	Consulting & Business Services
+128792	false	75	16		Retail & Ecommerce
+126837	false	75	16	Silicon Valley	Hardware & Equipment
+103895	false	75	15	San Francisco	
+166137	false	75	15	Silicon Valley	
+173544	false	75	15	London	Telecommunications
+141785	false	75	15		Food & Beverages|On Demand Economy
+161038	false	75	14		Travel & Hospitality
+130768	false	75	14	Irvine	Automobile
+170926	false	75	14	Philadelphia	Health Care
+166944	false	75	14		Personal & Household Goods
+136209	false	75	14	New York	
+124313	false	75	14		Pharma & Biotech
+490500	false	75	14	San Francisco	
+365633	false	75	14	San Francisco	
+1618118	false	75	14	San Francisco	
+195153	false	75	14		Health Care
+112841	false	75	14	San Francisco	
+133377	false	75	14	Houston	Energy & Utilities
+124357	false	75	13		Banking
+1870282	false	75	13	Silicon Valley	Food & Beverages
+221970	false	75	13		Retail & Ecommerce
+115685	false	75	12	Los Angeles	
+6127022	false	75	12	Silicon Valley	
+205760	false	75	12	New York	
+1155876	false	75	12	London	Transportation & Warehousing
+700573	false	75	12	Philadelphia	Pharma & Biotech
+711695	false	75	12	Toronto	Telecommunications
+11219675	false	75	12	San Francisco	
+1175014	false	75	12		Energy & Utilities
+238214	false	75	12	Mumbai	
+149632	false	75	12	San Francisco	
+1857992	false	75	12		Media & Entertainment
+126211	false	75	12	San Francisco	
+132860	false	75	12		Media & Entertainment
+211078	false	75	12	San Diego	
+1995873	false	75	12		Real Estate & Construction
+137492	false	75	12	San Francisco	
+146301	false	75	12	Silicon Valley	Energy & Utilities
+1148492	false	75	12	San Francisco	On Demand Economy
+156600	false	75	12	San Diego	
+1148669	false	75	12	Silicon Valley	Hardware & Equipment
+131850	false	75	12	Denver	
+1374168	false	75	12	Silicon Valley	
+102669	false	75	12	San Francisco	Media & Entertainment
+1845204	false	75	12	Silicon Valley	
+368426	false	75	12	Silicon Valley	
+166752	false	75	12		Automobile
+1859626	false	75	12	San Francisco	
+1584120	false	75	12	New York	Consulting & Business Services
+155949	false	75	12	New York	
+378834	false	75	12		Telecommunications
+144819	false	75	12		Travel & Hospitality
+123504	false	75	12	San Francisco	
+161485	false	75	11	London	
+169765	false	75	11		Transportation & Warehousing
+104252	false	75	11	San Francisco	
+212498	false	75	11		Pharma & Biotech
+100198	false	75	11	New York	Media & Entertainment
+427841	false	75	11	London	
+1470918	false	75	11	London	
+127594	false	75	11		Hardware & Equipment
+102227	false	75	11	Silicon Valley	Telecommunications
+1173303	false	75	10	London	
+100151	false	75	10	New York	Education|On Demand Economy
+100250	false	75	10		On Demand Economy
+1382060	false	75	10		On Demand Economy
+1148457	false	75	10	San Francisco	
+150983	false	75	10	Toronto	
+8227110	false	75	10	Cambridge	Pharma & Biotech
+209974	false	75	10		Consulting & Business Services
+429115	false	75	10	Mumbai	
+124367	false	75	10		SaaS
+252400	false	75	10		Media & Entertainment
+1170340	false	75	10	Toronto	
+141962	false	75	10	Washington	Transportation & Warehousing
+100381	false	75	10	Philadelphia	
+147674	false	75	10	Boston	
+1812484	false	75	10		Retail & Ecommerce
+158278	false	75	10	Chicago	Consulting & Business Services
+227826	false	75	10		Media & Entertainment
+248488	false	75	10		Travel & Hospitality
+3452765	false	75	10	Los Angeles	
+130732	false	75	10	London	
+110406	false	75	10		Banking
+369401	false	75	10	Silicon Valley	
+203614	false	75	10	San Francisco	
+135144	false	75	10		Food & Beverages
+128313	false	75	10	Kansas City	Consulting & Business Services
+140150	false	75	10		Health Care
+1838078	false	75	10	New Delhi	
+1851687	false	75	10	San Francisco	On Demand Economy
+706176	false	75	10	San Francisco	
+368731	false	75	10		Travel & Hospitality
+116028	false	75	10		Education
+135244	false	75	10		Automobile
+100777	false	75	10	Seattle	
+122340	false	75	10	Silicon Valley	Artificial Intelligence
+155308	false	75	10	Silicon Valley	
+133095	false	75	10	Austin	SaaS
+222808	false	75	10		Consulting & Business Services
+106881	false	74	232	New York	SaaS
+122482	false	74	161		Consulting & Business Services
+1292173	false	74	117	New York	Consulting & Business Services
+129210	false	74	115		SaaS
+100358	false	74	97	Silicon Valley	SaaS
+135600	false	74	83		Pharma & Biotech
+124883	false	74	82	Irvine	Hardware & Equipment
+131264	false	74	80		Hardware & Equipment
+123835	false	74	77	Silicon Valley	Energy & Utilities
+154283	false	74	64		Consulting & Business Services
+101019	false	74	56	Brooklyn	
+212111	false	74	54	Mumbai	
+1153570	false	74	49	London	
+179964	false	74	45	Chicago	
+135026	false	74	40	Silicon Valley	
+1582098	false	74	34	Silicon Valley	
+185088	false	74	33	San Francisco	Consulting & Business Services
+126423	false	74	33		Personal & Household Goods
+9674895	false	74	31	Atlanta	
+122414	false	74	29	New York	Health Care
+140539	false	74	29	San Francisco	Automobile
+131197	false	74	29		Consulting & Business Services
+1164287	false	74	29	Mumbai	
+501539	false	74	28		Hardware & Equipment
+114895	false	74	27	San Francisco	
+744329	false	74	26	San Francisco	
+123907	false	74	26	Burlington	
+171525	false	74	25	Boston	Food & Beverages
+194525	false	74	25	London	
+139804	false	74	22	San Francisco	
+1164150	false	74	21	Mumbai	Media & Entertainment
+102248	false	73	176		SaaS
+125841	false	73	145	Los Angeles	Real Estate & Construction
+111242	false	73	102	New York	Banking|Insurance
+130512	false	73	102	New York	
+103965	false	73	85	San Francisco	SaaS
+130894	false	73	80	Columbus	
+115429	false	73	77	San Francisco	SaaS
+122540	false	73	64		Health Care
+133723	false	73	58	Chicago	Energy & Utilities
+103807	false	73	55	New York	
+110354	false	73	51	Austin	Retail & Ecommerce
+137348	false	73	48	New York	Personal & Household Goods
+696054	false	73	45	Toronto	
+223052	false	73	41	Mumbai	
+213214	false	73	40	San Francisco	
+130435	false	73	38		Hardware & Equipment
+120398	false	73	35	Silicon Valley	
+110380	false	73	31	Silicon Valley	
+106183	false	73	30	Boston	
+102157	false	73	28	San Diego	
+147440	false	73	28	Miami	Travel & Hospitality
+130175	false	73	28	Melbourne	
+696674	false	73	27	Seattle	
+704483	false	73	26	Cambridge	
+140836	false	73	26	New York	
+100085	false	73	25	San Francisco	
+138247	false	73	25		Health Care
+170915	false	73	24		Hardware & Equipment
+133554	false	73	23		Hardware & Equipment
+2236692	false	73	23	Seattle	
+207889	false	73	23	San Francisco	
+147682	false	73	23		Media & Entertainment
+122459	false	73	23		Artificial Intelligence
+139325	false	73	22	London	Food & Beverages|On Demand Economy
+150479	false	73	22	Silicon Valley	
+162978	false	73	21		Energy & Utilities
+1400626	false	73	21	Toronto	
+104697	false	73	21	New York	
+202551	false	73	21	Boston	
+103797	false	73	21		Transportation & Warehousing
+118493	false	73	21	Silicon Valley	
+123736	false	73	21	San Diego	
+124760	false	73	21	Pittsburgh	
+127168	false	73	21		Personal & Household Goods
+124642	false	73	20	Los Angeles	
+126128	false	73	20	San Diego	
+124416	false	73	19	San Francisco	
+103837	false	73	19	San Francisco	
+125900	false	73	19	Chicago	
+187386	false	73	19	Washington	
+171112	false	73	19		Retail & Ecommerce
+135515	false	73	19	Omaha	Transportation & Warehousing
+1289814	false	73	19	Silicon Valley	
+133376	false	73	19		Energy & Utilities
+188999	false	73	19	Phoenix	
+181126	false	73	19	New York	Consulting & Business Services
+190263	false	73	18		Hardware & Equipment
+221993	false	73	18		Telecommunications|Internet of Things
+275568	false	73	17		Consulting & Business Services
+128795	false	73	17	Louisville	Food & Beverages
+1575537	false	73	17	Silicon Valley	
+114839	false	73	17	New York	
+133016	false	73	17	Silicon Valley	Hardware & Equipment
+1154305	false	73	17		Industrial Goods
+4091449	false	73	17	San Francisco	
+100436	false	73	16	New York	Banking
+163063	false	73	16		Food & Beverages|On Demand Economy
+138728	false	73	15	New York	Personal & Household Goods
+115270	false	73	15	Silicon Valley	
+141070	false	73	15	San Francisco	Media & Entertainment
+122661	false	73	15		Consulting & Business Services
+145839	false	73	15		Hardware & Equipment
+175418	false	73	15	Los Angeles	Education
+117142	false	73	15	Brooklyn	
+100074	false	73	15		Consulting & Business Services
+110640	false	73	15		Education
+165063	false	73	15	Brooklyn	Media & Entertainment
+140584	false	73	15	Cambridge	Pharma & Biotech
+144430	false	73	14	Houston	
+136895	false	73	13		Consulting & Business Services
+1490851	false	73	13	New York	Travel & Hospitality
+371946	false	73	13	Atlanta	Media & Entertainment
+226236	false	73	13		Retail & Ecommerce
+137456	false	73	13		Education
+133175	false	73	13		Telecommunications
+130434	false	73	13		Hardware & Equipment
+123478	false	73	13		Personal & Household Goods
+185126	false	73	13	London	
+1491404	false	73	13	Raleigh	Pharma & Biotech
+127023	false	73	13	Nashville	Health Care
+483468	false	73	13	San Francisco	
+12025317	false	73	13	San Francisco	
+1486806	false	73	13		Personal & Household Goods
+481797	false	73	13	Houston	Consulting & Business Services
+103659	false	73	13	Silicon Valley	
+495405	false	73	13		Consulting & Business Services
+2968763	false	73	13	London	
+148883	false	73	13		Food & Beverages
+7410788	false	73	13		Personal & Household Goods
+193652	false	73	13	New York	
+124060	false	73	12	San Francisco	
+117442	false	73	12	London	
+160621	false	73	12	San Francisco	
+5816641	false	73	12	Vancouver	
+1187847	false	73	12	Boston	
+153460	false	73	12	Austin	
+135586	false	73	12		Health Care
+145948	false	73	11	New York	
+142490	false	73	10	Irvine	Travel & Hospitality
+159755	false	73	10	Austin	
+103053	false	72	778	Silicon Valley	Artificial Intelligence
+124372	false	72	475		Health Care
+128026	false	72	226		Hardware & Equipment
+113073	false	72	197	Atlanta	SaaS
+122756	false	72	190	Silicon Valley	Hardware & Equipment
+1472143	false	72	90		Automobile
+101887	false	72	78		Media & Entertainment
+359234	false	72	76	San Francisco	
+105382	false	72	67	San Francisco	
+126177	false	72	45	Silicon Valley	Artificial Intelligence
+356855	false	72	43	Seattle	
+125068	false	72	42	Atlanta	Banking
+100124	false	72	36		Consulting & Business Services
+100261	false	72	35	New York	Education
+118669	false	72	34		Travel & Hospitality
+129902	false	72	31	Portland	Retail & Ecommerce
+103937	false	72	29	Silicon Valley	
+126731	false	72	29		Pharma & Biotech
+143460	false	72	28		Media & Entertainment
+125262	false	72	27	Burlington	Health Care
+115980	false	72	27	San Francisco	
+2239596	false	72	25		Personal & Household Goods
+224160	false	72	24		Retail & Ecommerce
+142816	false	72	23	Chicago	Artificial Intelligence
+711799	false	72	22	Toronto	
+117190	false	72	22	Boston	
+3522131	false	72	22	Mumbai	On Demand Economy
+220219	false	72	20		Consulting & Business Services
+136952	false	72	20		Industrial Goods
+106253	false	72	20	Austin	Consulting & Business Services
+175705	false	72	20	London	Media & Entertainment
+224412	false	72	20	Mumbai	
+12051315	false	72	20		Transportation & Warehousing
+116314	false	72	20	New York	
+100239	false	72	20	New York	Retail & Ecommerce
+108640	false	72	20	Seattle	
+128679	false	72	20		Telecommunications
+143892	false	72	19		Telecommunications
+221933	false	72	18	Chicago	Health Care
+134686	false	72	17		Telecommunications
+379923	false	72	17	New York	Retail & Ecommerce
+9714118	false	72	17	Silicon Valley	Pharma & Biotech
+150659	false	72	17	San Francisco	
+489886	false	72	17	New York	
+173942	false	72	14	Boston	
+123112	false	72	13	Tampa	Consulting & Business Services
+135016	false	72	11	Cincinnati	Health Care
+100134	false	72	11	New York	
+126561	false	72	11	New York	
+160290	false	72	11	Mumbai	Real Estate & Construction
+159359	false	72	11	Seattle	
+676419	false	72	11	Mumbai	
+183044	false	72	11	Silicon Valley	
+254671	false	72	11	New Delhi	
+186994	false	72	11	San Francisco	
+166983	false	72	11		Retail & Ecommerce
+379517	false	72	11	Burlington	
+172096	false	72	11	London	On Demand Economy
+135529	false	72	11	Atlanta	
+105915	false	72	11	Cambridge	Telecommunications
+255185	false	72	11	New Delhi	
+157842	false	72	11	Burlington	
+132661	false	72	11	New York	Consulting & Business Services
+259039	false	72	11	San Francisco	Retail & Ecommerce
+125042	false	72	11		Health Care
+1288944	false	72	11	New York	
+12064669	false	72	11	San Francisco	Food & Beverages
+145588	false	72	11	London	Consulting & Business Services
+1818935	false	72	11	Dallas	Consulting & Business Services
+140381	false	72	11	San Francisco	
+124876	false	72	11	New York	
+128275	false	72	11		Consulting & Business Services
+126909	false	72	11	San Francisco	Consulting & Business Services
+128765	false	72	11		Retail & Ecommerce
+2239762	false	72	11	Louisville	
+130611	false	72	11	Indianapolis	Real Estate & Construction
+137970	false	72	11	San Francisco	
+714665	false	72	10	London	
+498853	false	72	10	Chicago	
+2226685	false	72	10		Retail & Ecommerce
+124397	false	71	1095	Chicago	
+124583	false	71	240		Pharma & Biotech
+138983	false	71	237	Silicon Valley	
+125919	false	71	211	Dallas	Real Estate & Construction
+100163	false	71	201	Cambridge	SaaS
+124844	false	71	138		Telecommunications
+135200	false	71	126		Transportation & Warehousing
+103376	false	71	102	Vancouver	
+119275	false	71	101		Health Care
+136203	false	71	89		Telecommunications
+115856	false	71	88	San Francisco	SaaS
+125134	false	71	79	New York	
+697426	false	71	49	Silicon Valley	
+123609	false	71	45	San Francisco	
+143106	false	71	45	San Francisco	
+1492103	false	71	42	Silicon Valley	Hardware & Equipment
+234576	false	71	41		Personal & Household Goods
+132884	false	71	41		Transportation & Warehousing
+100082	false	71	41	San Francisco	Consulting & Business Services
+122259	false	71	40	Silicon Valley	
+123245	false	71	37	Silicon Valley	SaaS
+169578	false	71	33	San Francisco	
+144334	false	71	32		Education
+144334	false	71	32		Education
+715333	false	71	31	Silicon Valley	Internet of Things
+128666	false	71	31	San Francisco	SaaS
+190135	false	71	30	Silicon Valley	
+100335	false	71	30	Silicon Valley	Hardware & Equipment|SaaS|Internet of Things
+1617852	false	71	30		Travel & Hospitality
+159446	false	71	27		Industrial Goods
+141818	false	71	26	Silicon Valley	
+137106	false	71	26	Silicon Valley	
+124493	false	71	26	London	
+127697	false	71	21	Montreal	Hardware & Equipment
+126032	false	71	21	Silicon Valley	
+4430689	false	71	21		Transportation & Warehousing|On Demand Economy
+132264	false	71	19		Real Estate & Construction
+175670	false	71	19		Automobile
+166074	false	71	19	San Diego	Health Care
+134025	false	71	19		Telecommunications
+285799	false	71	19		Consulting & Business Services
+139970	false	71	19	San Francisco	
+104660	false	71	19	Kansas City	
+113391	false	71	18	Philadelphia	Media & Entertainment
+123019	false	71	18		Hardware & Equipment
+103241	false	71	17	Silicon Valley	Education
+124126	false	71	16		Retail & Ecommerce
+357705	false	71	16		Pharma & Biotech
+1372593	false	71	16	Silicon Valley	
+129682	false	71	16		Health Care
+138094	false	71	16	New York	Consulting & Business Services
+296798	false	71	16		Health Care
+122346	false	71	16	New York	Retail & Ecommerce
+188055	false	71	15		Consulting & Business Services
+372907	false	71	15		Transportation & Warehousing
+136092	false	71	14		Energy & Utilities
+130616	false	71	14	Toronto	
+260879	false	71	14	Boston	
+237187	false	71	14	New Delhi	Retail & Ecommerce
+135031	false	71	14	Chicago	On Demand Economy
+142475	false	71	14		On Demand Economy
+181032	false	71	14		Energy & Utilities
+135566	false	71	14	Philadelphia	Automobile
+100175	false	71	14	New York	
+186166	false	71	14	London	Energy & Utilities
+264713	false	71	14	Chicago	
+123470	false	71	14		Education
+488514	false	71	14	Silicon Valley	
+124074	false	71	13	Silicon Valley	Telecommunications
+100196	false	71	13	London	Retail & Ecommerce
+1427108	false	71	13	Tampa	
+1633223	false	71	12	San Francisco	Food & Beverages|On Demand Economy
+493839	false	71	12	Dallas	
+138974	false	71	12	Denver	Energy & Utilities
+171314	false	71	11	Houston	Hardware & Equipment
+123593	false	71	11	Silicon Valley	
+141117	false	71	11	San Diego	
+100294	false	70	223	Silicon Valley	SaaS
+131017	false	70	193		Food & Beverages
+131017	false	70	193		Food & Beverages
+103017	false	70	150	San Francisco	On Demand Economy
+137661	false	70	146		Retail & Ecommerce
+1476881	false	70	133		Retail & Ecommerce|On Demand Economy
+104688	false	70	125		Consulting & Business Services|SaaS
+205516	false	70	117	New York	Consulting & Business Services
+131921	false	70	101	Cincinnati	Consulting & Business Services
+104501	false	70	98	Atlanta	Banking
+101917	false	70	74	Silicon Valley	
+143466	false	70	69	New York	Media & Entertainment
+125347	false	70	66	Boston	
+116312	false	70	65	San Francisco	
+137094	false	70	62		SaaS
+129501	false	70	62		Telecommunications
+124316	false	70	62		SaaS
+370669	false	70	59	Atlanta	
+128627	false	70	59		Pharma & Biotech
+154232	false	70	58	Irvine	Health Care
+129463	false	70	57	San Francisco	
+100765	false	70	57	Austin	
+130799	false	70	49		Consulting & Business Services
+1632547	false	70	47	Silicon Valley	
+125483	false	70	44		Hardware & Equipment
+158098	false	70	42		Telecommunications
+100117	false	70	39	Los Angeles	
+154373	false	70	39	London	
+966672	false	70	38	New York	On Demand Economy
+136583	false	70	37		Consulting & Business Services|SaaS
+139446	false	70	37	San Francisco	
+132083	false	70	36	San Francisco	
+164734	false	70	36		Travel & Hospitality
+202449	false	70	36		Telecommunications
+130904	false	70	35		Personal & Household Goods
+126268	false	70	35		Consulting & Business Services|SaaS
+144873	false	70	34	Toronto	
+12064712	false	70	32	San Francisco	SaaS
+150080	false	70	32	Melbourne	Telecommunications
+123078	false	70	31	San Francisco	
+161732	false	70	31		Transportation & Warehousing
+149489	false	70	30	Silicon Valley	SaaS
+129462	false	70	30	San Francisco	
+137494	false	70	28	San Francisco	
+122267	false	70	25	Atlanta	
+127087	false	70	25		Telecommunications
+1477329	false	70	24	London	
+234375	false	70	24		Real Estate & Construction
+121733	false	70	24	San Francisco	On Demand Economy
+4007591	false	70	24		Health Care
+108985	false	70	24		Media & Entertainment
+100365	false	70	23	New York	Consulting & Business Services
+492654	false	70	23	Silicon Valley	Telecommunications
+12096559	false	70	22	New York	
+120888	false	70	22	Atlanta	Consulting & Business Services
+125128	false	70	22		Industrial Goods
+100378	false	70	21	New York	
+1866675	false	70	20	Silicon Valley	
+135508	false	70	20	Houston	Energy & Utilities
+128378	false	70	20	New York	Media & Entertainment
+1535155	false	70	20	New Delhi	
+103622	false	70	20	Boston	
+212507	false	70	20	San Francisco	SaaS
+223631	false	70	20		Retail & Ecommerce
+699839	false	70	19	San Francisco	
+128141	false	70	19	Irvine	
+133857	false	70	17	Atlanta	Real Estate & Construction
+8797560	false	70	17	San Francisco	
+103574	false	70	17	San Diego	
+1173238	false	70	17		Travel & Hospitality
+251678	false	70	17	San Francisco	
+173381	false	70	17		Transportation & Warehousing
+133271	false	70	17	Houston	Energy & Utilities
+135264	false	70	17	Houston	Energy & Utilities
+1172552	false	70	17		Travel & Hospitality
+174268	false	70	17	Minneapolis	SaaS
+1820126	false	70	16	Austin	On Demand Economy
+362444	false	70	16		Health Care
+1400399	false	70	15	Boston	
+175966	false	70	15		Travel & Hospitality
+119658	false	70	15	New York	Artificial Intelligence
+103171	false	70	15	San Francisco	SaaS
+1294016	false	70	15	Silicon Valley	
+4408338	false	70	15		Transportation & Warehousing
+496317	false	70	15	San Francisco	
+136332	false	70	15		Transportation & Warehousing
+134728	false	70	15	New York	
+228382	false	70	15		Transportation & Warehousing
+1415103	false	70	14	San Francisco	
+124369	false	70	14	Silicon Valley	
+177408	false	70	14		Health Care
+190519	false	70	13	Toronto	
+100266	false	70	13	Silicon Valley	
+159951	false	70	13		Energy & Utilities
+124782	false	70	12	San Francisco	
+4874978	false	70	12	New York	Real Estate & Construction
+128642	false	70	12	Silicon Valley	
+115596	false	70	12	London	Media & Entertainment
+1143566	false	70	12	Cambridge	Pharma & Biotech
+141595	false	70	12		Health Care
+122937	false	70	12	Austin	
+118501	false	70	12	Scottsdale	
+371999	false	70	12		Telecommunications
+357774	false	70	12		Consulting & Business Services
+4483156	false	70	12	San Diego	
+128794	false	70	12		Travel & Hospitality
+100332	false	70	12	Silicon Valley	
+187428	false	70	12		Travel & Hospitality
+135412	false	70	12	Pittsburgh	Retail & Ecommerce
+271220	false	70	12		Telecommunications
+128342	false	70	12		Health Care
+1174244	false	70	12		Energy & Utilities
+183970	false	70	12	Silicon Valley	
+150183	false	70	12		Consulting & Business Services
+154844	false	70	12	Orlando	
+487336	false	70	11		Hardware & Equipment
+1144052	false	70	11	Los Angeles	
+137489	false	70	10	Irvine	Personal & Household Goods
+190789	false	70	10		Consulting & Business Services
+131468	false	70	10		Hardware & Equipment
+4428012	false	70	10		Travel & Hospitality
+160022	false	70	10	San Francisco	
+4454318	false	70	10		Retail & Ecommerce
+162875	false	70	10		Hardware & Equipment
+193812	false	70	10	London	
+100380	false	70	10		Education|On Demand Economy
+162861	false	70	10		Health Care
+1170923	false	70	10	San Francisco	
+103452	false	70	10	Silicon Valley	Hardware & Equipment
+4429280	false	70	10		On Demand Economy
+3281428	false	70	10	New York	
+126679	false	70	10		Industrial Goods
+102667	false	70	10	San Francisco	Media & Entertainment
+104280	false	70	10	Washington	Retail & Ecommerce
+587626	false	70	10	New Delhi	Travel & Hospitality
+155528	false	70	10		Travel & Hospitality
+12012402	false	70	10		Health Care
+133336	false	70	10		Personal & Household Goods
+1163758	false	70	10	Silicon Valley	
+141829	false	70	10	Louisville	
+265239	false	70	10	Chicago	Telecommunications
+126951	false	70	10	Nashville	SaaS
+122886	false	70	10	Boston	
+358423	false	70	10		Retail & Ecommerce
+699528	false	70	10		Pharma & Biotech
+142918	false	70	10	Austin	
+155366	false	70	10	New York	
+701145	false	70	10		Travel & Hospitality
+9669614	false	70	10		On Demand Economy
+101240	false	70	10	Irvine	
+141410	false	70	10	Cambridge	
+102667	false	70	10	San Francisco	Media & Entertainment
+141856	false	70	10	San Diego	Pharma & Biotech
+122597	false	70	10	Chicago	
+127353	false	69	756	San Francisco	
+101043	false	69	152	Silicon Valley	SaaS
+141362	false	69	112		On Demand Economy
+102826	false	69	101		Travel & Hospitality
+131514	false	69	94		Travel & Hospitality
+116839	false	69	91	Boston	Consulting & Business Services
+100427	false	69	78	New York	Consulting & Business Services
+133110	false	69	73	Silicon Valley	SaaS
+142400	false	69	69	San Francisco	
+179299	false	69	63	Silicon Valley	SaaS
+203494	false	69	60	San Francisco	Education
+122133	false	69	59	Silicon Valley	
+173074	false	69	59	Silicon Valley	SaaS
+5957535	false	69	46	Silicon Valley	
+103079	false	69	46	Sydney	SaaS
+103328	false	69	37	Seattle	
+100329	false	69	36	Silicon Valley	Hardware & Equipment
+135362	false	69	36		Automobile
+157765	false	69	36		Education
+147549	false	69	34	Columbus	Industrial Goods
+141460	false	69	34	San Francisco	
+151737	false	69	32		Consulting & Business Services
+106711	false	69	30	Silicon Valley	SaaS
+678708	false	69	26		Telecommunications
+140154	false	69	21	San Francisco	
+120570	false	69	21		Retail & Ecommerce
+12028161	false	69	21		Consulting & Business Services
+130486	false	69	21		SaaS
+1851792	false	69	20	Silicon Valley	
+140746	false	69	19		Travel & Hospitality
+126117	false	69	18	Boston	
+3017716	false	69	18		Retail & Ecommerce
+2253199	false	69	18	London	Retail & Ecommerce|On Demand Economy
+263503	false	69	18		Retail & Ecommerce
+127413	false	69	18	Salt Lake City	Transportation & Warehousing
+226005	false	69	18	New Delhi	Retail & Ecommerce
+1836038	false	69	17		Health Care
+211108	false	69	14	Silicon Valley	
+1191336	false	69	13	New York	
+129794	false	69	13		Hardware & Equipment
+109909	false	69	13		Retail & Ecommerce
+12117517	false	69	13	Chicago	
+483683	false	69	13	New Delhi	Telecommunications
+130045	false	69	13	Tampa	Consulting & Business Services
+175632	false	69	13		Transportation & Warehousing
+122781	false	69	13		SaaS
+124092	false	69	13	Los Angeles	
+382279	false	69	13		Health Care
+100102	false	69	13	Silicon Valley	
+1402963	false	69	13	Austin	
+122064	false	69	12	San Francisco	
+132921	false	69	12	Silicon Valley	SaaS
+140014	false	69	11	Chicago	
+126484	false	69	11		Pharma & Biotech
+125946	false	68	649	New York	Pharma & Biotech
+102832	false	68	410		Consulting & Business Services
+104270	false	68	209		Transportation & Warehousing
+123687	false	68	175	San Francisco	On Demand Economy
+359677	false	68	124	San Diego	
+100441	false	68	115	San Francisco	
+2240496	false	68	114	Mumbai	On Demand Economy
+122609	false	68	97	New York	Media & Entertainment
+100347	false	68	71	Silicon Valley	
+100209	false	68	63	San Francisco	SaaS
+8142237	false	68	61		On Demand Economy
+130853	false	68	59		Retail & Ecommerce
+130507	false	68	57		Education
+125795	false	68	56	Silicon Valley	SaaS
+4809933	false	68	51		Retail & Ecommerce|On Demand Economy
+361849	false	68	50		Food & Beverages|On Demand Economy
+9674604	false	68	48	Silicon Valley	
+127321	false	68	46	London	Industrial Goods
+1149881	false	68	40	San Francisco	
+102060	false	68	39	Atlanta	
+134263	false	68	36		Real Estate & Construction
+100368	false	68	32		Media & Entertainment
+139229	false	68	31		Hardware & Equipment
+140407	false	68	30	Silicon Valley	
+136798	false	68	30		SaaS
+142718	false	68	29	New York	
+125480	false	68	26		Media & Entertainment
+130121	false	68	25	New York	
+127213	false	68	25		Retail & Ecommerce
+100208	false	68	25	London	
+128623	false	68	25		Food & Beverages
+177338	false	68	24		Media & Entertainment
+123140	false	68	24	Seattle	
+138442	false	68	24	Cincinnati	
+137152	false	68	24	Fort Worth	Transportation & Warehousing
+129833	false	68	24	New York	Media & Entertainment
+128234	false	68	23		Consulting & Business Services
+142220	false	68	22		Consulting & Business Services
+206935	false	68	22		Consulting & Business Services
+135792	false	68	22	Chicago	
+125778	false	68	21		Consulting & Business Services
+364214	false	68	19	Austin	
+123315	false	68	19	Nashville	
+127551	false	68	19	Salt Lake City	Pharma & Biotech
+320582	false	68	19	San Francisco	
+122387	false	68	19	San Francisco	
+186073	false	68	19		Food & Beverages
+150099	false	68	19		Consulting & Business Services
+139730	false	68	19	Silicon Valley	
+217617	false	68	18	Silicon Valley	Health Care
+129780	false	68	18		SaaS
+107122	false	68	18	Boston	Consulting & Business Services
+371286	false	68	17	Boston	
+175421	false	68	16		Energy & Utilities
+12033566	false	68	16		Transportation & Warehousing
+141026	false	68	16		Pharma & Biotech
+327439	false	68	16	Silicon Valley	
+358701	false	68	16	Houston	
+111244	false	68	16		Banking
+126060	false	68	16	Silicon Valley	Hardware & Equipment
+157129	false	68	16		Real Estate & Construction
+1579594	false	68	15	London	
+1391824	false	68	15	San Francisco	
+122320	false	68	15	Silicon Valley	Banking
+712066	false	68	14	San Francisco	
+133331	false	68	14	Charlotte	
+114012	false	68	14		Media & Entertainment
+164440	false	68	14	New York	SaaS
+1181315	false	68	11	San Francisco	
+131291	false	68	11	San Francisco	Consulting & Business Services
+122511	false	68	11		Real Estate & Construction
+167069	false	68	11		Energy & Utilities
+135406	false	68	11	Columbus	
+149080	false	68	11	New Delhi	
+207369	false	68	11	Omaha	
+100283	false	68	11		On Demand Economy
+187929	false	68	11		Energy & Utilities
+158348	false	68	11		Media & Entertainment
+135902	false	68	11	Charlotte	Telecommunications
+142609	false	68	11	San Francisco	
+1373785	false	68	11	Mumbai	Personal & Household Goods
+122487	false	68	11	San Diego	
+178636	false	68	11		Telecommunications
+141251	false	68	11	Portland	
+123541	false	68	11		Consulting & Business Services
+203223	false	68	11	Silicon Valley	Transportation & Warehousing|On Demand Economy
+135172	false	68	11	Atlanta	Automobile
+163660	false	68	11	New York	Consulting & Business Services
+154111	false	68	11		Retail & Ecommerce
+135004	false	68	11		Health Care
+134675	false	68	11	Silicon Valley	Health Care
+12119896	false	68	11		Consulting & Business Services
+142098	false	68	11		Health Care
+145733	false	68	11	London	
+482906	false	68	11	Silicon Valley	
+165263	false	68	11		Real Estate & Construction
+364243	false	68	10	Silicon Valley	Internet of Things
+1530933	false	68	10	San Francisco	
+143102	false	68	10	Silicon Valley	
+100491	false	68	10	San Francisco	
+100599	false	67	790		Automobile
+128936	false	67	355		Energy & Utilities
+128938	false	67	336	London	Energy & Utilities
+100659	false	67	168	Silicon Valley	SaaS
+139624	false	67	148	New Delhi	Retail & Ecommerce
+139206	false	67	145		Retail & Ecommerce
+121413	false	67	123	Brooklyn	Retail & Ecommerce|On Demand Economy
+100020	false	67	117	Silicon Valley	SaaS
+127355	false	67	106		Consulting & Business Services|SaaS
+100513	false	67	74	Austin	Retail & Ecommerce
+122646	false	67	70	Portland	Media & Entertainment|SaaS
+126798	false	67	57	Cleveland	
+100154	false	67	54	San Francisco	Education|On Demand Economy
+135180	false	67	53		Energy & Utilities
+221415	false	67	46		Retail & Ecommerce
+124025	false	67	43	Silicon Valley	
+123461	false	67	43	San Francisco	
+132526	false	67	41	Chicago	SaaS
+134397	false	67	41		Telecommunications
+1537320	false	67	40	London	Retail & Ecommerce|On Demand Economy
+115136	false	67	38	Boston	Consulting & Business Services
+142186	false	67	36	Silicon Valley	
+144405	false	67	35		Education
+142577	false	67	33	New York	Consulting & Business Services
+711061	false	67	33	San Francisco	
+124248	false	67	32	Salt Lake City	Education
+143556	false	67	32		Telecommunications
+1287609	false	67	31	Silicon Valley	
+129984	false	67	30		Health Care
+130384	false	67	28	San Francisco	Media & Entertainment|SaaS
+1484685	false	67	26	London	
+102062	false	67	26	Toronto	SaaS
+136461	false	67	25		Consulting & Business Services
+244574	false	67	23	New Delhi	
+122478	false	67	23	San Francisco	Consulting & Business Services|SaaS
+193859	false	67	23	London	
+131092	false	67	23	Philadelphia	Education
+148919	false	67	20		Industrial Goods
+142516	false	67	20	Silicon Valley	
+155291	false	67	19	Columbus	Transportation & Warehousing
+709067	false	67	19	Vancouver	
+140386	false	67	18	Washington	Media & Entertainment
+104457	false	67	17	San Francisco	
+233389	false	67	17		Transportation & Warehousing
+157402	false	67	17	London	
+122814	false	67	17		Consulting & Business Services
+181426	false	67	17		Telecommunications
+1159782	false	67	17	Silicon Valley	
+128818	false	67	17	New York	Media & Entertainment
+116873	false	67	17		SaaS
+141133	false	67	17	New York	Education
+123685	false	67	16		Media & Entertainment
+123926	false	67	14	Chicago	SaaS
+135440	false	67	14	Portland	
+1283663	false	67	14		Consulting & Business Services
+100535	false	67	14	Boston	
+161230	false	67	14		Health Care
+211457	false	67	13		Food & Beverages
+125972	false	67	13	San Francisco	
+124510	false	67	13	London	Retail & Ecommerce
+132108	false	67	13		Consulting & Business Services
+412304	false	67	12	Silicon Valley	
+200036	false	67	11		Pharma & Biotech
+135257	false	67	11		Personal & Household Goods
+100032	false	66	259	Silicon Valley	
+105595	false	66	242	New York	Media & Entertainment
+131940	false	66	152		Health Care
+135162	false	66	145	Cleveland	Industrial Goods
+113766	false	66	142		Retail & Ecommerce
+141007	false	66	122	Irvine	Artificial Intelligence
+100053	false	66	114		Consulting & Business Services
+3088414	false	66	111		Travel & Hospitality|On Demand Economy
+135157	false	66	106	Philadelphia	Consulting & Business Services
+111706	false	66	86	Austin	
+1396850	false	66	85	Silicon Valley	
+1422025	false	66	77		Retail & Ecommerce
+128560	false	66	74	Cambridge	
+1190385	false	66	72	Boston	
+154918	false	66	60	Cincinnati	Retail & Ecommerce
+143372	false	66	51	New York	Media & Entertainment
+100306	false	66	51	New York	
+104692	false	66	47	San Francisco	
+141617	false	66	46	San Francisco	
+131207	false	66	46	Pittsburgh	
+129443	false	66	39	Chicago	Consulting & Business Services
+102145	false	66	34	Burlington	SaaS
+135032	false	66	33	Silicon Valley	
+132696	false	66	31		Consulting & Business Services
+129881	false	66	28	New York	
+130047	false	66	28	Silicon Valley	
+1426501	false	66	28		Telecommunications
+101762	false	66	27	Washington	Education|SaaS
+123630	false	66	27	Austin	
+138668	false	66	27		Consulting & Business Services
+143280	false	66	27	Mumbai	Retail & Ecommerce
+102186	false	66	25	Silicon Valley	Health Care
+1176868	false	66	25	Silicon Valley	
+991077	false	66	24	Vancouver	
+141950	false	66	24	Silicon Valley	
+1233393	false	66	24	Boston	
+135296	false	66	23	Chicago	
+100421	false	66	23	New York	SaaS
+100070	false	66	21	Sydney	On Demand Economy
+135486	false	66	21		Transportation & Warehousing
+695788	false	66	21	London	Consulting & Business Services
+379305	false	66	20	Washington	
+191568	false	66	20	Silicon Valley	
+141939	false	66	20	Austin	
+138663	false	66	19	San Francisco	Health Care
+364172	false	66	19		Consulting & Business Services
+117327	false	66	19	Seattle	
+1865659	false	66	18		Transportation & Warehousing
+107467	false	66	18	New York	SaaS
+193117	false	66	18	Denver	
+141395	false	66	17		Health Care
+129337	false	66	16	New York	Consulting & Business Services|On Demand Economy
+102450	false	66	15	New York	
+126355	false	66	15		Hardware & Equipment
+134771	false	66	15		Consulting & Business Services
+128004	false	66	15		SaaS
+127933	false	66	15	Boston	
+1843419	false	66	15		Retail & Ecommerce
+1534925	false	66	15		Transportation & Warehousing|On Demand Economy
+134269	false	66	15		Travel & Hospitality
+106739	false	66	15	Silicon Valley	
+103776	false	66	15	New York	
+210286	false	66	15	Portland	Food & Beverages
+286524	false	66	15		Travel & Hospitality
+130051	false	66	15	Charlotte	SaaS
+706375	false	66	15	San Francisco	SaaS
+371910	false	66	14	New Delhi	
+212291	false	66	14	Salt Lake City	
+698301	false	66	13	San Francisco	
+187793	false	66	13	San Francisco	
+100734	false	66	12	Silicon Valley	
+126640	false	66	12	Omaha	
+138522	false	66	12	Charlotte	Automobile
+100222	false	66	12	Silicon Valley	Health Care
+1190062	false	66	12	San Francisco	
+101497	false	66	12	Silicon Valley	Pharma & Biotech
+140945	false	66	12	London	Travel & Hospitality|On Demand Economy
+502571	false	66	12		Automobile
+130072	false	66	12	Silicon Valley	
+122139	false	66	12	Boston	On Demand Economy
+12022995	false	66	12	New York	
+1150117	false	66	12	London	
+1295958	false	66	12	New York	
+1186720	false	66	12	San Francisco	Real Estate & Construction
+127474	false	66	12	Silicon Valley	Health Care
+482763	false	66	12	Indianapolis	
+193137	false	66	12	New York	
+151910	false	66	12	Irvine	
+148444	false	66	11	Houston	
+183618	false	66	11	Chicago	
+1725620	false	66	10	San Francisco	On Demand Economy
+126831	false	66	10		Automobile
+125302	false	65	231		Telecommunications
+142235	false	65	187		Travel & Hospitality
+126617	false	65	167		Health Care
+124485	false	65	163		Consulting & Business Services
+127210	false	65	127	Phoenix	
+253874	false	65	106		Health Care
+127322	false	65	102		Industrial Goods
+100508	false	65	94	Silicon Valley	
+145187	false	65	93		Consulting & Business Services
+122276	false	65	89	Washington	Industrial Goods
+2229832	false	65	87		Hardware & Equipment
+122808	false	65	84	Boston	Consulting & Business Services
+180628	false	65	73	New York	Consulting & Business Services
+132290	false	65	73	Mumbai	Consulting & Business Services
+499714	false	65	63	Silicon Valley	
+172675	false	65	62	San Francisco	
+165311	false	65	61		Transportation & Warehousing
+121125	false	65	60		Health Care
+126821	false	65	56		Pharma & Biotech
+124179	false	65	55	Los Angeles	Consulting & Business Services
+128621	false	65	52		Consulting & Business Services
+100287	false	65	45	Silicon Valley	
+129926	false	65	45	Cambridge	Automobile
+102217	false	65	43	Silicon Valley	Telecommunications|Internet of Things
+222728	false	65	40		Retail & Ecommerce
+1575788	false	65	39	Boston	
+142751	false	65	39	Irvine	
+707375	false	65	38	Silicon Valley	
+135268	false	65	37	Phoenix	Retail & Ecommerce
+135139	false	65	36	Omaha	Transportation & Warehousing
+124348	false	65	33	Silicon Valley	
+1671162	false	65	32	Silicon Valley	
+134786	false	65	32		Real Estate & Construction
+2232286	false	65	30	Chicago	
+129248	false	65	29	Houston	Energy & Utilities
+154673	false	65	29	London	Artificial Intelligence
+706941	false	65	29	Seattle	
+133573	false	65	29		Real Estate & Construction
+399571	false	65	29	London	
+156819	false	65	29	New York	Travel & Hospitality
+177591	false	65	26	Sydney	
+189653	false	65	26	Boston	
+123102	false	65	25		Consulting & Business Services|SaaS
+130403	false	65	25	Cleveland	Industrial Goods
+209992	false	65	23	New York	Food & Beverages|On Demand Economy
+141367	false	65	23	New York	
+135593	false	65	22		Industrial Goods
+209059	false	65	22		Consulting & Business Services
+198360	false	65	22	San Francisco	
+116991	false	65	21	Silicon Valley	Telecommunications
+100183	false	65	20	Chicago	Media & Entertainment
+380155	false	65	20		Consulting & Business Services
+126257	false	65	19	Vancouver	
+122480	false	65	19	San Francisco	
+191364	false	65	19	Silicon Valley	
+122535	false	65	18	Irvine	Retail & Ecommerce
+357509	false	65	18	London	
+239528	false	65	18	Mumbai	
+111204	false	65	18	Portland	SaaS
+711064	false	65	16	San Francisco	
+125194	false	65	16	New York	
+255120	false	65	16	Chicago	
+1410082	false	65	16	London	
+101742	false	65	16	Silicon Valley	SaaS
+119526	false	65	16	Boston	SaaS
+133183	false	65	16		Telecommunications
+211022	false	65	16	Montreal	Media & Entertainment
+157398	false	65	16		Hardware & Equipment
+148103	false	65	15		Food & Beverages
+122795	false	65	14	Phoenix	Food & Beverages
+128099	false	65	13		Health Care
+381922	false	65	13	Austin	
+160106	false	65	13	Chicago	
+102313	false	65	13	San Francisco	
+133783	false	65	13	New York	
+102995	false	65	13		Consulting & Business Services
+135295	false	65	13	Houston	Consulting & Business Services
+359537	false	65	13	Austin	
+133468	false	65	13	London	
+141159	false	65	13		Health Care
+224486	false	65	13	New York	
+103217	false	65	13		Travel & Hospitality
+1157315	false	65	13		Hardware & Equipment
+1158891	false	65	13	Silicon Valley	Hardware & Equipment
+1403263	false	65	13		Retail & Ecommerce
+597706	false	65	13		Hardware & Equipment
+245078	false	65	12	Denver	
+10397087	false	65	10	San Francisco	SaaS
+138563	false	65	10	San Francisco	
+132557	false	65	10		Consulting & Business Services
+12214269	false	65	10	Seattle	
+943245	false	65	10	San Francisco	Energy & Utilities
+1147581	false	65	10		Consulting & Business Services|On Demand Economy
+1403819	false	65	10		Travel & Hospitality
+1164940	false	65	10	San Francisco	Consulting & Business Services
+12024914	false	65	10		Transportation & Warehousing
+130968	false	65	10		Industrial Goods
+1724583	false	65	10		Health Care
+122894	false	65	10	Chicago	
+124650	false	65	10	Seattle	Consulting & Business Services
+132682	false	65	10	Silicon Valley	
+225113	false	65	10	New Delhi	Retail & Ecommerce
+126881	false	65	10		Media & Entertainment
+162130	false	65	10	New York	
+107242	false	65	10	Silicon Valley	
+161777	false	65	10		Hardware & Equipment
+381899	false	65	10	New York	
+143399	false	65	10	Silicon Valley	Telecommunications
+165235	false	65	10		Transportation & Warehousing
+100439	false	65	10	San Francisco	
+1595894	false	65	10	Houston	
+127396	false	65	10	Atlanta	
+111436	false	64	2877	Silicon Valley	Hardware & Equipment|Artificial Intelligence|Internet of Things
+126917	false	64	505		Pharma & Biotech
+132055	false	64	170		Telecommunications
+135354	false	64	121	Seattle	Transportation & Warehousing
+103698	false	64	106		Automobile
+131309	false	64	70	Silicon Valley	SaaS
+109959	false	64	68		SaaS
+110662	false	64	64	New York	
+8369802	false	64	63	Silicon Valley	Hardware & Equipment
+109511	false	64	56	Silicon Valley	SaaS
+122509	false	64	48	Silicon Valley	
+177096	false	64	47	New York	SaaS
+129747	false	64	46	Irvine	Consulting & Business Services
+135743	false	64	45	Houston	Energy & Utilities
+100027	false	64	43	San Francisco	
+100167	false	64	38	Atlanta	
+135951	false	64	35	Silicon Valley	
+482225	false	64	34	Birmingham	Consulting & Business Services
+482225	false	64	34	Birmingham	Consulting & Business Services
+363417	false	64	34		Real Estate & Construction
+135194	false	64	34	Silicon Valley	Industrial Goods
+138051	false	64	32		Transportation & Warehousing
+129444	false	64	32		Food & Beverages
+136896	false	64	32	Burlington	
+155286	false	64	30		Consulting & Business Services
+1381666	false	64	29		On Demand Economy
+126494	false	64	28		Hardware & Equipment
+103476	false	64	28	San Francisco	
+1426938	false	64	27	Silicon Valley	
+103330	false	64	27	Toronto	
+2228884	false	64	25		Travel & Hospitality
+102425	false	64	24	Cambridge	
+124230	false	64	24		Hardware & Equipment
+1838873	false	64	24	San Francisco	
+366981	false	64	24	San Francisco	
+382172	false	64	24	Boston	
+134125	false	64	23		Hardware & Equipment
+113387	false	64	23	San Francisco	Media & Entertainment|On Demand Economy
+261651	false	64	23	Boston	
+129561	false	64	22	Phoenix	
+129208	false	64	21		Hardware & Equipment
+131490	false	64	21		Hardware & Equipment
+7005187	false	64	21		Travel & Hospitality
+122955	false	64	21	Mumbai	Consulting & Business Services
+141196	false	64	21	Silicon Valley	
+197317	false	64	21	Boston	Education
+125096	false	64	21	Chicago	Consulting & Business Services
+226658	false	64	21		Travel & Hospitality
+490204	false	64	21	San Francisco	On Demand Economy
+125620	false	64	20		Hardware & Equipment
+174285	false	64	19		Energy & Utilities
+710312	false	64	18		Health Care
+5379148	false	64	17		Hardware & Equipment
+124865	false	64	17	Austin	
+124079	false	64	17	Silicon Valley	
+210602	false	64	17		Consulting & Business Services
+4024427	false	64	17		Real Estate & Construction
+261303	false	64	17	Silicon Valley	Personal & Household Goods|On Demand Economy
+12054251	false	64	17	New York	Consulting & Business Services
+12148394	false	64	17	New York	Consulting & Business Services
+123785	false	64	17	Silicon Valley	
+358130	false	64	17	Seattle	
+1859381	false	64	17	San Francisco	
+191987	false	64	17		Food & Beverages
+1160314	false	64	16	Washington	
+131847	false	64	16	Silicon Valley	
+157463	false	64	16	Austin	
+3844678	false	64	14	Nashville	
+1190430	false	64	14	Silicon Valley	Pharma & Biotech
+193088	false	64	14	Silicon Valley	Energy & Utilities
+363088	false	64	14		Education
+111712	false	64	14	New York	Consulting & Business Services
+150249	false	64	14	New York	
+142695	false	64	14	San Francisco	SaaS
+157864	false	64	10	Orlando	Travel & Hospitality
+142540	false	64	10		Energy & Utilities
+169497	false	63	172	Silicon Valley	Retail & Ecommerce|On Demand Economy
+115282	false	63	138	London	
+102240	false	63	98	Cambridge	SaaS
+128917	false	63	98		SaaS
+100135	false	63	91	San Francisco	
+122961	false	63	72	Kansas City	SaaS
+1185370	false	63	67	San Francisco	
+126739	false	63	67	Silicon Valley	Hardware & Equipment
+127603	false	63	60	New York	
+123812	false	63	58	Boston	
+127211	false	63	57		Industrial Goods
+126180	false	63	51		SaaS
+1618630	false	63	51	Seattle	Media & Entertainment
+100520	false	63	50	Chicago	
+127433	false	63	48		SaaS
+125813	false	63	46		SaaS
+158903	false	63	45	New York	
+365853	false	63	44	New York	
+147205	false	63	43		Telecommunications
+153470	false	63	39	San Francisco	
+100327	false	63	39	Silicon Valley	Telecommunications|SaaS
+133231	false	63	39	Louisville	Health Care
+247151	false	63	37	Irvine	
+100315	false	63	35	Silicon Valley	SaaS
+141524	false	63	33	San Francisco	
+162433	false	63	31	Montreal	Telecommunications
+126037	false	63	29	Silicon Valley	Hardware & Equipment
+135377	false	63	29	Pittsburgh	
+100310	false	63	29	San Francisco	Retail & Ecommerce
+124897	false	63	29	Silicon Valley	
+101768	false	63	29		Education
+1194341	false	63	27		Media & Entertainment
+9713346	false	63	23		Health Care
+149695	false	63	23	Chicago	Media & Entertainment
+100115	false	63	23	Portland	Travel & Hospitality
+704640	false	63	22	Silicon Valley	Artificial Intelligence
+185257	false	63	22	Silicon Valley	
+173693	false	63	22	Portland	
+1482229	false	63	19	San Francisco	
+4417541	false	63	19	New York	
+324579	false	63	18	Jacksonville	Real Estate & Construction
+127857	false	63	18	Silicon Valley	
+154272	false	63	18	London	Consulting & Business Services
+124733	false	63	18	Silicon Valley	
+196609	false	63	18	Silicon Valley	
+171808	false	63	17	Raleigh	Telecommunications
+218823	false	63	16		Energy & Utilities
+384784	false	63	15		Hardware & Equipment
+363572	false	63	15	Denver	
+263203	false	63	15	Boston	
+151582	false	63	15	Toronto	
+104725	false	63	15	Chicago	SaaS
+122473	false	63	15	San Francisco	
+112879	false	63	15	New York	
+164388	false	63	15		Health Care
+116505	false	63	15	Atlanta	
+135388	false	63	15		Personal & Household Goods
+175514	false	63	15	Kansas City	Transportation & Warehousing
+117825	false	63	14	Columbus	
+163590	false	63	14	Vancouver	
+128842	false	63	14	Nashville	Health Care
+114227	false	63	14	Silicon Valley	
+494064	false	63	13		Health Care
+113399	false	63	12	San Francisco	
+1843225	false	63	12	Silicon Valley	
+158961	false	63	11		Hardware & Equipment
+683326	false	63	11	Minneapolis	Consulting & Business Services
+367935	false	63	11	New York	Media & Entertainment
+306656	false	63	11	Los Angeles	
+127856	false	63	11	Kansas City	Media & Entertainment
+289217	false	63	11	Cincinnati	Pharma & Biotech
+141517	false	63	11	Austin	
+1183543	false	63	11		Pharma & Biotech
+142379	false	63	11	Silicon Valley	Telecommunications
+135137	false	63	11		Personal & Household Goods
+124882	false	63	10	New York	Media & Entertainment
+715885	false	63	10	Mumbai	Food & Beverages
+695433	false	63	10	New York	
+155227	false	63	10	Scottsdale	
+100242	false	62	594	San Francisco	On Demand Economy
+113261	false	62	166		Consulting & Business Services
+106061	false	62	150		Retail & Ecommerce
+102407	false	62	107	San Francisco	
+131767	false	62	103		Internet of Things
+124188	false	62	90	San Francisco	SaaS
+135160	false	62	77		Energy & Utilities
+154982	false	62	74	Chicago	Real Estate & Construction
+115552	false	62	73		SaaS
+123101	false	62	72	Silicon Valley	SaaS
+122868	false	62	69	Portland	
+104201	false	62	69	New York	
+100017	false	62	66	Silicon Valley	
+104691	false	62	64	San Francisco	SaaS
+217933	false	62	62		SaaS
+125442	false	62	58		Retail & Ecommerce
+100282	false	62	55		On Demand Economy
+130035	false	62	50		Energy & Utilities
+123309	false	62	47	Silicon Valley	
+110836	false	62	45		Consulting & Business Services
+147425	false	62	45		Retail & Ecommerce
+179787	false	62	43		Energy & Utilities
+129284	false	62	37	New York	Media & Entertainment
+217584	false	62	36	San Francisco	
+142269	false	62	36		Health Care
+363860	false	62	33		Health Care
+401884	false	62	33	Cambridge	
+135659	false	62	31		Industrial Goods
+137422	false	62	31		Retail & Ecommerce
+498187	false	62	29		Transportation & Warehousing
+119007	false	62	27	London	Media & Entertainment
+128656	false	62	27	Boston	
+181633	false	62	27		Industrial Goods
+135322	false	62	26	Dallas	Travel & Hospitality
+122141	false	62	25	New York	Food & Beverages|On Demand Economy
+139749	false	62	25	Columbus	
+126905	false	62	24		SaaS
+166648	false	62	24	Atlanta	
+1409820	false	62	24	Silicon Valley	
+128569	false	62	24		Industrial Goods
+135082	false	62	22		Retail & Ecommerce
+114679	false	62	20	San Francisco	
+135723	false	62	20	Indianapolis	Media & Entertainment
+174068	false	62	20		Travel & Hospitality
+744174	false	62	20		On Demand Economy
+130691	false	62	20		Telecommunications
+125284	false	62	20		Pharma & Biotech
+137226	false	62	19		On Demand Economy
+104868	false	62	18	Atlanta	
+12334718	false	62	16		Pharma & Biotech
+122289	false	62	16		Personal & Household Goods
+2405794	false	62	16	Silicon Valley	Consulting & Business Services
+6358325	false	62	16	Austin	
+260531	false	62	15	Seattle	
+141619	false	62	15	Silicon Valley	
+127958	false	62	13	Irvine	
+372076	false	62	12	Denver	
+220911	false	62	12		Energy & Utilities
+122212	false	62	12	Burlington	Media & Entertainment
+133670	false	62	12	Cambridge	
+131635	false	62	12		Real Estate & Construction
+1425956	false	62	12	New York	
+1156284	false	62	12	San Francisco	
+251723	false	62	12		Retail & Ecommerce|On Demand Economy
+494607	false	62	12		Hardware & Equipment
+1178100	false	62	12	Boston	On Demand Economy
+12041303	false	62	12	Silicon Valley	Consulting & Business Services
+108664	false	62	12	New York	Consulting & Business Services
+183356	false	62	12	San Francisco	
+150894	false	62	12		Consulting & Business Services
+360750	false	62	12	Silicon Valley	On Demand Economy
+177041	false	62	12	New York	
+122326	false	62	12	Silicon Valley	
+127499	false	62	12		Industrial Goods
+186782	false	62	12	Philadelphia	Education
+161923	false	62	12	London	
+147707	false	62	11	Boston	
+123748	false	62	11	New York	Food & Beverages
+4372313	false	62	11		Retail & Ecommerce
+135275	false	62	11	New York	
+101450	false	61	406	Minneapolis	Retail & Ecommerce
+102584	false	61	161		SaaS|Artificial Intelligence
+131864	false	61	85	Denver	Real Estate & Construction
+127951	false	61	84	New York	
+128935	false	61	78		Energy & Utilities
+2231485	false	61	70	Indianapolis	
+104443	false	61	68	Silicon Valley	
+129999	false	61	67	Houston	
+118403	false	61	66	San Francisco	SaaS
+104577	false	61	64		SaaS
+104581	false	61	63	San Francisco	SaaS
+101952	false	61	57	New York	
+126988	false	61	54	Minneapolis	
+100125	false	61	48	San Francisco	SaaS|On Demand Economy
+1838974	false	61	47	Silicon Valley	
+123039	false	61	47	Austin	
+101418	false	61	44		Retail & Ecommerce
+130856	false	61	39	Chicago	
+482918	false	61	38		Real Estate & Construction
+135117	false	61	37	Silicon Valley	Food & Beverages
+125414	false	61	37	Silicon Valley	Hardware & Equipment
+358510	false	61	36		Consulting & Business Services
+172857	false	61	35	Cambridge	
+106771	false	61	33	New York	
+1182356	false	61	32	Silicon Valley	
+102931	false	61	30	Cincinnati	Consulting & Business Services
+106346	false	61	30	New York	Media & Entertainment
+190669	false	61	30	Silicon Valley	
+375138	false	61	29	San Francisco	Internet of Things
+104662	false	61	28	Chicago	
+123431	false	61	27	Phoenix	
+131202	false	61	27	New York	
+2235318	false	61	26	San Francisco	
+130501	false	61	26	Austin	Hardware & Equipment
+141104	false	61	26	New York	
+163601	false	61	24	Austin	Media & Entertainment
+132003	false	61	21	London	
+149802	false	61	21		Transportation & Warehousing
+1306948	false	61	19	London	Consulting & Business Services
+1574444	false	61	19		Travel & Hospitality
+110832	false	61	18	London	Media & Entertainment
+1154791	false	61	18	Seattle	Pharma & Biotech
+203426	false	61	17		Education
+196277	false	61	17		Real Estate & Construction
+139512	false	61	17		Consulting & Business Services
+359858	false	61	17		Consulting & Business Services
+128549	false	61	16	Austin	
+125355	false	61	16	New York	Education
+142295	false	61	16	Boston	Consulting & Business Services
+102531	false	61	13	New York	
+104477	false	61	13	Silicon Valley	Consulting & Business Services
+126273	false	61	13	San Francisco	
+140041	false	61	13	Toronto	
+144368	false	61	13	Las Vegas	Consulting & Business Services
+147100	false	61	13		Consulting & Business Services
+122704	false	61	13	San Diego	
+134528	false	61	13		Consulting & Business Services
+122633	false	61	13	Toronto	
+192176	false	61	13	New York	
+223725	false	61	13		Retail & Ecommerce
+1285244	false	61	13	New York	
+358922	false	61	12	Silicon Valley	
+252960	false	61	12	Los Angeles	Consulting & Business Services
+118849	false	61	12	Jacksonville	
+127949	false	60	487	New York	
+126836	false	60	156	Minneapolis	Consulting & Business Services|SaaS
+131013	false	60	153		Health Care
+126264	false	60	142	San Diego	Telecommunications|Internet of Things
+122759	false	60	134	Silicon Valley	
+123214	false	60	111		Consulting & Business Services
+140241	false	60	108	Irvine	
+116208	false	60	86	Silicon Valley	SaaS
+160111	false	60	70		Energy & Utilities
+158287	false	60	67	Toronto	
+137768	false	60	65	Toronto	
+103961	false	60	56	Austin	SaaS
+124059	false	60	55	Silicon Valley	SaaS
+124224	false	60	55	San Francisco	Banking
+1292316	false	60	53	Seattle	
+137503	false	60	53	San Francisco	On Demand Economy
+1485791	false	60	50	Silicon Valley	
+135882	false	60	48	Atlanta	
+150403	false	60	46		Travel & Hospitality
+124409	false	60	45	Portland	
+209392	false	60	43	Silicon Valley	Consulting & Business Services
+176449	false	60	42		Energy & Utilities
+127978	false	60	41		Travel & Hospitality
+100227	false	60	37	Silicon Valley	Health Care
+141715	false	60	35	Silicon Valley	
+122811	false	60	33	Silicon Valley	Education|On Demand Economy
+195847	false	60	30	Phoenix	Consulting & Business Services
+135185	false	60	30	Houston	Energy & Utilities
+1395944	false	60	29	Silicon Valley	
+132627	false	60	29	Chicago	Consulting & Business Services
+1373295	false	60	28	San Francisco	
+145729	false	60	28		Media & Entertainment
+183071	false	60	27	Charlotte	Health Care
+125172	false	60	26	Silicon Valley	Consulting & Business Services
+171507	false	60	25		Retail & Ecommerce
+126943	false	60	25		Media & Entertainment
+382171	false	60	25	Boston	
+104670	false	60	25		Media & Entertainment
+103318	false	60	25	San Francisco	
+371567	false	60	24		Consulting & Business Services
+148952	false	60	24	San Francisco	Consulting & Business Services
+172027	false	60	24		Retail & Ecommerce
+181321	false	60	24	New York	Media & Entertainment
+1285433	false	60	23	Boston	
+137233	false	60	23	Boston	Health Care
+169456	false	60	23	Silicon Valley	
+185436	false	60	23		Education
+100054	false	60	20	New York	Consulting & Business Services
+144273	false	60	20		Transportation & Warehousing
+133510	false	60	20	San Francisco	
+715910	false	60	20		Health Care
+100782	false	60	20	Silicon Valley	SaaS
+3670065	false	60	19	Atlanta	On Demand Economy
+139771	false	60	19		Hardware & Equipment
+129150	false	60	19		Health Care
+129222	false	60	19		Education
+125559	false	60	19		Retail & Ecommerce
+103981	false	60	19	London	Consulting & Business Services
+129311	false	60	18	Los Angeles	Media & Entertainment
+103340	false	60	18	San Francisco	
+122131	false	60	15	Silicon Valley	
+112857	false	60	15	San Francisco	
+152583	false	60	15	Houston	Education
+123087	false	60	15	Silicon Valley	Education|On Demand Economy
+173146	false	60	15	San Francisco	
+2440794	false	60	15		On Demand Economy
+1156530	false	60	15		Consulting & Business Services
+5258599	false	60	15	New York	
+358837	false	60	15		Health Care
+716372	false	60	14	Silicon Valley	
+141046	false	60	14	New York	Artificial Intelligence
+1297082	false	60	14	San Francisco	
+100356	false	60	14	Austin	
+707445	false	60	14	San Francisco	Health Care
+159987	false	60	14	London	
+134481	false	60	14		Consulting & Business Services
+127451	false	60	14	New York	
+125915	false	60	14	Austin	
+144817	false	60	14		Food & Beverages
+125198	false	60	12	San Francisco	
+182254	false	60	11		Consulting & Business Services
+123707	false	60	10		Transportation & Warehousing
+142620	false	60	10	Silicon Valley	
+153821	false	60	10		Hardware & Equipment
+163690	false	60	10		Food & Beverages
+198738	false	60	10	Silicon Valley	Media & Entertainment
+130421	false	60	10	Denver	Food & Beverages
+153380	false	60	10	Cambridge	
+221110	false	60	10	Tampa	Consulting & Business Services
+1582097	false	60	10	New York	
+1535209	false	60	10	Seattle	
+125534	false	60	10	Minneapolis	Food & Beverages
+126393	false	60	10	Silicon Valley	SaaS
+106758	false	60	10	New York	
+155459	false	60	10		Health Care
+123236	false	60	10	New York	Media & Entertainment
+2550497	false	60	10	London	
+245091	false	60	10	San Francisco	
+1720361	false	60	10	New York	
+122635	false	60	10	Chicago	
+117867	false	60	10	San Antonio	Consulting & Business Services
+157494	false	60	10	Chicago	Education
+134118	false	60	10	Silicon Valley	
+107751	false	60	10	San Diego	Pharma & Biotech
+701978	false	60	10	Boston	Energy & Utilities
+134206	false	60	10	Columbus	Media & Entertainment
+293033	false	60	10	Chicago	Real Estate & Construction
+124432	false	60	10	Silicon Valley	
+1478803	false	60	10		Pharma & Biotech
+124229	false	59	793		Personal & Household Goods|Internet of Things
+125448	false	59	366		Hardware & Equipment|Internet of Things
+122541	false	59	165	New York	Pharma & Biotech
+9712187	false	59	153		On Demand Economy
+135304	false	59	114	New York	
+103144	false	59	106		Consulting & Business Services|SaaS
+131513	false	59	84		Travel & Hospitality
+126266	false	59	84	Indianapolis	Pharma & Biotech
+6104889	false	59	70	Cambridge	
+217990	false	59	60	San Francisco	Retail & Ecommerce|On Demand Economy
+171925	false	59	53		Personal & Household Goods
+208525	false	59	52		Transportation & Warehousing
+127812	false	59	52		Industrial Goods
+100021	false	59	48	Silicon Valley	SaaS
+141629	false	59	48	New York	
+128630	false	59	47	London	Consulting & Business Services
+127759	false	59	42		Hardware & Equipment
+131169	false	59	41	London	Health Care
+143398	false	59	37	San Francisco	Food & Beverages|On Demand Economy
+125122	false	59	37	Silicon Valley	
+110840	false	59	36	Cambridge	Consulting & Business Services
+125318	false	59	36	San Francisco	Personal & Household Goods
+171170	false	59	32		Education
+122990	false	59	32	Philadelphia	Consulting & Business Services
+150104	false	59	26		Industrial Goods
+125967	false	59	26	Los Angeles	
+1473535	false	59	26	Mumbai	
+175416	false	59	24	New York	
+135252	false	59	22		Industrial Goods
+129389	false	59	21		Health Care
+112851	false	59	21	New York	
+122331	false	59	21		Pharma & Biotech
+171222	false	59	17	Burlington	
+2239760	false	59	16	London	
+158103	false	59	16		Media & Entertainment
+2441018	false	59	16	Washington	Health Care
+132791	false	59	16		Hardware & Equipment
+125366	false	59	16		Media & Entertainment
+102254	false	59	16	San Francisco	Hardware & Equipment
+101277	false	59	16	Seattle	
+140590	false	59	14	New York	Transportation & Warehousing|On Demand Economy
+100214	false	59	14	Silicon Valley	Consulting & Business Services
+369622	false	59	11	Portland	
+106608	false	59	11	Kansas City	Consulting & Business Services
+163415	false	59	11		Transportation & Warehousing
+121479	false	59	11		Banking
+103525	false	59	11		Health Care
+141614	false	59	11	Toronto	
+188921	false	59	11	Silicon Valley	Consulting & Business Services
+2235721	false	59	11	New Delhi	
+126902	false	59	11	Portland	
+370286	false	59	11	Toronto	
+1147877	false	59	11		Retail & Ecommerce
+160851	false	59	11	Cincinnati	Transportation & Warehousing
+1156285	false	59	11	New York	
+111082	false	59	11		Consulting & Business Services
+253792	false	59	11	Mumbai	Transportation & Warehousing|On Demand Economy
+700502	false	59	11	New Delhi	
+170940	false	59	11	New York	Consulting & Business Services
+1476235	false	59	11	New York	
+136212	false	59	10		Telecommunications
+183324	false	58	419		Hardware & Equipment
+143901	false	58	174		Automobile
+127950	false	58	162	New York	
+172098	false	58	117	San Francisco	
+127829	false	58	84		Industrial Goods
+103336	false	58	80	Boston	
+125119	false	58	68	San Francisco	Health Care|Internet of Things
+1197285	false	58	67		SaaS
+125755	false	58	67	Silicon Valley	Hardware & Equipment
+131512	false	58	67		Travel & Hospitality
+100740	false	58	66		SaaS
+103751	false	58	64	Scottsdale	
+135576	false	58	60	Houston	Energy & Utilities
+218307	false	58	52		Retail & Ecommerce
+149924	false	58	50		Energy & Utilities
+127503	false	58	49		Health Care
+102223	false	58	49	Silicon Valley	Hardware & Equipment
+122151	false	58	47	Toronto	
+111702	false	58	45	Chicago	
+141286	false	58	43	Boston	
+124315	false	58	43	Indianapolis	
+107959	false	58	42		Media & Entertainment
+122479	false	58	39	Silicon Valley	Consulting & Business Services|SaaS
+126925	false	58	39		Personal & Household Goods|Internet of Things
+103067	false	58	39	Silicon Valley	
+362252	false	58	35	San Francisco	
+178886	false	58	35		SaaS
+100019	false	58	35	Portland	
+171958	false	58	34		Hardware & Equipment
+125396	false	58	34	San Francisco	Health Care
+12159474	false	58	31	Silicon Valley	
+138812	false	58	31	Las Vegas	Travel & Hospitality
+132258	false	58	30		Consulting & Business Services
+139709	false	58	30	Mumbai	
+147705	false	58	29	San Francisco	
+141779	false	58	29	Scottsdale	Transportation & Warehousing
+156885	false	58	28	Vancouver	Telecommunications
+135142	false	58	28	Atlanta	Energy & Utilities
+141300	false	58	28	San Francisco	
+139366	false	58	25		Consulting & Business Services
+160474	false	58	24	Silicon Valley	
+124347	false	58	24	Silicon Valley	
+106567	false	58	24	Silicon Valley	
+124677	false	58	23	New York	Retail & Ecommerce
+1475684	false	58	23		Retail & Ecommerce
+138633	false	58	18		Retail & Ecommerce
+182514	false	58	18		Consulting & Business Services
+224977	false	58	18	Mumbai	
+155416	false	58	18		Hardware & Equipment
+125852	false	58	18		Consulting & Business Services
+135098	false	58	18	Orlando	
+207315	false	58	18	London	
+144912	false	58	17	Seattle	
+1402900	false	58	17	San Francisco	
+143623	false	58	17		Personal & Household Goods
+4113496	false	58	17	Los Angeles	Consulting & Business Services|On Demand Economy
+150907	false	58	17		Education
+104210	false	58	17	New York	
+146293	false	58	17	Chicago	
+122095	false	58	17	Minneapolis	Consulting & Business Services
+386428	false	58	17		Consulting & Business Services
+106441	false	58	12	Chicago	
+1855292	false	58	12		On Demand Economy
+702930	false	58	12	New York	
+154833	false	58	12	Irvine	
+180688	false	58	12		Hardware & Equipment
+135873	false	58	12	Pittsburgh	Retail & Ecommerce
+135707	false	58	12		Retail & Ecommerce
+439160	false	58	12	Austin	
+1575673	false	58	12	San Francisco	Consulting & Business Services
+139700	false	58	12	Silicon Valley	SaaS
+1486475	false	58	12	Chicago	
+1419297	false	58	12	San Diego	
+114559	false	58	12		Consulting & Business Services
+103306	false	58	12	Sydney	
+100122	false	58	12	New York	Education|On Demand Economy
+150562	false	58	12		Telecommunications
+137977	false	58	12		Food & Beverages
+378679	false	58	11	San Francisco	
+135976	false	58	11		Telecommunications
+134013	false	58	11	Austin	
+163206	false	58	11	Vancouver	
+263107	false	58	10		Consulting & Business Services
+128515	false	57	287	New York	
+128937	false	57	193		Energy & Utilities
+102899	false	57	187		Energy & Utilities
+101363	false	57	186	San Francisco	Artificial Intelligence
+100061	false	57	131	San Francisco	
+127628	false	57	127	Houston	Energy & Utilities
+104120	false	57	124	New York	
+130786	false	57	109		Telecommunications
+131941	false	57	84	Louisville	Health Care
+100510	false	57	63	Silicon Valley	
+127612	false	57	63	London	
+384251	false	57	62	Silicon Valley	
+100459	false	57	59	Silicon Valley	
+135766	false	57	57	London	Food & Beverages
+155246	false	57	50	Silicon Valley	
+135308	false	57	50		Hardware & Equipment
+122334	false	57	47	San Francisco	
+124775	false	57	46	Silicon Valley	SaaS
+114681	false	57	46	Silicon Valley	Media & Entertainment
+119736	false	57	45	Silicon Valley	Telecommunications
+129650	false	57	44		Pharma & Biotech
+135365	false	57	39		Health Care
+132171	false	57	39		SaaS
+104743	false	57	39	San Francisco	
+1165209	false	57	37	San Francisco	
+156346	false	57	37	San Francisco	
+102079	false	57	31	Silicon Valley	SaaS
+1408139	false	57	27	Silicon Valley	
+1827789	false	57	27	New York	On Demand Economy
+142330	false	57	26	San Francisco	
+179501	false	57	26	New York	
+139303	false	57	25		Media & Entertainment
+135030	false	57	24	Silicon Valley	
+150066	false	57	21		Transportation & Warehousing
+127299	false	57	21	New York	
+714241	false	57	21	New York	
+145551	false	57	20	Melbourne	
+12157598	false	57	20		Health Care
+12029765	false	57	20	New Delhi	
+1377342	false	57	20	Mumbai	Retail & Ecommerce
+123416	false	57	20	San Francisco	On Demand Economy
+164858	false	57	19	Silicon Valley	
+134624	false	57	19	Silicon Valley	
+134940	false	57	19	Silicon Valley	
+183811	false	57	19		Food & Beverages
+140211	false	57	19	Houston	SaaS
+159563	false	57	19		Food & Beverages
+147204	false	57	19	Sydney	
+142398	false	57	19	New York	
+125260	false	57	19	Nashville	Consulting & Business Services
+139674	false	57	14		Retail & Ecommerce
+1824222	false	57	14	Silicon Valley	Health Care
+181472	false	57	14		Telecommunications
+100048	false	57	14	Silicon Valley	On Demand Economy
+127557	false	57	14	Dallas	
+319749	false	57	14		Real Estate & Construction
+131205	false	57	14		Food & Beverages
+494068	false	57	13	San Francisco	
+173252	false	57	13	Houston	
+709004	false	57	13	New York	Consulting & Business Services
+371253	false	57	13	San Francisco	
+128028	false	57	13	Irvine	Pharma & Biotech
+101479	false	57	13	Silicon Valley	Health Care
+132562	false	57	13		Automobile
+204299	false	57	13	Austin	
+159469	false	57	13	London	
+145616	false	57	13	Silicon Valley	
+153559	false	57	13	Austin	SaaS
+384268	false	57	13	Silicon Valley	
+1490907	false	57	13		Hardware & Equipment
+135219	false	57	11	Charlotte	Automobile
+263122	false	57	11	Chicago	Consulting & Business Services
+100504	false	56	360	Silicon Valley	SaaS
+122299	false	56	267	Silicon Valley	
+134810	false	56	234		Real Estate & Construction
+127188	false	56	112		Internet of Things
+9674999	false	56	95	Seattle	
+135112	false	56	89	Houston	Energy & Utilities
+126630	false	56	79	San Francisco	Consulting & Business Services
+124183	false	56	70	Silicon Valley	Telecommunications
+177685	false	56	64		Transportation & Warehousing
+126340	false	56	57		Retail & Ecommerce
+1532351	false	56	57	Mumbai	
+149668	false	56	42		Retail & Ecommerce
+139618	false	56	41	Minneapolis	
+134185	false	56	40		Consulting & Business Services
+107767	false	56	39		Pharma & Biotech
+102651	false	56	38	San Francisco	On Demand Economy
+126592	false	56	38	Silicon Valley	
+106305	false	56	37		Consulting & Business Services
+124722	false	56	32	Austin	
+121371	false	56	32	New York	
+100187	false	56	31	Silicon Valley	SaaS
+166272	false	56	30	New York	Real Estate & Construction
+105823	false	56	30	San Francisco	
+198457	false	56	30	London	Real Estate & Construction
+133560	false	56	29	Montreal	Real Estate & Construction
+125611	false	56	29	Burlington	
+135579	false	56	25		Transportation & Warehousing
+698748	false	56	25	Silicon Valley	Energy & Utilities
+111704	false	56	25	Silicon Valley	Consulting & Business Services
+737618	false	56	25	San Francisco	
+120390	false	56	24		Education
+129671	false	56	24		Travel & Hospitality
+141871	false	56	23		Telecommunications
+367033	false	56	22		Consulting & Business Services
+103130	false	56	22		Health Care
+132076	false	56	21		Real Estate & Construction
+113932	false	56	18	Silicon Valley	
+455787	false	56	16	San Francisco	
+133435	false	56	16		Energy & Utilities
+369196	false	56	16	Minneapolis	
+1289671	false	56	16	Boston	
+1859454	false	56	15	Silicon Valley	
+187275	false	56	15	New York	
+1620881	false	56	15		On Demand Economy
+7244919	false	56	15	San Francisco	Consulting & Business Services
+135234	false	56	15		Retail & Ecommerce
+199883	false	56	14	San Francisco	
+149015	false	55	313		Automobile
+126414	false	55	186		Health Care
+125773	false	55	126	Atlanta	Telecommunications
+125451	false	55	122		Pharma & Biotech
+100505	false	55	79	Silicon Valley	SaaS
+100322	false	55	73	San Francisco	SaaS
+5299803	false	55	69	Silicon Valley	
+129580	false	55	68		Hardware & Equipment
+100537	false	55	62	San Francisco	SaaS
+1140856	false	55	61	New York	
+123439	false	55	60	Silicon Valley	
+125020	false	55	60	Silicon Valley	Telecommunications
+125921	false	55	58		Consulting & Business Services
+104467	false	55	52	Orlando	
+12133168	false	55	52	London	
+146770	false	55	50		Consulting & Business Services
+171709	false	55	39		Consulting & Business Services|SaaS
+208383	false	55	34		Consulting & Business Services|SaaS
+129358	false	55	29	New York	
+124157	false	55	28		SaaS
+125535	false	55	28	Silicon Valley	
+223903	false	55	28		Real Estate & Construction
+129840	false	55	28	Indianapolis	
+696706	false	55	26		Telecommunications
+129486	false	55	24	San Diego	Health Care
+129631	false	55	20		Hardware & Equipment
+122372	false	55	20	Silicon Valley	
+149744	false	55	19		Health Care
+7672770	false	55	19		Health Care
+135394	false	55	19	New York	Personal & Household Goods
+200757	false	55	19	New York	Artificial Intelligence
+129164	false	55	19		Health Care
+357674	false	55	19		Hardware & Equipment
+141723	false	55	19	Silicon Valley	
+194710	false	55	18	New York	
+131647	false	55	18	Chicago	Health Care
+139072	false	55	18	Pittsburgh	Retail & Ecommerce
+480222	false	55	17	London	Consulting & Business Services
+131279	false	55	17	Silicon Valley	Hardware & Equipment
+133511	false	55	17	San Francisco	
+149809	false	55	17		Telecommunications
+134681	false	55	16	London	
+123722	false	55	16	Silicon Valley	
+9711605	false	55	12		Personal & Household Goods
+225170	false	55	10		Retail & Ecommerce
+1531878	false	55	10	Silicon Valley	Pharma & Biotech
+261632	false	55	10	San Francisco	
+123657	false	55	10	New York	Consulting & Business Services
+1575742	false	55	10		Consulting & Business Services
+1189637	false	55	10		Automobile
+308936	false	55	10	Austin	Education
+1420965	false	55	10	Charlotte	
+123954	false	55	10	Silicon Valley	
+124153	false	55	10	Silicon Valley	
+126562	false	55	10		Health Care
+183982	false	55	10	Burlington	Health Care
+128534	false	54	501	Philadelphia	Media & Entertainment|Internet of Things
+101638	false	54	175	San Francisco	SaaS
+101230	false	54	133	Silicon Valley	SaaS
+101230	false	54	133	Silicon Valley	SaaS
+129422	false	54	131		Media & Entertainment
+124429	false	54	128		SaaS|Artificial Intelligence
+126018	false	54	119		Industrial Goods
+149132	false	54	65	Silicon Valley	
+133150	false	54	62		Industrial Goods
+118719	false	54	60	Silicon Valley	
+497281	false	54	56		Travel & Hospitality
+12137718	false	54	50	Austin	
+1194454	false	54	44	Silicon Valley	
+2067513	false	54	42	Silicon Valley	
+135267	false	54	41		Food & Beverages
+179539	false	54	36		Real Estate & Construction
+363380	false	54	36		Consulting & Business Services
+104282	false	54	35	Chicago	Retail & Ecommerce
+703734	false	54	34	Los Angeles	Real Estate & Construction
+1403165	false	54	34	Toronto	
+1724099	false	54	32	New York	
+148707	false	54	30	New York	
+174278	false	54	26		Personal & Household Goods
+128145	false	54	24		Hardware & Equipment
+1282389	false	54	24		Consulting & Business Services
+177864	false	54	24		Media & Entertainment
+486871	false	54	23		Transportation & Warehousing
+1490682	false	54	22	San Francisco	
+153127	false	54	22		Transportation & Warehousing
+100405	false	54	22	San Francisco	On Demand Economy
+132411	false	54	22	Washington	Consulting & Business Services
+123537	false	54	22		Automobile
+4406310	false	54	21	Mumbai	
+128187	false	54	21		Automobile
+123227	false	54	20	New York	
+100103	false	54	20	Los Angeles	
+140538	false	54	18	Denver	Media & Entertainment
+123927	false	54	15		SaaS
+132693	false	54	14	Austin	
+123215	false	54	12	Silicon Valley	
+495797	false	54	12	Austin	Media & Entertainment
+127783	false	54	12	Silicon Valley	
+144506	false	54	12	Raleigh	
+12096752	false	54	12	New York	Travel & Hospitality
+1423524	false	54	12	Washington	Consulting & Business Services
+209213	false	54	12	Silicon Valley	
+136853	false	54	12	San Diego	Retail & Ecommerce
+188994	false	54	11		Real Estate & Construction
+141356	false	54	11	San Francisco	Consulting & Business Services
+149133	false	54	11	Chicago	
+201706	false	54	11		Consulting & Business Services
+132254	false	54	11	San Francisco	
+176195	false	54	11		Automobile
+102513	false	54	11	San Francisco	Media & Entertainment
+135574	false	54	11	New York	Personal & Household Goods
+198551	false	54	11	London	Hardware & Equipment
+139491	false	54	11	Silicon Valley	
+207710	false	54	10		Media & Entertainment
+103449	false	53	821		Telecommunications
+102260	false	53	507	Silicon Valley	Hardware & Equipment|SaaS|Artificial Intelligence|Internet of Things
+100658	false	53	237	Silicon Valley	SaaS
+124415	false	53	136	San Francisco	SaaS
+152568	false	53	105		Transportation & Warehousing
+124973	false	53	90	Montreal	
+128349	false	53	77	Pittsburgh	
+5840993	false	53	64	Louisville	
+122130	false	53	61	Silicon Valley	
+115421	false	53	61	Silicon Valley	
+150404	false	53	48		Travel & Hospitality
+103185	false	53	47	Silicon Valley	SaaS|Artificial Intelligence
+144414	false	53	44	Minneapolis	Education
+130385	false	53	35		SaaS
+169557	false	53	34	Vancouver	
+111692	false	53	33	Atlanta	Media & Entertainment
+125459	false	53	29	New York	Media & Entertainment
+100489	false	53	29	New York	
+102264	false	53	27		Telecommunications
+125809	false	53	27		Energy & Utilities
+357761	false	53	17		Travel & Hospitality|On Demand Economy
+6793829	false	53	16	Silicon Valley	
+135754	false	53	16		Consulting & Business Services
+154237	false	53	16		Media & Entertainment
+117619	false	53	16	Chicago	
+131467	false	53	16	Chicago	Consulting & Business Services
+1479546	false	53	15	New York	Real Estate & Construction
+104591	false	53	15	New York	
+141610	false	53	14	Seattle	On Demand Economy
+166098	false	53	14	Vancouver	Consulting & Business Services
+126512	false	53	14	Silicon Valley	
+1176167	false	53	14	Raleigh	
+117877	false	53	14		Media & Entertainment
+125285	false	53	14		Pharma & Biotech
+190332	false	53	14		Consulting & Business Services
+135584	false	53	13	Philadelphia	Retail & Ecommerce
+12205566	false	53	13		Industrial Goods
+1852623	false	53	13	London	
+128150	false	53	13		Consulting & Business Services
+124922	false	53	13	New York	Banking
+123204	false	53	13	Portland	
+139369	false	53	12		Consulting & Business Services
+224883	false	53	12	Melbourne	Retail & Ecommerce
+133438	false	53	12		Telecommunications
+124781	false	53	12	San Francisco	
+127970	false	53	12		Media & Entertainment
+115166	false	53	11		Retail & Ecommerce
+115166	false	53	11		Retail & Ecommerce
+102139	false	52	1803		SaaS|Artificial Intelligence|Internet of Things
+126020	false	52	429	Charlotte	
+128259	false	52	203		Industrial Goods
+129308	false	52	133	Chicago	Telecommunications
+128994	false	52	128	Silicon Valley	Pharma & Biotech
+133151	false	52	104		Energy & Utilities
+5015490	false	52	95	Mumbai	On Demand Economy
+123836	false	52	89	Silicon Valley	Energy & Utilities
+129889	false	52	86		Consulting & Business Services
+113964	false	52	85	Silicon Valley	
+100289	false	52	74	New York	
+1427008	false	52	67	San Francisco	
+154924	false	52	67		Retail & Ecommerce
+107947	false	52	61	Indianapolis	
+129296	false	52	49		Energy & Utilities
+126148	false	52	49	Dallas	Health Care
+135211	false	52	46	Austin	Retail & Ecommerce
+118114	false	52	44	Houston	
+2232845	false	52	42	Mumbai	Food & Beverages
+1845774	false	52	40	Mumbai	
+12010458	false	52	40	Silicon Valley	SaaS|On Demand Economy
+135190	false	52	38	Dallas	Energy & Utilities
+129983	false	52	36		Health Care
+140623	false	52	33	Silicon Valley	Pharma & Biotech
+104503	false	52	23	New York	Banking
+151764	false	52	23		Telecommunications
+128889	false	52	22	Silicon Valley	
+1171427	false	52	22	Mumbai	Retail & Ecommerce
+126586	false	52	21	Seattle	Consulting & Business Services
+149733	false	52	21		Telecommunications
+132487	false	52	21		Real Estate & Construction
+1846705	false	52	20	San Francisco	
+134177	false	52	20	Fort Worth	Hardware & Equipment
+124118	false	52	20	New York	Retail & Ecommerce
+141363	false	52	19	New York	Retail & Ecommerce
+131614	false	52	18		Telecommunications
+228080	false	52	18		Transportation & Warehousing
+124081	false	52	18	Silicon Valley	
+124303	false	52	18	Chicago	
+126131	false	52	18		Hardware & Equipment
+127842	false	52	18		Pharma & Biotech
+100015	false	52	17	Silicon Valley	
+104711	false	52	16	Silicon Valley	Consulting & Business Services
+100334	false	52	15		SaaS
+162786	false	52	12	Silicon Valley	Hardware & Equipment
+124585	false	51	404	Cambridge	Pharma & Biotech
+103018	false	51	399	Silicon Valley	
+103634	false	51	317		Consulting & Business Services|Internet of Things
+100469	false	51	121	Silicon Valley	SaaS
+122973	false	51	111	San Francisco	
+103566	false	51	111	New York	SaaS
+100376	false	51	102	San Francisco	
+132702	false	51	94	Los Angeles	
+129903	false	51	91		Food & Beverages
+126339	false	51	90	Atlanta	Retail & Ecommerce
+371872	false	51	60	New York	
+136211	false	51	58	London	Telecommunications
+125920	false	51	54	Houston	
+142016	false	51	50	Silicon Valley	Consulting & Business Services
+123336	false	51	46		SaaS
+100180	false	51	46	New York	
+102915	false	51	45		Hardware & Equipment
+122757	false	51	44	Silicon Valley	Hardware & Equipment
+128622	false	51	41		Consulting & Business Services
+154308	false	51	39	London	Telecommunications
+127987	false	51	38		Food & Beverages
+1624507	false	51	36		Health Care
+108869	false	51	35	Silicon Valley	Media & Entertainment
+123100	false	51	31	Seattle	
+135755	false	51	30		Hardware & Equipment
+124008	false	51	29	Silicon Valley	
+122850	false	51	28	Boston	Education
+196287	false	51	28		Education
+142952	false	51	26	Vancouver	
+1156595	false	51	26		Retail & Ecommerce
+166306	false	51	25	New York	Consulting & Business Services
+124680	false	51	20	New York	Retail & Ecommerce
+111136	false	50	167	Silicon Valley	Hardware & Equipment
+156275	false	50	114	Silicon Valley	
+130609	false	50	93	New York	Real Estate & Construction
+128018	false	50	63	Washington	
+125482	false	50	58		Automobile
+131492	false	50	56		Hardware & Equipment
+168429	false	50	55		Food & Beverages
+100002	false	50	54	San Francisco	SaaS
+103143	false	50	51		Health Care
+147802	false	50	49	Pittsburgh	
+124603	false	50	46		Internet of Things
+12029828	false	50	42		Travel & Hospitality
+140232	false	50	41		SaaS
+149788	false	50	34	London	Pharma & Biotech
+132486	false	50	33		Real Estate & Construction
+1869707	false	50	32	New York	Retail & Ecommerce
+218290	false	50	29	Silicon Valley	
+106219	false	50	28	Austin	
+185089	false	50	26	Toronto	
+113936	false	50	26	Silicon Valley	Hardware & Equipment
+119636	false	50	25		Consulting & Business Services
+1151274	false	50	25	New York	
+384487	false	50	23	Denver	Health Care
+198556	false	50	23		Real Estate & Construction
+1191417	false	50	23		Telecommunications
+144185	false	50	22	Melbourne	
+174374	false	50	22		Energy & Utilities
+151846	false	50	22	Silicon Valley	Education
+1408621	false	50	22	Denver	
+135749	false	50	22		Industrial Goods
+180592	false	50	21	New York	
+491292	false	50	21	Silicon Valley	
+141807	false	50	21	Dallas	
+124275	false	50	19		Energy & Utilities
+143726	false	50	19		Consulting & Business Services
+1193874	false	50	19		Health Care
+122783	false	50	19	Silicon Valley	
+129032	false	50	18		Food & Beverages
+185636	false	50	18	Chicago	Real Estate & Construction
+183380	false	50	18		Telecommunications
+130400	false	50	18		Industrial Goods
+130899	false	50	17		SaaS
+1180322	false	50	17	New York	
+293993	false	50	17	New York	
+135397	false	50	17	Phoenix	Transportation & Warehousing
+130899	false	50	17		SaaS
+12155129	false	50	17	Silicon Valley	
+137444	false	50	17	Las Vegas	Consulting & Business Services
+163642	false	50	17	Austin	Pharma & Biotech
+148229	false	50	17	Irvine	
+119353	false	50	16		Media & Entertainment
+123813	false	50	16	New York	Consulting & Business Services
+106612	false	50	16	London	
+133230	false	50	16	San Diego	Health Care
+271191	false	50	15	London	Media & Entertainment
+366805	false	50	15	Dallas	Telecommunications
+226320	false	50	15	Austin	
+128273	false	50	15	Philadelphia	Consulting & Business Services
+12054935	false	50	14	Denver	
+125799	false	50	14	Silicon Valley	Hardware & Equipment|Internet of Things
+150076	false	50	14		Telecommunications
+190543	false	50	14		Pharma & Biotech
+123805	false	50	14		Media & Entertainment
+160854	false	50	14		Transportation & Warehousing
+124684	false	50	14	Cleveland	
+161229	false	50	13	Toronto	
+171539	false	50	13		Consulting & Business Services
+103138	false	50	13	Chicago	Health Care
+149466	false	50	13		Telecommunications
+1831283	false	50	13	Houston	Travel & Hospitality
+125886	false	50	13		Retail & Ecommerce
+135348	false	50	13	New York	Consulting & Business Services
+138198	false	50	13	Silicon Valley	Health Care
+482705	false	50	12	Miami	
+209560	false	50	12		Real Estate & Construction
+101545	false	50	12	Los Angeles	Pharma & Biotech
+144923	false	50	12	Silicon Valley	
+129149	false	50	12		Health Care
+129571	false	50	12	Denver	Consulting & Business Services
+7011702	false	50	11	Mumbai	Personal & Household Goods
+1851811	false	50	11	Chicago	
+4367084	false	50	11		Education
+133224	false	50	11		Real Estate & Construction
+122949	false	50	11	Silicon Valley	SaaS
+1834231	false	50	11	Atlanta	
+182832	false	50	10		Telecommunications
+152430	false	50	10		Energy & Utilities
+4371062	false	50	10	New Delhi	Retail & Ecommerce
+134294	false	50	10	Austin	
+485357	false	50	10	New York	Retail & Ecommerce
+136536	false	50	10	Houston	Health Care
+1388742	false	50	10	Silicon Valley	
+126733	false	49	313		Telecommunications|Internet of Things
+105625	false	49	180	Silicon Valley	Hardware & Equipment
+130416	false	49	104	London	Consulting & Business Services
+107426	false	49	74		Consulting & Business Services|SaaS
+119430	false	49	61	San Francisco	Consulting & Business Services
+162806	false	49	57		Automobile
+100507	false	49	56	San Francisco	SaaS
+115690	false	49	55	San Francisco	Transportation & Warehousing|On Demand Economy
+100980	false	48	440	Silicon Valley	SaaS|Internet of Things
+126068	false	48	231		Automobile
+131600	false	48	87	Atlanta	Food & Beverages
+135236	false	48	75		Food & Beverages
+130608	false	48	70	Toronto	Real Estate & Construction
+179756	false	48	52	Melbourne	
+100886	false	48	48		Consulting & Business Services
+260098	false	48	48	Denver	
+131471	false	48	46		SaaS
+183068	false	48	41		Transportation & Warehousing
+122510	false	48	34	San Francisco	
+207138	false	48	33		Real Estate & Construction
+170400	false	48	30	London	Food & Beverages
+128791	false	48	30	Miami	Food & Beverages
+139353	false	48	29		Health Care
+12034127	false	48	28		Health Care
+102401	false	48	27	San Francisco	
+126650	false	48	26		Industrial Goods
+128628	false	48	25		Health Care
+103631	false	47	173		Energy & Utilities
+135171	false	47	162	Dallas	Transportation & Warehousing
+100397	false	47	94	Silicon Valley	SaaS
+120612	false	47	63		Hardware & Equipment|SaaS
+120612	false	47	63		Hardware & Equipment|SaaS
+153079	false	47	44		Transportation & Warehousing
+753340	false	47	36	Silicon Valley	
+139298	false	47	23	Boston	Telecommunications
+2234809	false	47	22	Boston	
+130405	false	47	20	Houston	Energy & Utilities
+695411	false	47	20		Consulting & Business Services
+1288544	false	47	20	Toronto	Media & Entertainment
+12035200	false	47	20	London	
+207885	false	47	20	Chicago	Telecommunications
+126714	false	47	19	Tampa	
+121427	false	47	19	Silicon Valley	
+169322	false	47	19	San Diego	Pharma & Biotech
+117627	false	47	18	Portland	
+141260	false	47	18	Boston	
+363281	false	47	18	New York	Health Care
+138998	false	47	17	Minneapolis	Real Estate & Construction
+129562	false	47	17	Los Angeles	
+225308	false	47	14	Silicon Valley	Education
+100292	false	47	11		SaaS
+130331	false	46	226	Los Angeles	Real Estate & Construction
+123864	false	46	189	Silicon Valley	SaaS
+130404	false	46	177	Houston	Energy & Utilities
+150136	false	46	106	Mumbai	Automobile
+135737	false	46	96	London	
+250902	false	46	80	San Francisco	
+123338	false	46	79	Silicon Valley	Telecommunications|SaaS
+7106753	false	46	71	Mumbai	
+119263	false	46	63		Pharma & Biotech
+100168	false	46	61	Silicon Valley	SaaS
+106604	false	46	59		Banking
+392026	false	46	49	Vancouver	
+126079	false	46	38	Silicon Valley	
+139636	false	46	33	San Francisco	
+139850	false	46	32	Los Angeles	
+103999	false	46	30	Silicon Valley	
+135436	false	46	29		Industrial Goods
+129192	false	46	26	Silicon Valley	
+173543	false	46	24		Energy & Utilities
+1292234	false	46	22		Travel & Hospitality
+212318	false	46	15		Telecommunications
+1186010	false	46	15	London	Travel & Hospitality
+1725494	false	46	14	London	On Demand Economy
+139135	false	46	14		Consulting & Business Services
+177970	false	46	14		Transportation & Warehousing
+103485	false	46	14	San Francisco	
+136115	false	46	14	Atlanta	Media & Entertainment
+2623774	false	46	13	Silicon Valley	Consulting & Business Services
+100170	false	46	13		Media & Entertainment
+1174383	false	46	13	Toronto	
+799157	false	46	13		Consulting & Business Services
+157827	false	46	13		Media & Entertainment
+150044	false	46	13	Indianapolis	Transportation & Warehousing
+123803	false	46	10	San Francisco	
+261596	false	45	164	Silicon Valley	Media & Entertainment
+105900	false	45	125	Austin	SaaS
+126678	false	45	117		Industrial Goods
+123895	false	45	74	Silicon Valley	Hardware & Equipment|Internet of Things
+135110	false	45	62		Health Care
+101420	false	45	51		Retail & Ecommerce
+127910	false	45	49		Automobile
+141518	false	45	43	San Francisco	Travel & Hospitality
+105767	false	45	31	Silicon Valley	Media & Entertainment
+124770	false	45	23	Silicon Valley	
+134193	false	45	23		SaaS
+139027	false	45	22	Atlanta	
+111716	false	45	21		Consulting & Business Services
+375320	false	45	21		Consulting & Business Services
+107246	false	45	20	Silicon Valley	
+154922	false	45	20	New York	Personal & Household Goods
+380797	false	45	19	San Francisco	
+207072	false	45	12	Chicago	
+122208	false	45	12	New York	Health Care
+129470	false	45	12	New York	
+438005	false	45	12	Chicago	Telecommunications
+170374	false	45	11	Cambridge	Telecommunications
+1487557	false	45	11		Personal & Household Goods
+111700	false	45	11		Consulting & Business Services
+1836580	false	45	11	Silicon Valley	
+701060	false	45	11	San Francisco	Pharma & Biotech
+242915	false	45	10		Retail & Ecommerce
+138631	false	45	10	Boston	
+104071	false	45	10	New York	Media & Entertainment
+119083	false	45	10	New York	Consulting & Business Services
+113075	false	45	10	Silicon Valley	
+136830	false	44	369		Retail & Ecommerce
+135129	false	44	331	Fort Worth	Transportation & Warehousing
+119754	false	44	80		Telecommunications
+126259	false	44	57		Consulting & Business Services
+138475	false	44	56	San Francisco	SaaS
+150663	false	44	42		Automobile
+126325	false	44	28		Consulting & Business Services
+133608	false	44	27	Jacksonville	Travel & Hospitality
+135254	false	44	26	Seattle	Transportation & Warehousing
+141979	false	44	18		Media & Entertainment
+150271	false	44	18		Media & Entertainment
+100331	false	44	17	Boston	Hardware & Equipment
+100979	false	43	787	Silicon Valley	Hardware & Equipment
+128901	false	43	189		Retail & Ecommerce
+128733	false	43	58		Health Care
+126265	false	43	57		Hardware & Equipment
+123139	false	43	51	San Francisco	SaaS
+135840	false	43	36	London	Real Estate & Construction
+211826	false	43	16		Telecommunications
+105115	false	42	54	Chicago	On Demand Economy
+129089	false	42	47	San Francisco	
+123443	false	42	40		Health Care
+172369	false	42	38	New York	
+131362	false	42	35	Denver	Travel & Hospitality
+145955	false	42	33	Denver	Travel & Hospitality
+120082	false	42	21	Irvine	
+230612	false	42	19		Retail & Ecommerce
+118655	false	42	18	Silicon Valley	
+124208	false	42	16		Retail & Ecommerce
+135822	false	42	14		Industrial Goods
+124176	false	42	13	New York	Consulting & Business Services
+134366	false	41	114		Food & Beverages
+1174842	false	41	81	New York	
+103992	false	41	68		Banking
+12056111	false	41	63		Transportation & Warehousing
+123710	false	41	52	Houston	Transportation & Warehousing
+159166	false	41	34		Transportation & Warehousing
+122951	false	41	28		Consulting & Business Services
+113381	false	41	18		On Demand Economy
+102281	false	41	18	Boston	Energy & Utilities
+164126	false	41	18	New York	Retail & Ecommerce
+122345	false	41	17	Boston	Consulting & Business Services
+12140266	false	41	12	San Diego	
+131550	false	41	12		Health Care
+107300	false	41	12		Consulting & Business Services
+108757	false	40	161		SaaS
+137893	false	40	132	Boston	
+6105162	false	40	52	Seattle	Real Estate & Construction
+217994	false	40	49	San Francisco	SaaS
+136964	false	40	38	Salt Lake City	Telecommunications
+135290	false	40	21	Las Vegas	Travel & Hospitality
+6554032	false	40	21	San Francisco	Travel & Hospitality
+132841	false	40	20	New York	Consulting & Business Services
+124564	false	40	20	London	Consulting & Business Services
+1628801	false	40	18		Education
+127139	false	40	16		Telecommunications
+120302	false	40	16		SaaS
+1626195	false	40	15	San Francisco	
+12028145	false	40	15	Silicon Valley	Telecommunications
+126435	false	40	11	New York	Consulting & Business Services
+135793	false	40	11		Food & Beverages
+2239240	false	40	11	Phoenix	
+106177	false	40	11	New York	Media & Entertainment
+12021390	false	40	11	Mumbai	On Demand Economy
+126435	false	40	11	New York	Consulting & Business Services
+122464	false	40	11		Consulting & Business Services
+126614	false	40	11		Health Care
+116761	false	40	11	San Diego	Pharma & Biotech
+132343	false	40	11		Health Care
+140976	false	40	11	Scottsdale	Media & Entertainment
+137592	false	40	10		Consulting & Business Services
+129864	false	40	10		Personal & Household Goods
+6571808	false	40	10	Cambridge	
+1347077	false	40	10		Consulting & Business Services
+1850072	false	40	10	New York	Media & Entertainment
+122758	false	40	10	Irvine	Hardware & Equipment
+1481819	false	40	10	Boston	
+125772	false	39	48		Telecommunications
+100705	false	39	38	Atlanta	Banking
+197165	false	39	28	New York	Media & Entertainment
+202296	false	39	19		Education
+356873	false	39	19		Hardware & Equipment
+151710	false	39	19		Industrial Goods
+134544	false	39	14	Houston	Personal & Household Goods
+183855	false	39	13	San Francisco	Consulting & Business Services|On Demand Economy
+130243	false	38	808		Telecommunications|Internet of Things
+1830495	false	38	59		Consulting & Business Services
+135153	false	38	42	San Francisco	Retail & Ecommerce
+125706	false	38	31		Retail & Ecommerce
+149646	false	38	21		Energy & Utilities
+135266	false	38	18		Automobile
+101159	false	38	17	New York	Media & Entertainment
+130887	false	38	17		Hardware & Equipment|SaaS|Internet of Things
+103366	false	38	17		Media & Entertainment
+1855111	false	38	17	San Francisco	
+130448	false	38	13		SaaS
+156411	false	37	101	Silicon Valley	Travel & Hospitality
+149742	false	37	62		Travel & Hospitality
+155579	false	37	51		Transportation & Warehousing
+9669830	false	37	20	Silicon Valley	
+1183178	false	37	16	San Francisco	
+1413467	false	37	16	Indianapolis	
+1633233	false	37	12	Silicon Valley	Artificial Intelligence
+171790	false	37	12		Transportation & Warehousing
+1848089	false	37	12	Vancouver	Health Care
+4850692	false	36	19	Houston	Energy & Utilities
+370497	false	36	15		Consulting & Business Services
+126051	false	36	15		Retail & Ecommerce
+213169	false	36	11	San Antonio	Education
+5076730	false	36	11	New York	Education
+130044	false	36	10	Tampa	
+171547	false	35	259		Automobile
+128190	false	35	39	Houston	Energy & Utilities
+132904	false	35	16		Pharma & Biotech
+210469	false	35	14		Real Estate & Construction
+139245	false	35	10	New York	Retail & Ecommerce
+122834	false	35	10		Consulting & Business Services
+12062063	false	35	10		Media & Entertainment
+157809	false	35	10		Automobile
+708255	false	34	82		On Demand Economy
+125707	false	34	45	Chicago	
+126847	false	34	32		Pharma & Biotech
+205990	false	34	23	Irvine	Real Estate & Construction
+133182	false	34	16	Tampa	Telecommunications
+1186479	false	34	16	Austin	
+1724555	false	34	13	Silicon Valley	
+124753	false	33	18	Minneapolis	Health Care
+102265	false	32	415		Telecommunications
+127144	false	32	76	Melbourne	
+168075	false	32	53		Transportation & Warehousing
+132392	false	32	41	New York	
+123756	false	32	31		SaaS
+358150	false	32	28	Silicon Valley	
+101863	false	32	25	Austin	SaaS
+122524	false	32	14	Atlanta	
+124830	false	31	30		SaaS
+142567	false	31	22	Raleigh	
+149740	false	31	19		Consulting & Business Services
+135134	false	30	66	Chicago	Transportation & Warehousing
+135134	false	30	66	Chicago	Transportation & Warehousing
+135176	false	30	50	Chicago	Media & Entertainment
+1843766	false	30	23		Telecommunications
+139284	false	30	20		Energy & Utilities
+359366	false	30	15	Denver	
+134167	false	30	15	New York	Real Estate & Construction
+705491	false	30	13	Silicon Valley	
+138852	false	30	13		Consulting & Business Services
+1633238	false	30	13	New Delhi	Health Care
+125352	false	30	10		Retail & Ecommerce
+135721	false	30	10	Denver	Health Care
+736004	false	30	10	Irvine	
+163481	false	30	10		Retail & Ecommerce
+135657	false	30	10	Kansas City	Food & Beverages
+105787	false	29	177	Silicon Valley	Telecommunications
+146055	false	29	132		Automobile
+149916	false	29	47	Washington	
+126500	false	29	17		Retail & Ecommerce
+1284650	false	29	12	Phoenix	Personal & Household Goods
+126615	false	28	28		Health Care
+12035773	false	28	14	Silicon Valley	
+128810	false	27	62		Pharma & Biotech
+1583974	false	27	55		Travel & Hospitality
+135240	false	27	31	Pittsburgh	Telecommunications
+126634	false	27	11		Retail & Ecommerce
+1143938	false	26	30	New York	
+139733	false	26	29	Silicon Valley	Pharma & Biotech
+206692	false	26	21	San Francisco	Travel & Hospitality
+1157270	false	26	13	London	
+150294	false	26	13		Industrial Goods
+1576301	false	26	12	Atlanta	
+1401654	false	26	11		Food & Beverages
+133889	false	25	80	Houston	Food & Beverages
+1866181	false	25	27	London	Energy & Utilities
+1724690	false	25	16	Orlando	
+201828	false	25	12		Health Care
+126889	false	24	81	London	Education
+135760	false	24	54		Retail & Ecommerce
+384241	false	23	73		Media & Entertainment
+225697	false	23	67	New Delhi	
+135115	false	23	64		Retail & Ecommerce
+218161	false	23	23		Personal & Household Goods
+125957	false	23	13	Silicon Valley	
+208800	false	23	13	Irvine	
+171952	false	22	18	New York	SaaS
+150864	false	22	16	New York	
+190913	false	22	11	Denver	
+132740	false	22	11	San Diego	
+142464	false	22	10	Omaha	
+1834500	false	20	24	San Antonio	Media & Entertainment
+125560	false	20	15	Charlotte	Retail & Ecommerce
+123429	false	20	12		SaaS
+1848091	false	20	12	Dallas	
+111850	false	20	11		Consulting & Business Services
+153258	false	18	29	Silicon Valley	
+125700	false	16	12		Consulting & Business Services
+135169	false	15	26	Jacksonville	Transportation & Warehousing
+143877	false	14	14	New York	
+1437004	false	13	18		Industrial Goods
+1176386	false	13	11	London	
+203702	false	11	30		Personal & Household Goods
+125626	false	10	24	San Francisco	
+759391	false	10	20	San Francisco	
+492821	false	10	14		Consulting & Business Services
+145109	false	10	10		Health Care
+8443231	false	8	17		Consulting & Business Services
+137367	false	8	12	Houston	
+12104783	false	6	236	Silicon Valley	
+168841	false	5	17		Real Estate & Construction
+238246	false	5	10	Dallas	
