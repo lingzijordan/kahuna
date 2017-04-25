@@ -1,0 +1,632 @@
+SaaS	100040
+SaaS	126791
+SaaS	1838891
+SaaS	124045
+SaaS	1187998
+SaaS	1618330
+SaaS	186390
+SaaS	359669
+SaaS	117146
+SaaS	180052
+SaaS	125916
+SaaS	201148
+SaaS	207336
+SaaS	102478
+SaaS	136801
+SaaS	130349
+SaaS	139316
+SaaS	124800
+SaaS	114187
+SaaS	174434
+SaaS	192310
+SaaS	122917
+SaaS	126048
+SaaS	213638
+SaaS	202599
+SaaS	100647
+SaaS	202599
+SaaS	123093
+SaaS	106528
+SaaS	191367
+SaaS	123035
+SaaS	100654
+SaaS	100106
+SaaS	100976
+SaaS	126183
+SaaS	1486117
+SaaS	133282
+SaaS	139413
+SaaS	112995
+SaaS	123305
+SaaS	164476
+SaaS	126478
+SaaS	164493
+SaaS	100503
+SaaS	100637
+SaaS	123351
+SaaS	125040
+SaaS	126726
+SaaS	166935
+SaaS	102259
+SaaS	126201
+SaaS	821243
+SaaS	109499
+SaaS	105875
+SaaS	124866
+SaaS	109133
+SaaS	100651
+SaaS	1575986
+SaaS	124779
+SaaS	127057
+SaaS	126158
+SaaS	144224
+SaaS	101935
+SaaS	120886
+SaaS	102211
+SaaS	103944
+SaaS	3760781
+SaaS	140470
+SaaS	115691
+SaaS	179759
+SaaS	100978
+SaaS	101079
+SaaS	102324
+SaaS	124367
+SaaS	102901
+SaaS	122374
+SaaS	201960
+SaaS	371258
+SaaS	1189021
+SaaS	102324
+SaaS	133095
+SaaS	149562
+SaaS	100358
+SaaS	106881
+SaaS	129210
+SaaS	103965
+SaaS	102248
+SaaS	115429
+SaaS	212507
+SaaS	100335
+SaaS	100163
+SaaS	128666
+SaaS	123245
+SaaS	115856
+SaaS	146489
+SaaS	101266
+SaaS	137094
+SaaS	103171
+SaaS	100294
+SaaS	103171
+SaaS	126951
+SaaS	124316
+SaaS	174268
+SaaS	149489
+SaaS	104688
+SaaS	136583
+SaaS	126268
+SaaS	12064712
+SaaS	101043
+SaaS	106711
+SaaS	103079
+SaaS	133110
+SaaS	122781
+SaaS	179299
+SaaS	173074
+SaaS	130486
+SaaS	132921
+SaaS	125795
+SaaS	100209
+SaaS	136798
+SaaS	164440
+SaaS	129780
+SaaS	706375
+SaaS	100020
+SaaS	127355
+SaaS	102062
+SaaS	130384
+SaaS	122478
+SaaS	100659
+SaaS	132526
+SaaS	122646
+SaaS	123926
+SaaS	116873
+SaaS	100421
+SaaS	101762
+SaaS	102145
+SaaS	107467
+SaaS	130051
+SaaS	150158
+SaaS	128004
+SaaS	119526
+SaaS	130899
+SaaS	10397087
+SaaS	123102
+SaaS	111204
+SaaS	101742
+SaaS	109511
+SaaS	131309
+SaaS	177096
+SaaS	109959
+SaaS	142695
+SaaS	100315
+SaaS	104725
+SaaS	100327
+SaaS	122961
+SaaS	125813
+SaaS	100327
+SaaS	128917
+SaaS	126180
+SaaS	127433
+SaaS	102240
+SaaS	124188
+SaaS	115552
+SaaS	123101
+SaaS	104691
+SaaS	126905
+SaaS	217933
+SaaS	104581
+SaaS	118403
+SaaS	104577
+SaaS	100125
+SaaS	127830
+SaaS	102584
+SaaS	103961
+SaaS	124059
+SaaS	126393
+SaaS	100782
+SaaS	116208
+SaaS	126836
+SaaS	101796
+SaaS	100021
+SaaS	103144
+SaaS	122479
+SaaS	100740
+SaaS	1197285
+SaaS	178886
+SaaS	139700
+SaaS	124775
+SaaS	132171
+SaaS	102079
+SaaS	140211
+SaaS	153559
+SaaS	100504
+SaaS	1184213
+SaaS	100187
+SaaS	100537
+SaaS	100322
+SaaS	124157
+SaaS	100505
+SaaS	100322
+SaaS	171709
+SaaS	208383
+SaaS	225235
+SaaS	101638
+SaaS	124429
+SaaS	123927
+SaaS	124415
+SaaS	100658
+SaaS	130385
+SaaS	102260
+SaaS	103185
+SaaS	100334
+SaaS	102139
+SaaS	12010458
+SaaS	100469
+SaaS	103566
+SaaS	123336
+SaaS	100469
+SaaS	120612
+SaaS	122949
+SaaS	100002
+SaaS	140232
+SaaS	100507
+SaaS	107426
+SaaS	101230
+SaaS	100980
+SaaS	131471
+SaaS	100397
+SaaS	100292
+SaaS	100168
+SaaS	123338
+SaaS	123864
+SaaS	105900
+SaaS	134193
+SaaS	138475
+SaaS	123139
+SaaS	217994
+SaaS	108757
+SaaS	217994
+SaaS	120302
+SaaS	130448
+SaaS	130887
+SaaS	101863
+SaaS	123756
+SaaS	124830
+SaaS	171952
+SaaS	123429
+SaaS	102325
+SaaS	114749
+SaaS	11874997
+SaaS	138277
+SaaS	5599729
+SaaS	1859533
+SaaS	198040
+SaaS	113073
+Artificial Intelligence	111436
+Artificial Intelligence	100978
+Artificial Intelligence	102139
+Artificial Intelligence	100651
+Artificial Intelligence	101412
+Artificial Intelligence	102260
+Artificial Intelligence	101363
+Artificial Intelligence	102584
+Artificial Intelligence	157863
+Artificial Intelligence	124429
+Artificial Intelligence	141007
+Artificial Intelligence	111996
+Artificial Intelligence	126740
+Artificial Intelligence	103185
+Artificial Intelligence	126177
+Artificial Intelligence	1395949
+Artificial Intelligence	100654
+Artificial Intelligence	126478
+Artificial Intelligence	100035
+Artificial Intelligence	2517206
+Artificial Intelligence	134943
+Artificial Intelligence	154673
+Artificial Intelligence	142816
+Artificial Intelligence	704640
+Artificial Intelligence	122459
+Artificial Intelligence	200757
+Artificial Intelligence	1454727
+Artificial Intelligence	119658
+Artificial Intelligence	4489571
+Artificial Intelligence	141046
+Artificial Intelligence	1470997
+Artificial Intelligence	103053
+Artificial Intelligence	131181
+Artificial Intelligence	1633233
+Artificial Intelligence	140923
+Artificial Intelligence	125994
+Artificial Intelligence	122340
+Artificial Intelligence	396083
+Artificial Intelligence	190794
+Artificial Intelligence	105561
+Artificial Intelligence	130687
+Artificial Intelligence	1622829
+Artificial Intelligence	1537365
+Artificial Intelligence	1868971
+Artificial Intelligence	152446
+Artificial Intelligence	485742
+Artificial Intelligence	1826480
+Artificial Intelligence	1160105
+Artificial Intelligence	716288
+Artificial Intelligence	1827798
+Artificial Intelligence	493813
+Artificial Intelligence	176291
+Artificial Intelligence	1482881
+Artificial Intelligence	1144231
+Artificial Intelligence	4471701
+Artificial Intelligence	12199527
+Artificial Intelligence	174314
+Artificial Intelligence	12143881
+Artificial Intelligence	1175278
+Artificial Intelligence	196738
+Artificial Intelligence	131634
+Artificial Intelligence	4498458
+Artificial Intelligence	1479889
+Artificial Intelligence	1484745
+Artificial Intelligence	374417
+Artificial Intelligence	10657030
+Artificial Intelligence	12022048
+Artificial Intelligence	1426454
+Artificial Intelligence	199246
+Artificial Intelligence	201729
+Artificial Intelligence	488753
+Artificial Intelligence	131625
+Artificial Intelligence	485722
+Artificial Intelligence	153288
+Artificial Intelligence	5078309
+Artificial Intelligence	1867287
+Artificial Intelligence	141717
+Artificial Intelligence	1373654
+Artificial Intelligence	12123373
+Artificial Intelligence	1293935
+Artificial Intelligence	12172578
+Artificial Intelligence	1721016
+Artificial Intelligence	12140521
+Artificial Intelligence	12042845
+Artificial Intelligence	1180363
+Artificial Intelligence	1579996
+Artificial Intelligence	12267648
+Artificial Intelligence	2233803
+Artificial Intelligence	1018582
+Artificial Intelligence	12140521
+Artificial Intelligence	1487574
+Artificial Intelligence	169814
+Artificial Intelligence	12030666
+Artificial Intelligence	12165912
+Artificial Intelligence	12283598
+Artificial Intelligence	1877975
+Artificial Intelligence	12274468
+Artificial Intelligence	141075
+Artificial Intelligence	1867378
+Artificial Intelligence	12211145
+Artificial Intelligence	12222380
+Artificial Intelligence	12176118
+Artificial Intelligence	12140892
+Artificial Intelligence	12230264
+Artificial Intelligence	12152931
+Artificial Intelligence	4790863
+Artificial Intelligence	12176815
+Artificial Intelligence	12176815
+Artificial Intelligence	12223959
+Artificial Intelligence	1399035
+Artificial Intelligence	12288296
+Artificial Intelligence	112211
+Artificial Intelligence	12108284
+Artificial Intelligence	1170929
+Artificial Intelligence	12282306
+Artificial Intelligence	12195440
+Artificial Intelligence	1404714
+Artificial Intelligence	1877975
+Artificial Intelligence	142575
+Artificial Intelligence	137753
+Artificial Intelligence	178213
+Artificial Intelligence	122295
+Artificial Intelligence	12226933
+Artificial Intelligence	1163605
+Artificial Intelligence	12310164
+Artificial Intelligence	1861246
+Artificial Intelligence	12336503
+Artificial Intelligence	1823776
+Artificial Intelligence	12255230
+Artificial Intelligence	12323878
+Artificial Intelligence	127447
+Artificial Intelligence	12336109
+Artificial Intelligence	143055
+Artificial Intelligence	700770
+Artificial Intelligence	1851589
+Artificial Intelligence	1851590
+Artificial Intelligence	358092
+Artificial Intelligence	1283543
+Artificial Intelligence	12165508
+Artificial Intelligence	12261547
+Artificial Intelligence	12101616
+Artificial Intelligence	12183527
+Internet of Things	111436
+Internet of Things	100978
+Internet of Things	101694
+Internet of Things	102139
+Internet of Things	100651
+Internet of Things	101412
+Internet of Things	101935
+Internet of Things	102211
+Internet of Things	126201
+Internet of Things	130243
+Internet of Things	102260
+Internet of Things	128534
+Internet of Things	103634
+Internet of Things	126733
+Internet of Things	101070
+Internet of Things	125412
+Internet of Things	126264
+Internet of Things	127188
+Internet of Things	131767
+Internet of Things	123895
+Internet of Things	125119
+Internet of Things	128216
+Internet of Things	375138
+Internet of Things	102217
+Internet of Things	124603
+Internet of Things	100654
+Internet of Things	715333
+Internet of Things	125448
+Internet of Things	126925
+Internet of Things	127996
+Internet of Things	100335
+Internet of Things	129309
+Internet of Things	125040
+Internet of Things	190292
+Internet of Things	1188295
+Internet of Things	172673
+Internet of Things	221993
+Internet of Things	130887
+Internet of Things	128645
+Internet of Things	125799
+Internet of Things	149537
+Internet of Things	1157749
+Internet of Things	102901
+Internet of Things	100980
+Internet of Things	364243
+Internet of Things	131165
+Internet of Things	918835
+Internet of Things	488199
+Internet of Things	124229
+Internet of Things	100340
+Internet of Things	12155117
+Internet of Things	129590
+Internet of Things	12016271
+Internet of Things	187187
+Internet of Things	1826480
+Internet of Things	1281261
+Internet of Things	12014215
+Internet of Things	1470928
+Internet of Things	1284797
+Internet of Things	126597
+Internet of Things	487501
+Internet of Things	224513
+Internet of Things	1829294
+Internet of Things	1484745
+Internet of Things	172928
+Internet of Things	128147
+Internet of Things	127543
+Internet of Things	1722826
+Internet of Things	1482845
+Internet of Things	739692
+Internet of Things	1159856
+Internet of Things	3302488
+Internet of Things	131758
+Internet of Things	2241478
+Internet of Things	489950
+Internet of Things	367899
+Internet of Things	3478699
+Internet of Things	1157720
+Internet of Things	1281145
+Internet of Things	219936
+Internet of Things	1577752
+Internet of Things	7192984
+Internet of Things	383898
+Internet of Things	12051983
+Internet of Things	125619
+Internet of Things	400498
+Internet of Things	482950
+Internet of Things	1529868
+Internet of Things	12145318
+Internet of Things	2229987
+Internet of Things	696158
+Internet of Things	12153140
+Internet of Things	6127090
+Internet of Things	1849910
+Internet of Things	140196
+Internet of Things	4868925
+Internet of Things	1725391
+Internet of Things	12196546
+Internet of Things	12237023
+Internet of Things	147070
+On Demand Economy	100242
+On Demand Economy	100125
+On Demand Economy	116231
+On Demand Economy	123687
+On Demand Economy	121733
+On Demand Economy	100405
+On Demand Economy	1827789
+On Demand Economy	100282
+On Demand Economy	100154
+On Demand Economy	1147581
+On Demand Economy	137503
+On Demand Economy	115690
+On Demand Economy	490204
+On Demand Economy	102651
+On Demand Economy	1178100
+On Demand Economy	113381
+On Demand Economy	137136
+On Demand Economy	125848
+On Demand Economy	105115
+On Demand Economy	209992
+On Demand Economy	1851687
+On Demand Economy	123416
+On Demand Economy	1633223
+On Demand Economy	183855
+On Demand Economy	143398
+On Demand Economy	142475
+On Demand Economy	172096
+On Demand Economy	360750
+On Demand Economy	1725620
+On Demand Economy	140945
+On Demand Economy	139325
+On Demand Economy	140590
+On Demand Economy	1820126
+On Demand Economy	141594
+On Demand Economy	361849
+On Demand Economy	141785
+On Demand Economy	135031
+On Demand Economy	100283
+On Demand Economy	12017989
+On Demand Economy	113387
+On Demand Economy	141725
+On Demand Economy	2440794
+On Demand Economy	141610
+On Demand Economy	483007
+On Demand Economy	141362
+On Demand Economy	163063
+On Demand Economy	100122
+On Demand Economy	122139
+On Demand Economy	486219
+On Demand Economy	217990
+On Demand Economy	128539
+On Demand Economy	203223
+On Demand Economy	371600
+On Demand Economy	966672
+On Demand Economy	143020
+On Demand Economy	1534925
+On Demand Economy	209888
+On Demand Economy	172918
+On Demand Economy	1148492
+On Demand Economy	1381666
+On Demand Economy	1620881
+On Demand Economy	253792
+On Demand Economy	1382060
+On Demand Economy	122975
+On Demand Economy	12021390
+On Demand Economy	156864
+On Demand Economy	4429280
+On Demand Economy	9669614
+On Demand Economy	699809
+On Demand Economy	2253199
+On Demand Economy	4113496
+On Demand Economy	129337
+On Demand Economy	100404
+On Demand Economy	8227296
+On Demand Economy	1537862
+On Demand Economy	1578824
+On Demand Economy	3088414
+On Demand Economy	2240496
+On Demand Economy	5015490
+On Demand Economy	708255
+On Demand Economy	9712187
+On Demand Economy	744174
+On Demand Economy	9266052
+On Demand Economy	116567
+On Demand Economy	100250
+On Demand Economy	1148735
+On Demand Economy	3670065
+On Demand Economy	4809933
+On Demand Economy	251723
+On Demand Economy	4409221
+On Demand Economy	1476881
+On Demand Economy	4430689
+On Demand Economy	1537320
+On Demand Economy	3522131
+On Demand Economy	1855292
+On Demand Economy	213596
+On Demand Economy	139895
+On Demand Economy	137226
+On Demand Economy	101412
+On Demand Economy	100151
+On Demand Economy	151009
+On Demand Economy	169497
+On Demand Economy	103017
+On Demand Economy	122141
+On Demand Economy	357761
+On Demand Economy	100380
+On Demand Economy	8142237
+On Demand Economy	497551
+On Demand Economy	233010
+On Demand Economy	12010458
+On Demand Economy	217596
+On Demand Economy	108833
+On Demand Economy	217692
+On Demand Economy	121413
+On Demand Economy	1868539
+On Demand Economy	1725620
+On Demand Economy	261303
+On Demand Economy	1194868
+On Demand Economy	137134
+On Demand Economy	153901
+On Demand Economy	1725494
+On Demand Economy	178608
+On Demand Economy	1143271
+On Demand Economy	189012
+On Demand Economy	4489976
+On Demand Economy	100048
+On Demand Economy	140416
+On Demand Economy	118451
+On Demand Economy	118455
+On Demand Economy	379555
+On Demand Economy	123087
+On Demand Economy	122811
+On Demand Economy	117851
+On Demand Economy	12102970
+On Demand Economy	100070

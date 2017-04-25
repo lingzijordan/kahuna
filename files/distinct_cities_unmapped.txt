@@ -1,0 +1,1071 @@
+COUNT    | LINE
+-----------------------------------------------------
+      86 | Bangalore
+      53 | Gurgaon
+      38 | Paris
+      26 | Santa Monica
+      26 | Waltham
+      23 | Amsterdam
+      19 | Noida
+      18 | Pleasanton
+      16 | Bellevue
+      15 | Dublin
+      15 | Stockholm
+      14 | Hyderabad
+      14 | Plano
+      13 | Berlin
+      13 | Oakland
+      13 | Reston
+      12 | Arlington
+      12 | McLean
+      12 | Tel Aviv
+      11 | Boulder
+      11 | Milpitas
+      11 | Munich
+      11 | Ottawa
+      11 | Santa Barbara
+      11 | St. Louis
+      11 | Stamford
+      10 | Calgary
+      10 | Pune
+       9 | Chennai
+       9 | Helsinki
+       9 | Irving
+       9 | Jaipur
+       9 | Singapore
+       9 | Wilmington
+       9 | Zurich
+       8 | Ann Arbor
+       8 | Bengaluru
+       8 | Bethesda
+       8 | Boca Raton
+       8 | Durham
+       8 | Eden Prairie
+       8 | Foster City
+       8 | Greenwood Village
+       8 | Lehi
+       8 | Luxembourg
+       8 | Milwaukee
+       8 | Mississauga
+       8 | Troy
+       7 | Culver City
+       7 | Detroit
+       7 | El Segundo
+       7 | Emeryville
+       7 | Framingham
+       7 | Memphis
+       7 | Morrisville
+       6 | Basel
+       6 | Berkshire
+       6 | Bloomington
+       6 | Brookfield
+       6 | Columbia
+       6 | Dubai
+       6 | Englewood
+       6 | Itasca
+       6 | Lexington
+       6 | Madison
+       6 | Minato-ku
+       6 | Needham
+       6 | Newport Beach
+       6 | Norwalk
+       6 | Princeton
+       6 | Richmond
+       6 | San Ramon
+       6 | St. Paul
+       5 | Addison
+       5 | Alameda
+       5 | Boise
+       5 | Brentwood
+       5 | Burlingame
+       5 | Carlsbad
+       5 | Chiyoda-ku
+       5 | Edinburgh
+       5 | Madrid
+       5 | Melville
+       5 | Minnetonka
+       5 | Newark
+       5 | Oklahoma City
+       5 | Overland Park
+       5 | Parsippany
+       5 | Pasadena
+       5 | Providence
+       5 | Radnor
+       5 | South Jordan
+       5 | Tempe
+       5 | The Woodlands
+       5 | Venice
+       5 | Waterloo
+       5 | Westborough
+       4 | Aliso Viejo
+       4 | Alpharetta
+       4 | Barcelona
+       4 | Beverly Hills
+       4 | Brussels
+       4 | Charleston
+       4 | Chattanooga
+       4 | Cologne
+       4 | Copenhagen
+       4 | Costa Mesa
+       4 | Deerfield
+       4 | Dublin 1
+       4 | Eagan
+       4 | Espoo
+       4 | Falls Church
+       4 | Frankfurt
+       4 | Gainesville
+       4 | Hanover
+       4 | Hartford
+       4 | Herndon
+       4 | Knoxville
+       4 | Long Island City
+       4 | Manchester
+       4 | Natick
+       4 | Navi Mumbai
+       4 | Northbrook
+       4 | Orem
+       4 | Provo
+       4 | Redwood Shores
+       4 | Rochester
+       4 | Rockville
+       4 | Saint Louis
+       4 | San Bruno
+       4 | Schaumburg
+       4 | Shenzhen
+       4 | South San Francisco
+       4 | St. Petersburg
+       4 | Sunrise
+       4 | West Chester
+       3 | Aurora
+       3 | Baar
+       3 | Baltimore
+       3 | Basking Ridge
+       3 | Bedford
+       3 | Beijing
+       3 | Berkeley
+       3 | Broomfield
+       3 | Buckinghamshire
+       3 | Calabasas
+       3 | Carpinteria
+       3 | Carrollton
+       3 | Cary
+       3 | Chandler
+       3 | Chelmsford
+       3 | Dayton
+       3 | Des Moines
+       3 | Draper
+       3 | Fairfax
+       3 | Farmington
+       3 | Frisco
+       3 | Gaithersburg
+       3 | Ghent
+       3 | Grand Rapids
+       3 | Greenville
+       3 | Greenwich
+       3 | Hamilton
+       3 | Hoffman Estates
+       3 | Horsham
+       3 | Huntsville
+       3 | Jersey
+       3 | Jersey City
+       3 | Lake Forest
+       3 | Little Rock
+       3 | Los Altos
+       3 | Los Gatos
+       3 | Mahwah
+       3 | Milano
+       3 | Milford
+       3 | MontrÌ©al
+       3 | Moscow
+       3 | New York City
+       3 | Newton
+       3 | Norfolk
+       3 | Oslo
+       3 | Petach Tikva
+       3 | Plymouth Meeting
+       3 | Purchase
+       3 | Ramat Gan
+       3 | Redwood
+       3 | Richmond Hill
+       3 | Rye Brook
+       3 | Sarasota
+       3 | Somerville
+       3 | Sterling
+       3 | Surrey
+       3 | Surry Hills
+       3 | Thousand Oaks
+       3 | Tokyo
+       3 | Torrance
+       3 | Tysons Corner
+       3 | West Hollywood
+       3 | West Montreal
+       3 | Wichita
+       3 | Wilsonville
+       3 | Winston-Salem
+       3 | York
+       3 | Zug
+       2 | A CoruÌ±a
+       2 | Ahmedabad
+       2 | Akron
+       2 | Albany
+       2 | Alexandria
+       2 | Allentown
+       2 | Altamonte Springs
+       2 | American Fork
+       2 | Anaheim
+       2 | Athens
+       2 | Auburn Hills
+       2 | Bagsvaerd
+       2 | Bangkok
+       2 | Basingstoke
+       2 | Beirut
+       2 | Bentonville
+       2 | Berwyn
+       2 | Bethlehem
+       2 | Bhubaneswar
+       2 | Blue Bell
+       2 | Bonita Springs
+       2 | Bothell
+       2 | Boulogne-Billancourt
+       2 | Braintree
+       2 | Brighton
+       2 | Bucharest
+       2 | Buenos Aires
+       2 | Buffalo
+       2 | Burnaby
+       2 | Camarillo
+       2 | Canonsburg
+       2 | Carmel
+       2 | Charlottesville
+       2 | Chevy Chase
+       2 | Chico
+       2 | Chuo-ku
+       2 | Clearwater
+       2 | Cointrin
+       2 | Concord
+       2 | Conshohocken
+       2 | Coppell
+       2 | Covington
+       2 | Dania Beach
+       2 | Danvers
+       2 | Darmstadt
+       2 | Delft
+       2 | Duluth
+       2 | Dusseldorf
+       2 | Edmonton
+       2 | Essen
+       2 | Evanston
+       2 | Fishers
+       2 | Fort Lauderdale
+       2 | Fort Myers
+       2 | Fort Wayne
+       2 | Frederick
+       2 | GÌ¦teborg
+       2 | Glendale
+       2 | Golden
+       2 | Gothenburg
+       2 | Grapevine
+       2 | Graz
+       2 | Hackensack
+       2 | Haidian
+       2 | Hampshire
+       2 | Hangzhou
+       2 | Haryana
+       2 | Herzogenaurach
+       2 | Hoboken
+       2 | Hong Kong
+       2 | Hopkinton
+       2 | Hsinchu
+       2 | Huntersville
+       2 | Johannesburg
+       2 | Joplin
+       2 | Juno Beach
+       2 | King of Prussia
+       2 | Kitchener
+       2 | Lake Success
+       2 | Lakewood
+       2 | Lansing
+       2 | Lawrence
+       2 | Leesburg
+       2 | Leuven
+       2 | Lewisville
+       2 | Lindon
+       2 | Lisle
+       2 | Long Beach
+       2 | Lowell
+       2 | Lund
+       2 | Malvern
+       2 | Manhattan Beach
+       2 | Marietta
+       2 | Marina del Rey
+       2 | Mason
+       2 | Midland
+       2 | Midvale
+       2 | Milan
+       2 | Mortsel
+       2 | Murray
+       2 | Naples
+       2 | Nashua
+       2 | New Haven
+       2 | New Orleans
+       2 | New Taipei City
+       2 | Norcross
+       2 | Novato
+       2 | Nuremberg
+       2 | NY
+       2 | Oak Brook
+       2 | Orange
+       2 | Osaka
+       2 | Oshawa
+       2 | Oxford
+       2 | Petach-Tikva
+       2 | Petaluma
+       2 | Playa Vista
+       2 | Plymouth
+       2 | Postfach
+       2 | Rancho Cordova
+       2 | Redmond
+       2 | Reinach
+       2 | Reno
+       2 | Richardson
+       2 | Rosemont
+       2 | Saint Paul
+       2 | Saint-Laurent
+       2 | San Clemente
+       2 | San Luis Obispo
+       2 | San Rafael
+       2 | Santa Cruz
+       2 | Schaffhausen
+       2 | Secaucus
+       2 | Seoul
+       2 | Slough
+       2 | Southlake
+       2 | Spartanburg
+       2 | Springfield
+       2 | St Louis
+       2 | Stanford
+       2 | State College
+       2 | Stuttgart
+       2 | Swords
+       2 | Syracuse
+       2 | Tacoma
+       2 | Teaneck
+       2 | Thane West
+       2 | Thief River Falls
+       2 | Trevose
+       2 | Tulsa
+       2 | Verona
+       2 | Victoria
+       2 | Vienna
+       2 | Virginia Beach
+       2 | Walnut
+       2 | Warren
+       2 | Washington, DC
+       2 | Wellington
+       2 | West Palm Beach
+       2 | Westlake
+       2 | Westminster
+       2 | Weston
+       2 | Winnipeg
+       2 | Woburn
+       2 | Wood Dale
+       2 | Woodland Hills
+       2 | Woonsocket
+       1 | 1 Delft
+       1 | Aarhus
+       1 | Abbotsford
+       1 | Abbott Park
+       1 | Aberdeen
+       1 | Abingdon
+       1 | Acton
+       1 | Ada
+       1 | Adirondack
+       1 | Adugodi, Bangalore
+       1 | Agoura Hills
+       1 | Agra
+       1 | Alba
+       1 | Allegan
+       1 | Alphen aan den Rijn
+       1 | Altoona
+       1 | Alviso
+       1 | Ames
+       1 | Amstelveen
+       1 | Angleton
+       1 | Annapolis
+       1 | Appleton
+       1 | Arkansas
+       1 | Arlington Heights
+       1 | Arlington,‰Û¬Beaverton
+       1 | Armonk
+       1 | Arusha
+       1 | Ashton Under Lyne
+       1 | Auburn
+       1 | Auckland
+       1 | Audubon
+       1 | Aventura
+       1 | Avon Lake
+       1 | Azusa
+       1 | Bad Homburg
+       1 | Bala Cynwyd
+       1 | Ballsbridge
+       1 | bangalore
+       1 | Banglore
+       1 | Bath
+       1 | Baton Rouge
+       1 | Battle Creek
+       1 | Beaumont
+       1 | Beaverton
+       1 | Bedfordshire
+       1 | Beer-Sheva
+       1 | Belcamp
+       1 | Beloit
+       1 | Benton Harbor
+       1 | Betzdorf
+       1 | Bezons
+       1 | Billerica
+       1 | Blacksburg
+       1 | Bloomfield
+       1 | Bohemia
+       1 | Bologna
+       1 | Bonn
+       1 | Boulevard
+       1 | Bowen Hills
+       1 | Bowie
+       1 | Brea
+       1 | BrÌÄåündby
+       1 | Bridgeville
+       1 | Bridgewater
+       1 | Brighton, East Sussex
+       1 | Brisbane
+       1 | Bristol
+       1 | Bryn Mawr
+       1 | Buford
+       1 | Burbank
+       1 | Burr Ridge
+       1 | Calabasas Hills
+       1 | Cambridge, Cambridgeshire
+       1 | Camp Hill
+       1 | Canterbury
+       1 | Canton
+       1 | Carol Stream
+       1 | Carson
+       1 | Cayce
+       1 | Cebu
+       1 | Cedar Rapids
+       1 | Centennial
+       1 | Center Valley
+       1 | Central
+       1 | Central Hong Kong
+       1 | Centreville
+       1 | Chacras de Coria
+       1 | Chalfont
+       1 | Chalfont St Peter, Buckinghamshire
+       1 | Champaign
+       1 | Chandigarh
+       1 | Changning District
+       1 | Chanhassen
+       1 | Chantilly
+       1 | Cheltenham
+       1 | Cherry Hill
+       1 | Chesapeake
+       1 | Cheseaux
+       1 | Cheseaux-Lausanne
+       1 | Cheshire
+       1 | Chester
+       1 | Chesterbrook
+       1 | Chesterfield
+       1 | Chiasso
+       1 | Chimie
+       1 | Chiyoda-Ku
+       1 | Christchurch
+       1 | Clark
+       1 | Clermont-Ferrand
+       1 | Clifton
+       1 | Clonakilty
+       1 | Clonskeagh
+       1 | Coconut Creek
+       1 | Coimbatore
+       1 | College Station
+       1 | Collinsville
+       1 | Colmar
+       1 | Colonia Cuauhtemoc
+       1 | Colorado
+       1 | Colorado Springs
+       1 | Comcentre
+       1 | Conyers
+       1 | Coolock
+       1 | Copenhagen K
+       1 | Copenhagen S
+       1 | Coral Gables
+       1 | Coraopolis
+       1 | Cork
+       1 | Corona
+       1 | Corvallis
+       1 | Courbevoie
+       1 | Coventry
+       1 | Crows Nest
+       1 | Cuauhtemoc
+       1 | Cumming
+       1 | Cypress
+       1 | Dalton
+       1 | Daly City
+       1 | Danbury
+       1 | Darien
+       1 | Daytona
+       1 | Dearborn
+       1 | Dedham
+       1 | Deira
+       1 | Delafield
+       1 | Delray Beach
+       1 | Derwood
+       1 | DFW Airport
+       1 | DÌ_sseldorf
+       1 | Docklands
+       1 | Doha
+       1 | Domlur
+       1 | Doylestown
+       1 | Dublin 12
+       1 | Dublin 2
+       1 | Dulles
+       1 | Dunkerton
+       1 | East Aurora
+       1 | East Greenbush
+       1 | East Greenwich
+       1 | East Hanover
+       1 | East Rutherford
+       1 | East Syracuse
+       1 | Eatontown
+       1 | Eau Claire
+       1 | Edison
+       1 | Eight Mile Plains
+       1 | Eighty Four
+       1 | Eindhoven
+       1 | Elk Grove
+       1 | Elyria
+       1 | Enfield
+       1 | Epsom
+       1 | Equity Plaza
+       1 | Everett
+       1 | Exeter
+       1 | Export
+       1 | Exton
+       1 | Fairfield
+       1 | Fairland
+       1 | Fairway
+       1 | Faridabad
+       1 | Farmingdale
+       1 | Farnborough
+       1 | Fayette
+       1 | Fayetteville
+       1 | Federal Way
+       1 | Flint
+       1 | Florence Township
+       1 | Floresta
+       1 | Fornebu
+       1 | Fort Lee
+       1 | Fort Mill
+       1 | Fortune Center
+       1 | Fountain Inn
+       1 | Frankfurt am
+       1 | Franklin
+       1 | Franklin Lakes
+       1 | Freiburg im Breisgau
+       1 | Ft. Lauderdale
+       1 | Fulton
+       1 | Galloway
+       1 | Gangnam-Gu
+       1 | Garden City
+       1 | Gemenos
+       1 | Geneva
+       1 | Ghaziabad
+       1 | GÌ¦ppingen
+       1 | Gilbert
+       1 | Glasgow
+       1 | Glattbrugg
+       1 | Glen Allen
+       1 | Glenview
+       1 | Goettingen
+       1 | Goleta
+       1 | Goleta,,Richfield
+       1 | Goodlettsville
+       1 | Green bay
+       1 | Green Bay
+       1 | Greenfield
+       1 | Greensboro
+       1 | Grogol
+       1 | Groot-Bijgaarden
+       1 | Guangzhou
+       1 | Guildford
+       1 | Guragon
+       1 | Gurgoan
+       1 | Hague
+       1 | Haifa
+       1 | Hailey
+       1 | Halasur, Bangalore
+       1 | Halifax
+       1 | Hamburg
+       1 | Harmondsworth
+       1 | Harrisburg
+       1 | Hauts-de-Seine
+       1 | Hawthorn
+       1 | Hawthorne
+       1 | Hedehusene
+       1 | Heerlen
+       1 | Helena
+       1 | Henderson
+       1 | Hercules
+       1 | Hershey
+       1 | Herzeliya
+       1 | Herzliya
+       1 | Hickory
+       1 | Higashinakashima
+       1 | HÌüvik
+       1 | Hochtaunuskreis
+       1 | Holly Springs
+       1 | Hollywood
+       1 | Holmdel
+       1 | Holzkirchen
+       1 | Holzminden
+       1 | Honolulu
+       1 | Hoofddorp
+       1 | Huaren Wucaicheng
+       1 | Humble
+       1 | Humlebaek
+       1 | Huntington
+       1 | Hyderabad,,Elizabethtown
+       1 | HyvinkÌ_Ì_
+       1 | Icheon-si
+       1 | Illinois
+       1 | Independence
+       1 | Ingelheim am Rhein
+       1 | Ingolstadt
+       1 | Islandia
+       1 | Isleworth
+       1 | Issaquah
+       1 | Issy-les-Moulineaux
+       1 | Jackson Heights
+       1 | Jalan Kerinchi
+       1 | James's London
+       1 | Jeju-si
+       1 | Jericho
+       1 | Jerusalem
+       1 | Johns Creek
+       1 | Jona
+       1 | Jung-Gu Seoul
+       1 | Jupiter
+       1 | Kadoma-shi
+       1 | Kadubisanahalli, Bangalore
+       1 | Kalamazoo
+       1 | Kanagawa
+       1 | Kanata
+       1 | Kansas
+       1 | Kansas city
+       1 | Katy
+       1 | Keene
+       1 | Kendall Park
+       1 | Kenilworth
+       1 | Kenosha
+       1 | Kent
+       1 | Kettering
+       1 | Khalifa
+       1 | Khar(West), Mumbai
+       1 | Kharghar, Navi Mumbai
+       1 | KÌ¦ln
+       1 | Kingston
+       1 | Kingwood
+       1 | Kirkland
+       1 | Kita-ku
+       1 | Kobe
+       1 | Kohler
+       1 | kolkata
+       1 | Koramangala, Bangalore
+       1 | Kortrijk
+       1 | Koto-ku
+       1 | Kowloon
+       1 | Krakow
+       1 | Kuala Lumpur
+       1 | Kwai Chung
+       1 | Kyoto
+       1 | La defense
+       1 | La Jolla
+       1 | Labege
+       1 | Lafayette
+       1 | Lake Buena Vista
+       1 | Lake Mary
+       1 | Lake Oswego
+       1 | Lancaster
+       1 | Landimore
+       1 | Landover
+       1 | Lantau
+       1 | Latham
+       1 | Latrobe
+       1 | Lausanne
+       1 | Lausanne,,Oakville
+       1 | Laval
+       1 | Lawrenceville
+       1 | Leicester
+       1 | Leiden
+       1 | Leopardstown
+       1 | Leverkusen
+       1 | LÌ_beck
+       1 | Libertyvill
+       1 | Libertyville
+       1 | Libourne
+       1 | Lima
+       1 | Lincoln
+       1 | Lincolnshire
+       1 | Lisbon
+       1 | Lititz
+       1 | Livermore
+       1 | Livonia
+       1 | Ludwigshafen
+       1 | Luton, Bedfordshire
+       1 | Lyndhurst
+       1 | Lyon
+       1 | Lysaker
+       1 | Macquarie Park
+       1 | Madrid,,Berlin
+       1 | Maitland
+       1 | Malad
+       1 | MalmÌ¦,Beaverton
+       1 | Manhattan
+       1 | Mansfield
+       1 | Maple Plain
+       1 | Maranello
+       1 | Marcy l'Etoile
+       1 | Marina Del Ray
+       1 | Markham
+       1 | Marlborough
+       1 | Maryland Heights
+       1 | Mascot
+       1 | Matawan
+       1 | Matten b. Interlaken
+       1 | Maumee
+       1 | Mayfield Heights
+       1 | Mayfield Village
+       1 | Mechanicsburg
+       1 | Mechanicsville
+       1 | Medina
+       1 | Mendota Heights
+       1 | Menomonee Falls
+       1 | Mentor
+       1 | Merrimack
+       1 | Mexico City
+       1 | Middlesex
+       1 | Midrand
+       1 | Midview City
+       1 | Mill Valley
+       1 | Minami-ku
+       1 | Miramar
+       1 | Missouri
+       1 | Modena
+       1 | Modesto
+       1 | Moline
+       1 | Moncton
+       1 | Monett
+       1 | Mong Kok
+       1 | Monheim
+       1 | Monheim am Rhein
+       1 | Monroe
+       1 | Monrovia
+       1 | Montigny-le-Bretonneux
+       1 | Montreuil-sous-Bois
+       1 | Mooresville
+       1 | Moosic
+       1 | Morris Plains
+       1 | Morristown
+       1 | Mount Laurel
+       1 | Mt Pleasant
+       1 | Mumbai -,Port Washington
+       1 | Mundelein
+       1 | Murray Hill
+       1 | Muttenz
+       1 | N-Holland
+       1 | Nacka
+       1 | Nanshan
+       1 | Nanterre
+       1 | Nanuet
+       1 | Naperville
+       1 | Neenah
+       1 | Ness Ziona
+       1 | Neubiberg
+       1 | Neuilly sur Seine
+       1 | Neuilly-sur-Seine
+       1 | Neutraubling
+       1 | Nevada City
+       1 | New Britain
+       1 | New Brunswick
+       1 | New Hyde Park
+       1 | New york
+       1 | New-York
+       1 | Newton Upper Falls
+       1 | Newtown
+       1 | NÌ_rnberg
+       1 | Nieuwegein
+       1 | Nijmegen
+       1 | NOIDA
+       1 | Noida,,Lasne
+       1 | Nordborg
+       1 | North Andover
+       1 | North Canton
+       1 | North Chicago
+       1 | North Park
+       1 | North Reading
+       1 | North Richland Hills
+       1 | North Sydney
+       1 | Norwich
+       1 | Norwood
+       1 | Notre Dame
+       1 | Novi
+       1 | Oak brook
+       1 | Oakbrook Terrace
+       1 | Oberkochen
+       1 | Ogden
+       1 | Ohta-ku
+       1 | Olathe
+       1 | Oxfordshire
+       1 | Oxnard
+       1 | Paducah
+       1 | Palm Beach Gardens
+       1 | Palm Harbor
+       1 | Paoli
+       1 | Papillion
+       1 | Paramus
+       1 | Paris Cedex 13
+       1 | Paris Cedex 16
+       1 | Parsippany-Troy Hills
+       1 | Paso Robles
+       1 | Pathumwan
+       1 | Pawtucket
+       1 | Peachtree Corners
+       1 | Pembroke
+       1 | Pembroke Pines
+       1 | Pittsford
+       1 | Pittston
+       1 | Plaisir Cedex
+       1 | Plan-les-Ouates
+       1 | Plantation
+       1 | Plzeö
+       1 | Point Pleasant
+       1 | Pointe Claire
+       1 | Port Washington
+       1 | Porto
+       1 | Portsmouth
+       1 | Porvorim
+       1 | Poway
+       1 | Powell
+       1 | Prague
+       1 | Prairie Village
+       1 | Premstaetten
+       1 | Pune Maharashtra
+       1 | Qordoba
+       1 | Quebec
+       1 | Quebec City
+       1 | Quincy
+       1 | Ra'anana
+       1 | Rabat
+       1 | Racine
+       1 | Rancho Santa Margarita
+       1 | Reading, Berkshire
+       1 | Redwood city
+       1 | Redwood CIty
+       1 | Rehovot
+       1 | Renningen
+       1 | Renton
+       1 | Reston,,Sarasota
+       1 | RI
+       1 | Ridgefield Park
+       1 | Ridgeland
+       1 | Riga
+       1 | Rio de Janeiro
+       1 | Riverview
+       1 | Riverwoods
+       1 | Roanoke
+       1 | Rochelle Park
+       1 | Rochester Hills
+       1 | Rock Hill
+       1 | Rockleigh
+       1 | Rogers
+       1 | Rohini
+       1 | Rolla
+       1 | Rolling Meadows
+       1 | Roma
+       1 | Rome
+       1 | Roseland
+       1 | Roswell
+       1 | Round Rock
+       1 | Royal Oak
+       1 | Rue Martre Paris
+       1 | Rueil Malmaison
+       1 | Rutherford
+       1 | Sacramento
+       1 | Safat
+       1 | Salt Lake
+       1 | San Donato Milanese
+       1 | San Francisc
+       1 | San francisco
+       1 | San Jose, CA
+       1 | San Leandro
+       1 | Sandpoint
+       1 | Sandy
+       1 | Sandy Springs
+       1 | Santa Ana
+       1 | Santa monica
+       1 | Santa Monica,,Bangalore
+       1 | Santa Rosa
+       1 | Saskatoon
+       1 | Savannah
+       1 | Schaffhausen,,Holland
+       1 | Scheibbs
+       1 | Schenectady
+       1 | Seould
+       1 | Sepang
+       1 | Setagaya-ku
+       1 | Severna Park
+       1 | Shanghai
+       1 | Sharjah
+       1 | Shelton
+       1 | ShenZhen
+       1 | Sherman Oaks
+       1 | Sheung Wan
+       1 | Shibuya-ku
+       1 | Shimogyo-ku
+       1 | Shinagawa-ku
+       1 | Short Hills
+       1 | Sidney
+       1 | Singapore,,Baltimore
+       1 | Sioux Falls
+       1 | SkÌüyen
+       1 | Skokie
+       1 | Sliedrech
+       1 | Sofia
+       1 | Solli
+       1 | Solna
+       1 | Solon
+       1 | Somerset
+       1 | South Attleboro
+       1 | South Bend
+       1 | South Burlington
+       1 | South Miami
+       1 | South Portland
+       1 | Spring
+       1 | St Leonards
+       1 | St. Albans
+       1 | St. Louis Park
+       1 | Stadshagen
+       1 | Stans
+       1 | Stavanger
+       1 | Stockholm,,Overland Park
+       1 | Stockport
+       1 | Stony Brook
+       1 | Stratford
+       1 | Strawberry Hills
+       1 | Subang
+       1 | Sugar Land
+       1 | Summit
+       1 | Suresnes
+       1 | Sussex
+       1 | Suwa
+       1 | Suwanee
+       1 | Taguig
+       1 | Taipei
+       1 | Tamarac
+       1 | Taoyuan District
+       1 | Tarrytown
+       1 | Tartu
+       1 | Tel Aviv-Yafo
+       1 | Tettnang
+       1 | The Hague
+       1 | The Netherlands
+       1 | The Place Maidenhead
+       1 | Theale
+       1 | Thessaloniki
+       1 | Thunder Bay,‰Û¬ Auburn Hills
+       1 | Tianjin
+       1 | Timonium
+       1 | Tinley Park
+       1 | Tinton Falls
+       1 | Tiruvottiyur
+       1 | Toano
+       1 | Toledo
+       1 | Tolland
+       1 | Tortola
+       1 | Toulouse
+       1 | Town and Country
+       1 | Toyota City
+       1 | Tucker
+       1 | Turin
+       1 | Tysons
+       1 | Um Ytgayna Amman
+       1 | Umm Ramool
+       1 | University Park
+       1 | Utrecht
+       1 | Uxbridge
+       1 | Vadgaon Sheri
+       1 | Vadodara
+       1 | Valby
+       1 | Valcourt
+       1 | Valley Forge
+       1 | Van Nuys
+       1 | Vasant Kunj
+       1 | Vaudreuil-Dorion
+       1 | Venlo
+       1 | Ventura
+       1 | Vernier
+       1 | Vernon Hills
+       1 | Vevey
+       1 | VÌ©lizy-Villacoublay
+       1 | Villanova
+       1 | Vorhees
+       1 | Waco
+       1 | Waldkirch
+       1 | Walldorf
+       1 | Wallingford
+       1 | Walnut Creek
+       1 | Warrendale
+       1 | Warrington
+       1 | Warsaw
+       1 | Watertown
+       1 | Watford
+       1 | Wayne
+       1 | Webster
+       1 | Wedemark
+       1 | Wellesley
+       1 | Welwyn Garden City
+       1 | West Des Moines
+       1 | West Guelph
+       1 | West Henrietta
+       1 | West Jacksonville
+       1 | West Lafayette
+       1 | West Mumbai
+       1 | West Sussex
+       1 | Westbrook
+       1 | Westford
+       1 | Westport
+       1 | Westwood
+       1 | Wetherby
+       1 | Weybridge
+       1 | Weyers Cave
+       1 | Whippany
+       1 | White Marsh
+       1 | White Plains
+       1 | WÌ_rzburg
+       1 | Wickliffe
+       1 | Williston
+       1 | Wilton
+       1 | Windcrest
+       1 | Winona
+       1 | Winston Salem
+       1 | Winter Park
+       1 | Winterthur
+       1 | Wokingham
+       1 | Wolfsburg
+       1 | Woodbury
+       1 | Woodinville
+       1 | Woodside
+       1 | Wyoming
+       1 | Yafo
+       1 | Yamuna Nagar
+       1 | Yeongdeungpo-Gu
+       1 | Yokohama-shi
+       1 | Zamudio

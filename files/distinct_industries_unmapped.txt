@@ -1,0 +1,41 @@
+COUNT    | LINE
+-----------------------------------------------------
+    1866 | Software, Internet & Computer Services
+     343 | Professional Services
+     222 | Banking, Financial Services and Insurance
+     213 | Internet Software
+     146 | IT Services
+      88 | Application Software
+      63 | Chemicals, Metals & Mining
+      61 | Systems Software
+      50 | Consumer Services
+      42 | IT Consulting
+      33 | Aerospace & Defense
+      19 | Data Processing Services
+      18 | Non-Profit & Government
+      16 | Agriculture, Forestry & Paper
+      11 | Marketing Services
+       9 | Manufacturing
+       5 | Digital Marketing & Publishing
+       4 | Defense
+       4 | Investment Management & Fund Operators
+       4 | Transaction Services
+       3 | Educational Software
+       3 | Employment Agencies
+       3 | Personal Services
+       2 | Aerospace
+       2 | Business Information Research
+       2 | Employee Training
+       2 | Outsourced Services
+       1 | Architectural Design
+       1 | Commercial Printing
+       1 | Consumer Finance
+       1 | E-commerce
+       1 | General Mining
+       1 | Home Entertainment Software
+       1 | Home Security
+       1 | Legal Services
+       1 | NGO/NPO/NFP
+       1 | Specialty Chemicals
+-----------------------------------------------------
+   3244 | TOTAL LINES

@@ -1,0 +1,3859 @@
+2231402	Silicon Valley	
+128216		Industrial Goods|Internet of Things
+135244		Automobile
+136853	San Diego	Retail & Ecommerce
+359669	Silicon Valley	SaaS
+1534925		Transportation & Warehousing|On Demand Economy
+217994	San Francisco	SaaS
+1150101	Mumbai	
+158961		Hardware & Equipment
+167237		Consulting & Business Services
+147294	Orlando	Retail & Ecommerce
+235998	New Delhi	
+135236		Food & Beverages
+201320		Energy & Utilities
+202320		Consulting & Business Services
+100035	San Francisco	Artificial Intelligence
+135240	Pittsburgh	Telecommunications
+128275		Consulting & Business Services
+139512		Consulting & Business Services
+124582	Cincinnati	Personal & Household Goods
+167059	London	Energy & Utilities
+1838974	Silicon Valley	
+139366		Consulting & Business Services
+201564		Pharma & Biotech
+363417		Real Estate & Construction
+100061	San Francisco	
+1159782	Silicon Valley	
+122834		Consulting & Business Services
+169456	Silicon Valley	
+261354	San Francisco	
+262925		Energy & Utilities
+207202	Washington	
+177181		Consulting & Business Services
+704478		Hardware & Equipment
+183044	Silicon Valley	
+299895	Philadelphia	Transportation & Warehousing
+101240	Irvine	
+102425	Cambridge	
+198485	Mumbai	
+204605	New York	
+359040	Austin	
+158098		Telecommunications
+134618	Silicon Valley	
+135721	Denver	Health Care
+181032		Energy & Utilities
+190789		Consulting & Business Services
+153036	Portland	Consulting & Business Services
+223412	Mumbai	
+196609	Silicon Valley	
+139773	San Francisco	Health Care
+136461		Consulting & Business Services
+126158	San Diego	SaaS
+135338	Cincinnati	Consulting & Business Services
+379923	New York	Retail & Ecommerce
+487358	Houston	Health Care
+138852		Consulting & Business Services
+114903	Miami	Health Care
+6571808	Cambridge	
+131208	Minneapolis	
+132768		Energy & Utilities
+102415	San Francisco	Media & Entertainment
+1871973		Personal & Household Goods
+140894	New York	
+1176714	San Francisco	
+119430	San Francisco	Consulting & Business Services
+139650	Cambridge	Pharma & Biotech
+1574784	Sydney	Consulting & Business Services
+135145		Retail & Ecommerce
+124744	Seattle	
+1475915	Cambridge	
+104581	San Francisco	SaaS
+136211	London	Telecommunications
+144923	Silicon Valley	
+186166	London	Energy & Utilities
+365093	Cambridge	
+123726	New York	Consulting & Business Services
+124269	Silicon Valley	
+122814		Consulting & Business Services
+128614		Automobile
+128812		Travel & Hospitality
+1191417		Telecommunications
+135532	Silicon Valley	Health Care
+172675	San Francisco	
+203614	San Francisco	
+358922	Silicon Valley	
+700858	Denver	Real Estate & Construction
+161038		Travel & Hospitality
+130088	San Francisco	
+166045	Toronto	
+1297416		Energy & Utilities
+135625	Jacksonville	Retail & Ecommerce
+176529	Cambridge	
+3281428	New York	
+157329		Real Estate & Construction
+116208	Silicon Valley	SaaS
+124770	Silicon Valley	
+147088	London	Consulting & Business Services
+709004	New York	Consulting & Business Services
+124275		Energy & Utilities
+141595		Health Care
+117326	Denver	
+135329	Atlanta	Transportation & Warehousing
+134526	New York	
+205760	New York	
+126678		Industrial Goods
+101742	Silicon Valley	SaaS
+103138	Chicago	Health Care
+117877		Media & Entertainment
+128018	Washington	
+114012		Media & Entertainment
+191364	Silicon Valley	
+324579	Jacksonville	Real Estate & Construction
+125706		Retail & Ecommerce
+161230		Health Care
+119346	New York	Media & Entertainment
+128313	Kansas City	Consulting & Business Services
+140623	Silicon Valley	Pharma & Biotech
+141196	Silicon Valley	
+122951		Consulting & Business Services
+187428		Travel & Hospitality
+126283	Chicago	Consulting & Business Services
+130888	Cleveland	
+157842	Burlington	
+119353		Media & Entertainment
+128554	Silicon Valley	
+130212	Atlanta	Education
+166984	Mumbai	Industrial Goods
+489558		Health Care
+5218064		Transportation & Warehousing
+126032	Silicon Valley	
+129314	Atlanta	Food & Beverages
+111204	Portland	SaaS
+483007	Brooklyn	Consulting & Business Services|On Demand Economy
+103634		Consulting & Business Services|Internet of Things
+134269		Travel & Hospitality
+100439	San Francisco	
+100734	Silicon Valley	
+124677	New York	Retail & Ecommerce
+133510	San Francisco	
+1373303	Silicon Valley	
+159563		Food & Beverages
+362444		Health Care
+122917	San Francisco	SaaS
+124397	Chicago	
+133150		Industrial Goods
+102209	Silicon Valley	Hardware & Equipment
+121413	Brooklyn	Retail & Ecommerce|On Demand Economy
+145109		Health Care
+100296	Chicago	Consulting & Business Services
+142567	Raleigh	
+5076730	New York	Education
+12214269	Seattle	
+135153	San Francisco	Retail & Ecommerce
+140539	San Francisco	Automobile
+6105162	Seattle	Real Estate & Construction
+207710		Media & Entertainment
+100327	Silicon Valley	Telecommunications|SaaS
+123215	Silicon Valley	
+102826		Travel & Hospitality
+118501	Scottsdale	
+127210	Phoenix	
+132264		Real Estate & Construction
+176552	Vancouver	
+699839	San Francisco	
+126889	London	Education
+1846705	San Francisco	
+130708		Consulting & Business Services
+124883	Irvine	Hardware & Equipment
+126714	Tampa	
+103631		Energy & Utilities
+106528		SaaS
+148772		Energy & Utilities
+150429		Hardware & Equipment
+161732		Transportation & Warehousing
+384241		Media & Entertainment
+122372	Silicon Valley	
+1140856	New York	
+156346	San Francisco	
+129149		Health Care
+157129		Real Estate & Construction
+4809933		Retail & Ecommerce|On Demand Economy
+115596	London	Media & Entertainment
+1147491	Seattle	Travel & Hospitality
+137106	Silicon Valley	
+1535155	New Delhi	
+490500	San Francisco	
+125811		Telecommunications
+133783	New York	
+152275	London	
+226693		Telecommunications
+135749		Industrial Goods
+212738		Industrial Goods
+129458	Pittsburgh	
+135176	Chicago	Media & Entertainment
+107250	New York	
+1191336	New York	
+128279		Media & Entertainment
+100315	Silicon Valley	SaaS
+1818935	Dallas	Consulting & Business Services
+316663		Consulting & Business Services
+1176167	Raleigh	
+2517206	London	Artificial Intelligence
+114229		Consulting & Business Services
+181472		Telecommunications
+186994	San Francisco	
+1851792	Silicon Valley	
+160851	Cincinnati	Transportation & Warehousing
+399571	London	
+126650		Industrial Goods
+193521		Retail & Ecommerce
+100010	Chicago	Consulting & Business Services
+103574	San Diego	
+129864		Personal & Household Goods
+190425		Telecommunications
+366782		Health Care
+249790	San Francisco	Media & Entertainment
+736004	Irvine	
+131202	New York	
+134118	Silicon Valley	
+159359	Seattle	
+2623774	Silicon Valley	Consulting & Business Services
+100103	Los Angeles	
+113073	Atlanta	SaaS
+135172	Atlanta	Automobile
+119754		Telecommunications
+1723824		Health Care
+6569028		Consulting & Business Services
+106009	Silicon Valley	Education
+126117	Boston	
+197866	Silicon Valley	
+12047577	Toronto	Consulting & Business Services
+127628	Houston	Energy & Utilities
+150479	Silicon Valley	
+186782	Philadelphia	Education
+386428		Consulting & Business Services
+3017716		Retail & Ecommerce
+125709	San Francisco	
+141286	Boston	
+124303	Chicago	
+199696		Retail & Ecommerce
+1632537		Education
+138728	New York	Personal & Household Goods
+1156285	New York	
+1869158	Cambridge	Pharma & Biotech
+124372		Health Care
+105595	New York	Media & Entertainment
+122597	Chicago	
+1185498	Silicon Valley	
+1397164		Health Care
+123803	San Francisco	
+134627		Health Care
+263503		Retail & Ecommerce
+100356	Austin	
+106219	Austin	
+260098	Denver	
+100222	Silicon Valley	Health Care
+154186	Washington	Education
+160987	Vancouver	
+161923	London	
+128794		Travel & Hospitality
+138083		Personal & Household Goods
+253874		Health Care
+126128	San Diego	
+158809	Miami	Personal & Household Goods
+104577		SaaS
+136895		Consulting & Business Services
+127825		Personal & Household Goods
+370497		Consulting & Business Services
+101694	Dallas	Telecommunications|Internet of Things
+134728	New York	
+365633	San Francisco	
+194242		Industrial Goods
+100145	Atlanta	Consulting & Business Services
+104390	Seattle	
+124856	Chicago	Consulting & Business Services
+131198	Portland	Travel & Hospitality
+184566	Jacksonville	Consulting & Business Services
+118669		Travel & Hospitality
+122756	Silicon Valley	Hardware & Equipment
+122886	Boston	
+118503		Consulting & Business Services
+139124		Food & Beverages
+171890		Energy & Utilities
+429619		Transportation & Warehousing
+102062	Toronto	SaaS
+113075	Silicon Valley	
+141617	San Francisco	
+142957	Silicon Valley	
+5840993	Louisville	
+130435		Hardware & Equipment
+100289	New York	
+139288	Austin	Energy & Utilities
+205516	New York	Consulting & Business Services
+129404		Retail & Ecommerce
+102669	San Francisco	Media & Entertainment
+135032	Silicon Valley	
+4874978	New York	Real Estate & Construction
+129600		Consulting & Business Services
+142540		Energy & Utilities
+166944		Personal & Household Goods
+127612	London	
+142460	San Francisco	
+1170340	Toronto	
+1831283	Houston	Travel & Hospitality
+3522131	Mumbai	On Demand Economy
+9714118	Silicon Valley	Pharma & Biotech
+145729		Media & Entertainment
+140757	Pittsburgh	
+142337	Silicon Valley	
+125072	Silicon Valley	
+135348	New York	Consulting & Business Services
+131471		SaaS
+149742		Travel & Hospitality
+190543		Pharma & Biotech
+2239596		Personal & Household Goods
+100347	Silicon Valley	
+10890583	New York	Real Estate & Construction
+100380		Education|On Demand Economy
+425317		Health Care
+1180653		Industrial Goods
+139027	Atlanta	
+1671162	Silicon Valley	
+125097	New York	Consulting & Business Services
+137494	San Francisco	
+180592	New York	
+697426	Silicon Valley	
+100202	Seattle	Retail & Ecommerce
+120082	Irvine	
+131614		Telecommunications
+364172		Consulting & Business Services
+131847	Silicon Valley	
+209392	Silicon Valley	Consulting & Business Services
+12205566		Industrial Goods
+127299	New York	
+166137	Silicon Valley	
+141363	New York	Retail & Ecommerce
+140427		Consulting & Business Services
+217931	Silicon Valley	
+124583		Pharma & Biotech
+136332		Transportation & Warehousing
+1491174		Media & Entertainment
+131850	Denver	
+166098	Vancouver	Consulting & Business Services
+122482		Consulting & Business Services
+141619	Silicon Valley	
+1287467	Philadelphia	
+102139		SaaS|Artificial Intelligence|Internet of Things
+136011		Telecommunications
+190669	Silicon Valley	
+153151		Retail & Ecommerce
+100322	San Francisco	SaaS
+135154	New York	Media & Entertainment
+175421		Energy & Utilities
+100117	Los Angeles	
+121039		Media & Entertainment
+135976		Telecommunications
+181426		Telecommunications
+1724555	Silicon Valley	
+127168		Personal & Household Goods
+9669614		On Demand Economy
+197165	New York	Media & Entertainment
+131514		Travel & Hospitality
+121733	San Francisco	On Demand Economy
+252960	Los Angeles	Consulting & Business Services
+138668		Consulting & Business Services
+143853		Real Estate & Construction
+100195	Scottsdale	
+138094	New York	Consulting & Business Services
+133435		Energy & Utilities
+210262		Real Estate & Construction
+125068	Atlanta	Banking
+206692	San Francisco	Travel & Hospitality
+198738	Silicon Valley	Media & Entertainment
+104467	Orlando	
+130732	London	
+12012402		Health Care
+12119534		Transportation & Warehousing
+136209	New York	
+139636	San Francisco	
+103937	Silicon Valley	
+229123	San Francisco	Consulting & Business Services
+1532749	New York	Consulting & Business Services
+131291	San Francisco	Consulting & Business Services
+186578	San Francisco	
+193137	New York	
+116028		Education
+123465		Consulting & Business Services
+171170		Education
+1391677		Hardware & Equipment
+125707	Chicago	
+132526	Chicago	SaaS
+12157598		Health Care
+128938	London	Energy & Utilities
+103673	Toronto	
+110832	London	Media & Entertainment
+1175651	Chicago	
+123019		Hardware & Equipment
+1630060	Melbourne	
+1865659		Transportation & Warehousing
+125972	San Francisco	
+141426	New York	
+100404		Consulting & Business Services|On Demand Economy
+130855		Personal & Household Goods
+135491		Energy & Utilities
+148919		Industrial Goods
+103959	Seattle	
+132003	London	
+199248		Food & Beverages
+12124701		Transportation & Warehousing
+130072	Silicon Valley	
+147705	San Francisco	
+140470	Silicon Valley	SaaS
+169578	San Francisco	
+190913	Denver	
+494360		Health Care
+133168	Denver	Health Care
+138563	San Francisco	
+135093	Chicago	Consulting & Business Services
+12015445	New York	
+144030		Consulting & Business Services
+153860		Education
+1836038		Health Care
+102240	Cambridge	SaaS
+103053	Silicon Valley	Artificial Intelligence
+172096	London	On Demand Economy
+4409221		On Demand Economy
+12147237		Consulting & Business Services
+140041	Toronto	
+151910	Irvine	
+124074	Silicon Valley	Telecommunications
+212507	San Francisco	SaaS
+126422		Personal & Household Goods
+103895	San Francisco	
+123498	Silicon Valley	Consulting & Business Services
+1469703	Seattle	
+125559		Retail & Ecommerce
+135657	Kansas City	Food & Beverages
+160022	San Francisco	
+156275	Silicon Valley	
+359366	Denver	
+677844	Minneapolis	
+12113639	Silicon Valley	
+369505		Consulting & Business Services
+100242	San Francisco	On Demand Economy
+109511	Silicon Valley	SaaS
+140751	Toronto	
+104743	San Francisco	
+135134	Chicago	Transportation & Warehousing
+229854	London	
+164029	Montreal	
+212111	Mumbai	
+701060	San Francisco	Pharma & Biotech
+760797	Silicon Valley	
+1164940	San Francisco	Consulting & Business Services
+120612		Hardware & Equipment|SaaS
+177685		Transportation & Warehousing
+104280	Washington	Retail & Ecommerce
+122646	Portland	Media & Entertainment|SaaS
+129889		Consulting & Business Services
+100227	Silicon Valley	Health Care
+124008	Silicon Valley	
+186596	San Francisco	Health Care
+225244	San Francisco	
+1426938	Silicon Valley	
+102407	San Francisco	
+109499	San Francisco	SaaS
+146225	Toronto	
+380797	San Francisco	
+1414399	Silicon Valley	
+4366348		Health Care
+122811	Silicon Valley	Education|On Demand Economy
+125260	Nashville	Consulting & Business Services
+144430	Houston	
+166076	San Francisco	Pharma & Biotech
+103485	San Francisco	
+124973	Montreal	
+1388742	Silicon Valley	
+200036		Pharma & Biotech
+187929		Energy & Utilities
+1156530		Consulting & Business Services
+142285	Cambridge	
+438005	Chicago	Telecommunications
+133634		Health Care
+4007591		Health Care
+147802	Pittsburgh	
+129422		Media & Entertainment
+1664614	San Francisco	
+157398		Hardware & Equipment
+358837		Health Care
+106183	Boston	
+174268	Minneapolis	SaaS
+125122	Silicon Valley	
+135219	Charlotte	Automobile
+759391	San Francisco	
+188921	Silicon Valley	Consulting & Business Services
+261415	Silicon Valley	
+164143		Telecommunications
+4428012		Travel & Hospitality
+100335	Silicon Valley	Hardware & Equipment|SaaS|Internet of Things
+135110		Health Care
+1159208		Consulting & Business Services
+122520	New York	Media & Entertainment
+168841		Real Estate & Construction
+7410788		Personal & Household Goods
+127943		Hardware & Equipment
+131940		Health Care
+100183	Chicago	Media & Entertainment
+1478803		Pharma & Biotech
+127594		Hardware & Equipment
+100305	New York	Retail & Ecommerce
+137768	Toronto	
+125451		Pharma & Biotech
+183068		Transportation & Warehousing
+143466	New York	Media & Entertainment
+424813	Chicago	
+145948	New York	
+1834500	San Antonio	Media & Entertainment
+128937		Energy & Utilities
+135260		Energy & Utilities
+744174		On Demand Economy
+115421	Silicon Valley	
+129308	Chicago	Telecommunications
+375490	San Francisco	Consulting & Business Services
+379517	Burlington	
+150663		Automobile
+1284225		Travel & Hospitality
+140538	Denver	Media & Entertainment
+209992	New York	Food & Beverages|On Demand Economy
+150136	Mumbai	Automobile
+101768		Education
+145787	Toronto	
+1859626	San Francisco	
+7106753	Mumbai	
+135853		Health Care
+112851	New York	
+142918	Austin	
+119263		Pharma & Biotech
+127342	New York	Health Care
+127933	Boston	
+131264		Hardware & Equipment
+140285		Telecommunications
+1843766		Telecommunications
+100294	Silicon Valley	SaaS
+100658	Silicon Valley	SaaS
+140771	New York	
+1856372	London	
+127978		Travel & Hospitality
+129389		Health Care
+1143938	New York	
+124844		Telecommunications
+125900	Chicago	
+1147877		Retail & Ecommerce
+1154305		Industrial Goods
+100048	Silicon Valley	On Demand Economy
+104697	New York	
+135377	Pittsburgh	
+706176	San Francisco	
+100510	Silicon Valley	
+129336	London	Consulting & Business Services
+242915		Retail & Ecommerce
+1633441	Atlanta	
+124603		Internet of Things
+103476	San Francisco	
+127018		Automobile
+1628801		Education
+158287	Toronto	
+1156284	San Francisco	
+293993	New York	
+1402900	San Francisco	
+2485783	Atlanta	
+115691		SaaS
+123169		Media & Entertainment
+135670		Energy & Utilities
+158903	New York	
+163601	Austin	Media & Entertainment
+124415	San Francisco	SaaS
+174349		Energy & Utilities
+211309	San Francisco	
+483468	San Francisco	
+681259	Irvine	
+1148457	San Francisco	
+100405	San Francisco	On Demand Economy
+127783	Silicon Valley	
+199506	London	Health Care
+104670		Media & Entertainment
+1574444		Travel & Hospitality
+100122	New York	Education|On Demand Economy
+135222	Las Vegas	Travel & Hospitality
+135681		Health Care
+1724583		Health Care
+179830	London	Energy & Utilities
+128234		Consulting & Business Services
+133376		Energy & Utilities
+218161		Personal & Household Goods
+113932	Silicon Valley	
+131279	Silicon Valley	Hardware & Equipment
+12037790		Real Estate & Construction
+123536	Silicon Valley	
+128901		Retail & Ecommerce
+186390	Silicon Valley	SaaS
+191234	Austin	
+135030	Silicon Valley	
+150659	San Francisco	
+141362		On Demand Economy
+140945	London	Travel & Hospitality|On Demand Economy
+211108	Silicon Valley	
+257898	Silicon Valley	
+364243	Silicon Valley	Internet of Things
+696674	Seattle	
+103751	Scottsdale	
+128534	Philadelphia	Media & Entertainment|Internet of Things
+1491404	Raleigh	Pharma & Biotech
+9713346		Health Care
+100345	Silicon Valley	
+1185370	San Francisco	
+126821		Pharma & Biotech
+123813	New York	Consulting & Business Services
+257782	New York	Media & Entertainment
+4091449	San Francisco	
+142954	San Diego	Media & Entertainment
+496317	San Francisco	
+122535	Irvine	Retail & Ecommerce
+140154	San Francisco	
+142874	Silicon Valley	
+219668	Mumbai	
+1477329	London	
+112841	San Francisco	
+130047	Silicon Valley	
+189653	Boston	
+132052	Orlando	Travel & Hospitality
+135125	San Antonio	Energy & Utilities
+1403819		Travel & Hospitality
+362695		Hardware & Equipment
+162806		Automobile
+174285		Energy & Utilities
+132187	Minneapolis	Health Care
+155459		Health Care
+103241	Silicon Valley	Education
+129442	London	Consulting & Business Services
+125198	San Francisco	
+1724690	Orlando	
+125480		Media & Entertainment
+482705	Miami	
+12239934	Boston	
+205103		Industrial Goods
+124357		Banking
+375320		Consulting & Business Services
+134943	San Francisco	Artificial Intelligence
+103601		Consulting & Business Services
+208383		Consulting & Business Services|SaaS
+483899	Mumbai	
+1618118	San Francisco	
+137653	Cambridge	
+1372049	New York	
+139156		Media & Entertainment
+129561	Phoenix	
+133271	Houston	Energy & Utilities
+1187130	New York	
+1188295	Washington	Internet of Things
+150907		Education
+7005187		Travel & Hospitality
+133808	Silicon Valley	Energy & Utilities
+198457	London	Real Estate & Construction
+143181	New York	
+185089	Toronto	
+128362		Health Care
+12218672		Hardware & Equipment
+201333	Seattle	
+125921		Consulting & Business Services
+141614	Toronto	
+125994	Silicon Valley	Artificial Intelligence
+132702	Los Angeles	
+128682		Personal & Household Goods
+367033		Consulting & Business Services
+492654	Silicon Valley	Telecommunications
+201828		Health Care
+138953		Health Care
+100032	Silicon Valley	
+1383786	San Francisco	
+171525	Boston	Food & Beverages
+991077	Vancouver	
+100378	New York	
+122635	Chicago	
+490020	New York	
+106458		Industrial Goods
+139353		Health Care
+101762	Washington	Education|SaaS
+210286	Portland	Food & Beverages
+699809	New Delhi	Education|On Demand Economy
+1157270	London	
+159964		Automobile
+127451	New York	
+397826	Dallas	
+140590	New York	Transportation & Warehousing|On Demand Economy
+1174296	Dallas	Energy & Utilities
+100537	San Francisco	SaaS
+129210		SaaS
+154924		Retail & Ecommerce
+1722973	Portland	
+135248		Real Estate & Construction
+135135		Automobile
+209560		Real Estate & Construction
+130349	Silicon Valley	SaaS
+140923	San Francisco	Consulting & Business Services|Artificial Intelligence
+495797	Austin	Media & Entertainment
+128148		Transportation & Warehousing
+178627		Consulting & Business Services
+1426501		Telecommunications
+259039	San Francisco	Retail & Ecommerce
+123541		Consulting & Business Services
+131594		Energy & Utilities
+131662		Food & Beverages
+132076		Real Estate & Construction
+103017	San Francisco	On Demand Economy
+113399	San Francisco	
+12290802	Columbus	Energy & Utilities
+982967		Consulting & Business Services
+164858	Silicon Valley	
+1575537	Silicon Valley	
+290801		Consulting & Business Services
+120076	Brooklyn	Media & Entertainment
+130793	Columbus	Energy & Utilities
+12027724	Silicon Valley	
+131593		Energy & Utilities
+139245	New York	Retail & Ecommerce
+183618	Chicago	
+154833	Irvine	
+700573	Philadelphia	Pharma & Biotech
+702930	New York	
+384486		Consulting & Business Services
+121125		Health Care
+178403		Automobile
+122850	Boston	Education
+124369	Silicon Valley	
+127842		Pharma & Biotech
+168075		Transportation & Warehousing
+131573	Toronto	Travel & Hospitality
+140964	Silicon Valley	Retail & Ecommerce
+141723	Silicon Valley	
+146383		Health Care
+375138	San Francisco	Internet of Things
+136947		Energy & Utilities
+500965		Retail & Ecommerce
+9711605		Personal & Household Goods
+108869	Silicon Valley	Media & Entertainment
+191568	Silicon Valley	
+125275		Health Care
+1490851	New York	Travel & Hospitality
+103525		Health Care
+125809		Energy & Utilities
+132050		Personal & Household Goods
+132860		Media & Entertainment
+150756		Real Estate & Construction
+6711272		Personal & Household Goods
+175416	New York	
+1481819	Boston	
+2241109		Consulting & Business Services
+138812	Las Vegas	Travel & Hospitality
+217290		Automobile
+149744		Health Care
+1618558		Health Care
+12305182		Consulting & Business Services
+131675	Chicago	Travel & Hospitality
+135139	Omaha	Transportation & Warehousing
+12022643	Silicon Valley	
+124830		SaaS
+128363		Health Care
+135365		Health Care
+158897		Automobile
+152591	London	
+1182827	Boston	
+158920	San Francisco	
+172128	Omaha	Real Estate & Construction
+179964	Chicago	
+140524		Media & Entertainment
+122479	Silicon Valley	Consulting & Business Services|SaaS
+155291	Columbus	Transportation & Warehousing
+141460	San Francisco	
+704640	Silicon Valley	Artificial Intelligence
+137456		Education
+124779	Silicon Valley	SaaS
+130606	Chicago	Consulting & Business Services
+153821		Hardware & Equipment
+135294	Atlanta	
+135144		Food & Beverages
+159547	New York	Consulting & Business Services
+193652	New York	
+124584		Pharma & Biotech
+101363	San Francisco	Artificial Intelligence
+141629	New York	
+141610	Seattle	On Demand Economy
+141829	Louisville	
+126943		Media & Entertainment
+135436		Industrial Goods
+136952		Industrial Goods
+104691	San Francisco	SaaS
+141340	Silicon Valley	
+145955	Denver	Travel & Hospitality
+211022	Montreal	Media & Entertainment
+1476235	New York	
+135738		Health Care
+125920	Houston	
+139749	Columbus	
+179299	Silicon Valley	SaaS
+414765	Dallas	Consulting & Business Services
+1473535	Mumbai	
+106346	New York	Media & Entertainment
+122326	Silicon Valley	
+459263		Health Care
+12054251	New York	Consulting & Business Services
+111704	Silicon Valley	Consulting & Business Services
+125841	Los Angeles	Real Estate & Construction
+255120	Chicago	
+1187847	Boston	
+100208	London	
+122401	Phoenix	Consulting & Business Services
+12159474	Silicon Valley	
+176195		Automobile
+100209	San Francisco	SaaS
+1183178	San Francisco	
+125770		Health Care
+182261		Automobile
+123078	San Francisco	
+124432	Silicon Valley	
+129881	New York	
+140695	Boston	
+122121		Health Care
+359858		Consulting & Business Services
+100198	New York	Media & Entertainment
+121371	New York	
+218332	Sydney	
+1158891	Silicon Valley	Hardware & Equipment
+132171		SaaS
+4430689		Transportation & Warehousing|On Demand Economy
+125795	Silicon Valley	SaaS
+149277	New York	Real Estate & Construction
+179759		SaaS
+1173201		Retail & Ecommerce
+118053	Silicon Valley	Media & Entertainment
+137503	San Francisco	On Demand Economy
+140186		Telecommunications
+125799	Silicon Valley	Hardware & Equipment|Internet of Things
+132843	Atlanta	Transportation & Warehousing
+169497	Silicon Valley	Retail & Ecommerce|On Demand Economy
+1178385	New York	
+147205		Telecommunications
+157809		Automobile
+140241	Irvine	
+141950	Silicon Valley	
+127758		Hardware & Equipment
+136092		Energy & Utilities
+8369802	Silicon Valley	Hardware & Equipment
+103143		Health Care
+128259		Industrial Goods
+133608	Jacksonville	Travel & Hospitality
+137893	Boston	
+144368	Las Vegas	Consulting & Business Services
+219134	New York	
+174374		Energy & Utilities
+356873		Hardware & Equipment
+119736	Silicon Valley	Telecommunications
+137936	Houston	Energy & Utilities
+169536	Atlanta	Consulting & Business Services
+131672		Travel & Hospitality
+134990	Denver	
+140381	San Francisco	
+419141		Consulting & Business Services
+129872	Irvine	Hardware & Equipment
+147206		Transportation & Warehousing
+1622462	San Francisco	
+149809		Telecommunications
+122373	San Diego	
+142695	San Francisco	SaaS
+134481		Consulting & Business Services
+115980	San Francisco	
+183356	San Francisco	
+143399	Silicon Valley	Telecommunications
+154918	Cincinnati	Retail & Ecommerce
+128342		Health Care
+171925		Personal & Household Goods
+1578824		Retail & Ecommerce|On Demand Economy
+104660	Kansas City	
+121145	Silicon Valley	Banking
+9486162		Retail & Ecommerce
+102038	San Francisco	
+461106	Denver	Consulting & Business Services
+126586	Seattle	Consulting & Business Services
+214585	New York	Food & Beverages
+369622	Portland	
+199417		Health Care
+103961	Austin	SaaS
+119774	Atlanta	
+153559	Austin	SaaS
+123470		Education
+129580		Hardware & Equipment
+228080		Transportation & Warehousing
+105831	Boston	Consulting & Business Services
+204831	San Francisco	
+163642	Austin	Pharma & Biotech
+125852		Consulting & Business Services
+221415		Retail & Ecommerce
+100505	Silicon Valley	SaaS
+126435	New York	Consulting & Business Services
+150066		Transportation & Warehousing
+284636		Travel & Hospitality
+126257	Vancouver	
+140386	Washington	Media & Entertainment
+124684	Cleveland	
+268922	Mumbai	
+122335	Irvine	Retail & Ecommerce
+123309	Silicon Valley	
+9711721	Mumbai	
+126881		Media & Entertainment
+160111		Energy & Utilities
+133120	Minneapolis	Health Care
+1866675	Silicon Valley	
+12158318	Philadelphia	
+157544		Energy & Utilities
+716372	Silicon Valley	
+1294016	Silicon Valley	
+126072	Atlanta	Consulting & Business Services
+139540	Boston	Industrial Goods
+1396850	Silicon Valley	
+185436		Education
+103079	Sydney	SaaS
+123723	Silicon Valley	
+148229	Irvine	
+164120	San Francisco	
+198611	New York	Consulting & Business Services
+226320	Austin	
+277109	Boston	Real Estate & Construction
+1408621	Denver	
+123812	Boston	
+135198	Los Angeles	
+141594	Silicon Valley	Consulting & Business Services|On Demand Economy
+103366		Media & Entertainment
+210656		Telecommunications
+372543		Health Care
+110380	Silicon Valley	
+122340	Silicon Valley	Artificial Intelligence
+101070	Raleigh	Internet of Things
+135234		Retail & Ecommerce
+189674		Pharma & Biotech
+887904		Consulting & Business Services
+1172156		Consulting & Business Services
+12056111		Transportation & Warehousing
+124642	Los Angeles	
+371600	Boston	Education|On Demand Economy
+380709		Consulting & Business Services
+1170563		Media & Entertainment
+100115	Portland	Travel & Hospitality
+208407	Vancouver	
+116507		Consulting & Business Services
+171314	Houston	Hardware & Equipment
+114559		Consulting & Business Services
+107959		Media & Entertainment
+135302	Denver	Food & Beverages
+138819	Silicon Valley	
+157743	Kansas City	Real Estate & Construction
+125352		Retail & Ecommerce
+226236		Retail & Ecommerce
+102211	Silicon Valley	Hardware & Equipment|SaaS|Internet of Things
+123100	Seattle	
+135576	Houston	Energy & Utilities
+1127737	Atlanta	Consulting & Business Services
+7658889	Silicon Valley	
+125534	Minneapolis	Food & Beverages
+135570	Los Angeles	Pharma & Biotech
+5085609	New York	Media & Entertainment
+125005	San Francisco	
+131092	Philadelphia	Education
+129208		Hardware & Equipment
+133151		Energy & Utilities
+694810		Telecommunications
+106253	Austin	Consulting & Business Services
+125915	Austin	
+128099		Health Care
+135932		Real Estate & Construction
+136212		Telecommunications
+126060	Silicon Valley	Hardware & Equipment
+127057		SaaS
+217151	Omaha	Health Care
+357509	London	
+182514		Consulting & Business Services
+1419055		Automobile
+119007	London	Media & Entertainment
+125967	Los Angeles	
+129102		Retail & Ecommerce
+157765		Education
+129682		Health Care
+135795		Energy & Utilities
+482143	London	
+698748	Silicon Valley	Energy & Utilities
+126731		Pharma & Biotech
+196277		Real Estate & Construction
+100028	Chicago	
+123710	Houston	Transportation & Warehousing
+125459	New York	Media & Entertainment
+230126	Austin	Consulting & Business Services
+1395949	Austin	Artificial Intelligence
+1415103	San Francisco	
+100427	New York	Consulting & Business Services
+122126	Houston	
+210469		Real Estate & Construction
+105937	Silicon Valley	
+171819	Silicon Valley	Hardware & Equipment
+183071	Charlotte	Health Care
+2519064	Silicon Valley	
+100080	New York	Consulting & Business Services
+12133168	London	
+135252		Industrial Goods
+208882	Mumbai	Real Estate & Construction
+498853	Chicago	
+1579594	London	
+6554032	San Francisco	Travel & Hospitality
+100332	Silicon Valley	
+162939	Silicon Valley	
+705489	San Francisco	
+117603	Austin	
+163419	Kansas City	
+149740		Consulting & Business Services
+382279		Health Care
+1172552		Travel & Hospitality
+113381		On Demand Economy
+131197		Consulting & Business Services
+320582	San Francisco	
+371872	New York	
+384251	Silicon Valley	
+9715148	New York	Real Estate & Construction
+126739	Silicon Valley	Hardware & Equipment
+149788	London	Pharma & Biotech
+1618630	Seattle	Media & Entertainment
+150249	New York	
+467877	San Francisco	
+1579359	San Francisco	Real Estate & Construction
+135486		Transportation & Warehousing
+138269		Real Estate & Construction
+148883		Food & Beverages
+165311		Transportation & Warehousing
+187383		Food & Beverages
+120993	New York	Consulting & Business Services
+123101	Silicon Valley	SaaS
+122661		Consulting & Business Services
+708255		On Demand Economy
+125848	San Francisco	Travel & Hospitality|On Demand Economy
+1848089	Vancouver	Health Care
+139325	London	Food & Beverages|On Demand Economy
+298775		Hardware & Equipment
+676419	Mumbai	
+189555		Personal & Household Goods
+115429	San Francisco	SaaS
+142295	Boston	Consulting & Business Services
+1419297	San Diego	
+128791	Miami	Food & Beverages
+139618	Minneapolis	
+123467	New York	Media & Entertainment
+177096	New York	SaaS
+706375	San Francisco	SaaS
+12029790	New York	
+228382		Transportation & Warehousing
+104711	Silicon Valley	Consulting & Business Services
+108881	London	
+135258	Miami	Travel & Hospitality
+157863	Silicon Valley	Automobile|Artificial Intelligence
+102248		SaaS
+116873		SaaS
+211340		Consulting & Business Services
+100365	New York	Consulting & Business Services
+130538	Minneapolis	
+357761		Travel & Hospitality|On Demand Economy
+368426	Silicon Valley	
+104688		Consulting & Business Services|SaaS
+142269		Health Care
+209059		Consulting & Business Services
+133175		Telecommunications
+128560	Cambridge	
+2968763	London	
+1173238		Travel & Hospitality
+117442	London	
+124800	London	SaaS
+190263		Hardware & Equipment
+209974		Consulting & Business Services
+821243	San Francisco	SaaS
+150104		Industrial Goods
+1186479	Austin	
+1492103	Silicon Valley	Hardware & Equipment
+174284		Transportation & Warehousing
+208839		Telecommunications
+222808		Consulting & Business Services
+131647	Chicago	Health Care
+1174383	Toronto	
+170926	Philadelphia	Health Care
+12041303	Silicon Valley	Consulting & Business Services
+136398		Media & Entertainment
+147100		Consulting & Business Services
+203426		Education
+234576		Personal & Household Goods
+140504	Washington	Consulting & Business Services
+141070	San Francisco	Media & Entertainment
+1844439	New York	Media & Entertainment
+123805		Media & Entertainment
+139229		Hardware & Equipment
+102931	Cincinnati	Consulting & Business Services
+129033	Minneapolis	Food & Beverages
+698301	San Francisco	
+106305		Consulting & Business Services
+163481		Retail & Ecommerce
+12024914		Transportation & Warehousing
+281353	New York	Consulting & Business Services
+9236427	New York	
+2440794		On Demand Economy
+123227	New York	
+318530		Consulting & Business Services
+193859	London	
+131017		Food & Beverages
+1476881		Retail & Ecommerce|On Demand Economy
+123439	Silicon Valley	
+125755	Silicon Valley	Hardware & Equipment
+212318		Telecommunications
+115685	Los Angeles	
+135308		Hardware & Equipment
+134968	Los Angeles	
+5008781	San Francisco	
+123504	San Francisco	
+130512	New York	
+127378		Retail & Ecommerce
+131292	Denver	
+366981	San Francisco	
+9674895	Atlanta	
+744329	San Francisco	
+4868725	San Francisco	
+127213		Retail & Ecommerce
+101974	New York	
+100124		Consulting & Business Services
+134786		Real Estate & Construction
+135262		Real Estate & Construction
+217063		Hardware & Equipment
+125397	San Francisco	
+1536190	Nashville	Consulting & Business Services
+113986	New York	Media & Entertainment
+144908		Real Estate & Construction
+125452	San Francisco	Pharma & Biotech
+1372593	Silicon Valley	
+102227	Silicon Valley	Telecommunications
+125318	San Francisco	Personal & Household Goods
+1848091	Dallas	
+706705		Travel & Hospitality
+1180632	Cambridge	Pharma & Biotech
+12083426	Mumbai	Health Care
+133723	Chicago	Energy & Utilities
+137038	Cambridge	
+170940	New York	Consulting & Business Services
+217617	Silicon Valley	Health Care
+127857	Silicon Valley	
+133230	San Diego	Health Care
+101872		Personal & Household Goods
+130887		Hardware & Equipment|SaaS|Internet of Things
+715910		Health Care
+1159066		Telecommunications
+122139	Boston	On Demand Economy
+2231485	Indianapolis	
+102832		Consulting & Business Services
+116761	San Diego	Pharma & Biotech
+130384	San Francisco	Media & Entertainment|SaaS
+158348		Media & Entertainment
+135266		Automobile
+144334		Education
+358701	Houston	
+487748	London	
+1007933	San Francisco	
+121107		Health Care
+135822		Industrial Goods
+203441		Pharma & Biotech
+124153	Silicon Valley	
+173829	Silicon Valley	Consulting & Business Services
+1398702		Consulting & Business Services
+122345	Boston	Consulting & Business Services
+127188		Internet of Things
+280397		Consulting & Business Services
+285799		Consulting & Business Services
+124567		Banking
+100766	New York	Banking
+122208	New York	Health Care
+3088414		Travel & Hospitality|On Demand Economy
+135406	Columbus	
+135257		Personal & Household Goods
+103190	Indianapolis	
+142296	Birmingham	
+143368	Los Angeles	Education
+1175950	Charlotte	Health Care
+210602		Consulting & Business Services
+101236	Mumbai	
+122276	Washington	Industrial Goods
+1377342	Mumbai	Retail & Ecommerce
+100740		SaaS
+118373	New York	
+134624	Silicon Valley	
+7011702	Mumbai	Personal & Household Goods
+12041128	Houston	
+117619	Chicago	
+1626195	San Francisco	
+263122	Chicago	Consulting & Business Services
+1297082	San Francisco	
+132562		Automobile
+1274197		Consulting & Business Services
+124922	New York	Banking
+133511	San Francisco	
+704483	Cambridge	
+135755		Hardware & Equipment
+123236	New York	Media & Entertainment
+264713	Chicago	
+139960	Silicon Valley	Hardware & Equipment
+367826	New York	
+128645		Telecommunications|Internet of Things
+101863	Austin	SaaS
+135017	Houston	
+132233	Chicago	
+137259	Silicon Valley	
+142358	Silicon Valley	Health Care
+169726	Miami	Education
+707375	Silicon Valley	
+115284		Pharma & Biotech
+104662	Chicago	
+106711	Silicon Valley	SaaS
+136964	Salt Lake City	Telecommunications
+221970		Retail & Ecommerce
+8796427		Consulting & Business Services
+122949	Silicon Valley	SaaS
+124135	Silicon Valley	Hardware & Equipment
+136115	Atlanta	Media & Entertainment
+141779	Scottsdale	Transportation & Warehousing
+144712	Sydney	
+200737	Austin	
+127433		SaaS
+105900	Austin	SaaS
+135322	Dallas	Travel & Hospitality
+164747	San Francisco	
+206187	Pittsburgh	Real Estate & Construction
+149855		Industrial Goods
+171709		Consulting & Business Services|SaaS
+173146	San Francisco	
+135267		Food & Beverages
+111244		Banking
+1187162		Energy & Utilities
+133331	Charlotte	
+133676	Toronto	
+1176868	Silicon Valley	
+493957		Health Care
+12022995	New York	
+135081		Food & Beverages
+162875		Hardware & Equipment
+412985		Consulting & Business Services
+712066	San Francisco	
+8238082	Denver	
+128656	Boston	
+138442	Cincinnati	
+636973	New York	Food & Beverages
+134025		Telecommunications
+164388		Health Care
+296798		Health Care
+119658	New York	Artificial Intelligence
+123809	Silicon Valley	Banking
+379652	San Francisco	
+101887		Media & Entertainment
+128979		Pharma & Biotech
+135388		Personal & Household Goods
+197268		Health Care
+126512	Silicon Valley	
+128341	New York	Transportation & Warehousing
+245091	San Francisco	
+309146	Chicago	Media & Entertainment
+136830		Retail & Ecommerce
+1857019		Industrial Goods
+100015	Silicon Valley	
+136671	San Francisco	
+122346	New York	Retail & Ecommerce
+381572		Consulting & Business Services
+367935	New York	Media & Entertainment
+418233	Chicago	
+131362	Denver	Travel & Hospitality
+142670	San Francisco	
+172857	Cambridge	
+122540		Health Care
+100654	San Francisco	SaaS|Artificial Intelligence|Internet of Things
+101952	New York	
+247635		Automobile
+130501	Austin	Hardware & Equipment
+1164994	New York	Real Estate & Construction
+168306		Education
+128889	Silicon Valley	
+135407	Boston	Consulting & Business Services
+192832	Atlanta	
+254963		Retail & Ecommerce
+100154	San Francisco	Education|On Demand Economy
+134681	London	
+183982	Burlington	Health Care
+193101	San Francisco	Education
+127139		Telecommunications
+130403	Cleveland	Industrial Goods
+141667	Denver	
+139850	Los Angeles	
+1171427	Mumbai	Retail & Ecommerce
+1482229	San Francisco	
+222728		Retail & Ecommerce
+123926	Chicago	SaaS
+135584	Philadelphia	Retail & Ecommerce
+164734		Travel & Hospitality
+1845204	Silicon Valley	
+5217911	Chicago	
+1150653		Media & Entertainment
+100469	Silicon Valley	SaaS
+135762	San Antonio	Retail & Ecommerce
+1150117	London	
+124229		Personal & Household Goods|Internet of Things
+124025	Silicon Valley	
+124564	London	Consulting & Business Services
+1576301	Atlanta	
+182180		Energy & Utilities
+103807	New York	
+111692	Atlanta	Media & Entertainment
+1470918	London	
+100053		Consulting & Business Services
+134424		Real Estate & Construction
+141419		Health Care
+125421	Raleigh	
+382015	Seattle	
+1859381	San Francisco	
+12063450		Telecommunications
+122511		Real Estate & Construction
+123351		SaaS
+137590		Consulting & Business Services
+197956		Media & Entertainment
+132083	San Francisco	
+137152	Fort Worth	Transportation & Warehousing
+145427	San Francisco	
+1400399	Boston	
+129296		Energy & Utilities
+134397		Telecommunications
+122759	Silicon Valley	
+133256	Houston	Energy & Utilities
+1830495		Consulting & Business Services
+1852623	London	
+110406		Banking
+106177	New York	Media & Entertainment
+363572	Denver	
+1725494	London	On Demand Economy
+127322		Industrial Goods
+125071	Silicon Valley	Pharma & Biotech
+135112	Houston	Energy & Utilities
+107246	Silicon Valley	
+115856	San Francisco	SaaS
+12033566		Transportation & Warehousing
+100163	Cambridge	SaaS
+615130	Silicon Valley	
+127212		Hardware & Equipment
+132696		Consulting & Business Services
+151458		Pharma & Biotech
+127885	New York	Media & Entertainment
+1398106	Silicon Valley	Transportation & Warehousing
+238214	Mumbai	
+382171	Boston	
+177408		Health Care
+140584	Cambridge	Pharma & Biotech
+154510	Columbus	Consulting & Business Services
+191149	Silicon Valley	
+123203	Silicon Valley	
+111082		Consulting & Business Services
+1490682	San Francisco	
+126521		Telecommunications
+133183		Telecommunications
+319749		Real Estate & Construction
+102995		Consulting & Business Services
+128936		Energy & Utilities
+131467	Chicago	Consulting & Business Services
+140720	San Francisco	
+171222	Burlington	
+124881		Travel & Hospitality
+144405		Education
+190332		Consulting & Business Services
+104725	Chicago	SaaS
+124248	Salt Lake City	Education
+190519	Toronto	
+105787	Silicon Valley	Telecommunications
+106752	San Francisco	
+185257	Silicon Valley	
+323964	London	Consulting & Business Services
+1859454	Silicon Valley	
+324095		Transportation & Warehousing
+117627	Portland	
+124897	Silicon Valley	
+104270		Transportation & Warehousing
+159755	Austin	
+1176386	London	
+2232286	Chicago	
+138330		Consulting & Business Services
+152430		Energy & Utilities
+123416	San Francisco	On Demand Economy
+128666	San Francisco	SaaS
+155246	Silicon Valley	
+130243		Telecommunications|Internet of Things
+117867	San Antonio	Consulting & Business Services
+122131	Silicon Valley	
+100503	Silicon Valley	SaaS
+111436	Silicon Valley	Hardware & Equipment|Artificial Intelligence|Internet of Things
+155528		Travel & Hospitality
+122183	Silicon Valley	
+133231	Louisville	Health Care
+135115		Retail & Ecommerce
+375649		Food & Beverages
+138630	New York	
+127355		Consulting & Business Services|SaaS
+126414		Health Care
+496434		Consulting & Business Services
+1187998	Silicon Valley	SaaS
+100459	Silicon Valley	
+125109	Silicon Valley	Media & Entertainment
+100489	New York	
+103965	San Francisco	SaaS
+164126	New York	Retail & Ecommerce
+224734		Travel & Hospitality
+136177	Washington	
+2235951	San Francisco	
+9857757	London	Consulting & Business Services
+12113633	Montreal	
+128167		Media & Entertainment
+118114	Houston	
+135840	London	Real Estate & Construction
+102901		Hardware & Equipment|SaaS|Internet of Things
+144819		Travel & Hospitality
+363281	New York	Health Care
+1409520	Columbus	
+150404		Travel & Hospitality
+191987		Food & Beverages
+120886	San Francisco	SaaS
+127396	Atlanta	
+156885	Vancouver	Telecommunications
+163104	Cleveland	
+190047	Silicon Valley	
+1385472	San Francisco	
+1851811	Chicago	
+171112		Retail & Ecommerce
+130121	New York	
+144095	Silicon Valley	
+1283663		Consulting & Business Services
+211092		Personal & Household Goods
+155227	Scottsdale	
+132557		Consulting & Business Services
+138983	Silicon Valley	
+193812	London	
+142952	Vancouver	
+208980	Mumbai	
+358423		Retail & Ecommerce
+122961	Kansas City	SaaS
+111850		Consulting & Business Services
+128539		On Demand Economy
+115640	Chicago	Media & Entertainment
+6127022	Silicon Valley	
+1624507		Health Care
+133110	Silicon Valley	SaaS
+229324		Media & Entertainment
+129470	New York	
+131600	Atlanta	Food & Beverages
+12039072	Silicon Valley	
+146055		Automobile
+4024427		Real Estate & Construction
+122064	San Francisco	
+129284	New York	Media & Entertainment
+139446	San Francisco	
+181321	New York	Media & Entertainment
+269999	Cincinnati	Industrial Goods
+138658		Travel & Hospitality
+180719		Industrial Goods
+104210	New York	
+135743	Houston	Energy & Utilities
+225113	New Delhi	Retail & Ecommerce
+497551	San Francisco	On Demand Economy
+1287373	Minneapolis	
+1834231	Atlanta	
+124069	New York	
+125946	New York	Pharma & Biotech
+102651	San Francisco	On Demand Economy
+1583974		Travel & Hospitality
+135400		Health Care
+150190		Health Care
+500376	Silicon Valley	
+5946626	Silicon Valley	
+155286		Consulting & Business Services
+123768	Silicon Valley	
+218290	Silicon Valley	
+145274	New York	Real Estate & Construction
+207889	San Francisco	
+701446		Travel & Hospitality
+1295800	San Francisco	
+130766		Automobile
+143696	Boston	Consulting & Business Services
+122781		SaaS
+124208		Retail & Ecommerce
+380155		Consulting & Business Services
+103837	San Francisco	
+125414	Silicon Valley	Hardware & Equipment
+191482		Pharma & Biotech
+198556		Real Estate & Construction
+1857992		Media & Entertainment
+122795	Phoenix	Food & Beverages
+384268	Silicon Valley	
+160474	Silicon Valley	
+3875469	Mumbai	
+126679		Industrial Goods
+129671		Travel & Hospitality
+102223	Silicon Valley	Hardware & Equipment
+154262	Silicon Valley	Personal & Household Goods
+177338		Media & Entertainment
+140014	Chicago	
+709452	Silicon Valley	
+125924	Boston	
+135503		Industrial Goods
+190135	Silicon Valley	
+1190817		Retail & Ecommerce
+1292973		Health Care
+134294	Austin	
+133958		Retail & Ecommerce
+129631		Hardware & Equipment
+150183		Consulting & Business Services
+1841074		Consulting & Business Services
+6795465		Consulting & Business Services
+122374	San Francisco	Health Care|SaaS
+358150	Silicon Valley	
+359537	Austin	
+1594383	Portland	
+127812		Industrial Goods
+482918		Real Estate & Construction
+489626		Consulting & Business Services
+1812484		Retail & Ecommerce
+100019	Portland	
+327439	Silicon Valley	
+224486	New York	
+209172		Pharma & Biotech
+100557	Boston	
+125194	New York	
+102060	Atlanta	
+7630608	San Francisco	
+132487		Real Estate & Construction
+1197285		SaaS
+136978	Omaha	Real Estate & Construction
+139430	Silicon Valley	Hardware & Equipment
+135230	Fort Worth	Real Estate & Construction
+182799	Chicago	
+379305	Washington	
+988928	Silicon Valley	
+103336	Boston	
+123583	Silicon Valley	
+493546	Silicon Valley	
+153258	Silicon Valley	
+192176	New York	
+169322	San Diego	Pharma & Biotech
+125284		Pharma & Biotech
+10397087	San Francisco	SaaS
+180052		SaaS
+190633		Food & Beverages
+123785	Silicon Valley	
+137136	Chicago	On Demand Economy
+103330	Toronto	
+12064669	San Francisco	Food & Beverages
+117146		SaaS
+127932		Education
+141925	Silicon Valley	
+483683	New Delhi	Telecommunications
+495870	San Francisco	
+1285244	New York	
+135162	Cleveland	Industrial Goods
+700502	New Delhi	
+128733		Health Care
+125285		Pharma & Biotech
+126484		Pharma & Biotech
+125366		Media & Entertainment
+128004		SaaS
+122290	Silicon Valley	
+122757	Silicon Valley	Hardware & Equipment
+261632	San Francisco	
+124183	Silicon Valley	Telecommunications
+124510	London	Retail & Ecommerce
+264239		Consulting & Business Services
+100491	San Francisco	
+7244919	San Francisco	Consulting & Business Services
+1530933	San Francisco	
+1845774	Mumbai	
+220911		Energy & Utilities
+250875		Transportation & Warehousing
+482763	Indianapolis	
+1289814	Silicon Valley	
+225308	Silicon Valley	Education
+131181		Artificial Intelligence
+128268	Irvine	Consulting & Business Services
+129313	Louisville	Travel & Hospitality
+482906	Silicon Valley	
+707356	Boston	Consulting & Business Services
+1420965	Charlotte	
+145187		Consulting & Business Services
+108640	Seattle	
+237187	New Delhi	Retail & Ecommerce
+123457	Dallas	Consulting & Business Services
+184526	Melbourne	
+701978	Boston	Energy & Utilities
+1169814	Mumbai	
+1404705	Cambridge	Pharma & Biotech
+2229832		Hardware & Equipment
+114281	San Francisco	Media & Entertainment
+122783	Silicon Valley	
+134528		Consulting & Business Services
+382857		Consulting & Business Services
+125087	Seattle	Consulting & Business Services
+130904		Personal & Household Goods
+135574	New York	Personal & Household Goods
+1289671	Boston	
+103035		Media & Entertainment
+166935		Consulting & Business Services|SaaS
+124059	Silicon Valley	SaaS
+135031	Chicago	On Demand Economy
+135205	Philadelphia	Transportation & Warehousing
+142330	San Francisco	
+150983	Toronto	
+4791068	San Francisco	
+115632	Seattle	
+126099	Silicon Valley	Telecommunications
+142220		Consulting & Business Services
+1160314	Washington	
+107426		Consulting & Business Services|SaaS
+137422		Retail & Ecommerce
+149760		Pharma & Biotech
+129089	San Francisco	
+152583	Houston	Education
+680893	Salt Lake City	
+135169	Jacksonville	Transportation & Warehousing
+1391824	San Francisco	
+149646		Energy & Utilities
+135157	Philadelphia	Consulting & Business Services
+1423524	Washington	Consulting & Business Services
+1536587	London	
+188588		Personal & Household Goods
+486219		On Demand Economy
+139995	San Francisco	Consulting & Business Services
+1400626	Toronto	
+125644		Retail & Ecommerce
+144340		Telecommunications
+158203	Salt Lake City	Consulting & Business Services
+110836		Consulting & Business Services
+123864	Silicon Valley	SaaS
+8142793	Silicon Valley	
+12224300	London	
+135810		Media & Entertainment
+1721931		Personal & Household Goods
+104201	New York	
+127089	New York	Consulting & Business Services
+196653	Portland	
+247151	Irvine	
+12029765	New Delhi	
+132077		Real Estate & Construction
+141833		Consulting & Business Services
+117927	New York	
+124457	Silicon Valley	
+1373785	Mumbai	Personal & Household Goods
+270794		Consulting & Business Services
+122387	San Francisco	
+711402	Vancouver	
+207885	Chicago	Telecommunications
+127910		Automobile
+126393	Silicon Valley	SaaS
+141715	Silicon Valley	
+153470	San Francisco	
+12060874	San Diego	Telecommunications
+132740	San Diego	
+139072	Pittsburgh	Retail & Ecommerce
+103185	Silicon Valley	SaaS|Artificial Intelligence
+140976	Scottsdale	Media & Entertainment
+206205	Mumbai	
+125042		Health Care
+124589	Las Vegas	Retail & Ecommerce
+130045	Tampa	Consulting & Business Services
+127266		Industrial Goods
+168291		Media & Entertainment
+1870546		Telecommunications
+1866181	London	Energy & Utilities
+126355		Hardware & Equipment
+1582098	Silicon Valley	
+2240496	Mumbai	On Demand Economy
+1148735		On Demand Economy
+123050	Atlanta	Transportation & Warehousing
+127951	New York	
+482225	Birmingham	Consulting & Business Services
+126615		Health Care
+166269		Automobile
+123112	Tampa	Consulting & Business Services
+125919	Dallas	Real Estate & Construction
+126191	Vancouver	
+142103		Media & Entertainment
+106647	San Diego	
+156059	Silicon Valley	Health Care
+1386441	New Delhi	Transportation & Warehousing
+4417541	New York	
+12057784	Mumbai	Education
+136448		Real Estate & Construction
+144350	Indianapolis	
+372076	Denver	
+135150		Automobile
+129926	Cambridge	Automobile
+3844678	Nashville	
+126068		Automobile
+100054	New York	Consulting & Business Services
+154232	Irvine	Health Care
+133474		Consulting & Business Services
+103999	Silicon Valley	
+127859	Silicon Valley	
+1482035	San Francisco	
+11275464	Silicon Valley	
+195163		Industrial Goods
+208525		Transportation & Warehousing
+172918	Montreal	Consulting & Business Services|On Demand Economy
+253792	Mumbai	Transportation & Warehousing|On Demand Economy
+357222	Silicon Valley	
+126066		Automobile
+133224		Real Estate & Construction
+141159		Health Care
+217777	Orlando	
+126494		Hardware & Equipment
+123612		Retail & Ecommerce
+132055		Telecommunications
+100180	New York	
+143225	Chicago	Consulting & Business Services
+135659		Industrial Goods
+100087	Silicon Valley	
+128623		Food & Beverages
+4374480		Telecommunications
+128515	New York	
+139215	Los Angeles	Media & Entertainment
+124882	New York	Media & Entertainment
+128627		Pharma & Biotech
+128810		Pharma & Biotech
+135227		Energy & Utilities
+100187	Silicon Valley	SaaS
+118655	Silicon Valley	
+371946	Atlanta	Media & Entertainment
+384315	New York	Consulting & Business Services
+480222	London	Consulting & Business Services
+130686		Consulting & Business Services
+219560		Industrial Goods
+120074	New York	Consulting & Business Services
+123035	Silicon Valley	SaaS
+1284650	Phoenix	Personal & Household Goods
+100350	San Diego	Health Care
+100509	Silicon Valley	
+110640		Education
+133344		Food & Beverages
+103452	Silicon Valley	Hardware & Equipment
+401884	Cambridge	
+286415	Silicon Valley	
+1395201	Chicago	Consulting & Business Services
+128569		Industrial Goods
+133602		Travel & Hospitality
+117190	Boston	
+127353	San Francisco	
+129463	San Francisco	
+125666		Pharma & Biotech
+142065	Scottsdale	
+10291545	Montreal	
+183380		Telecommunications
+104443	Silicon Valley	
+141260	Boston	
+1532351	Mumbai	
+115166		Retail & Ecommerce
+137209		Telecommunications
+122095	Minneapolis	Consulting & Business Services
+150044	Indianapolis	Transportation & Warehousing
+133016	Silicon Valley	Hardware & Equipment
+124782	San Francisco	
+215398	Irvine	Real Estate & Construction
+102254	San Francisco	Hardware & Equipment
+123431	Phoenix	
+122487	San Diego	
+361849		Food & Beverages|On Demand Economy
+100650		Banking
+133074		Consulting & Business Services
+123087	Silicon Valley	Education|On Demand Economy
+265239	Chicago	Telecommunications
+122259	Silicon Valley	
+123593	Silicon Valley	
+125560	Charlotte	Retail & Ecommerce
+135734	Silicon Valley	Health Care
+2234809	Boston	
+2549836	New York	Consulting & Business Services
+150294		Industrial Goods
+213596		Travel & Hospitality|On Demand Economy
+104252	San Francisco	
+112857	San Francisco	
+1422025		Retail & Ecommerce
+124680	New York	Retail & Ecommerce
+169106	Silicon Valley	Hardware & Equipment
+127413	Salt Lake City	Transportation & Warehousing
+1153416	Chicago	Consulting & Business Services
+134810		Real Estate & Construction
+157973		Transportation & Warehousing
+696706		Telecommunications
+105115	Chicago	On Demand Economy
+106145	Denver	
+122464		Consulting & Business Services
+497281		Travel & Hospitality
+130537	Atlanta	
+137970	San Francisco	
+125778		Consulting & Business Services
+149802		Transportation & Warehousing
+157313		Consulting & Business Services
+144873	Toronto	
+163452	Denver	
+126423		Personal & Household Goods
+123685		Media & Entertainment
+114227	Silicon Valley	
+124076	Scottsdale	Telecommunications
+172065	Silicon Valley	Consulting & Business Services
+4383822	San Francisco	
+116231	San Francisco	Travel & Hospitality|On Demand Economy
+134167	New York	Real Estate & Construction
+138084		Automobile
+132263	Denver	Real Estate & Construction
+103130		Health Care
+11372647	Silicon Valley	
+127515		Hardware & Equipment
+1174244		Energy & Utilities
+122609	New York	Media & Entertainment
+209888	New York	On Demand Economy
+111716		Consulting & Business Services
+3239587		Retail & Ecommerce
+129571	Denver	Consulting & Business Services
+144506	Raleigh	
+132841	New York	Consulting & Business Services
+6127284		Automobile
+9800930		Consulting & Business Services
+102130	Seattle	Retail & Ecommerce
+175584	Las Vegas	Travel & Hospitality
+132411	Washington	Consulting & Business Services
+100366	New York	
+128630	London	Consulting & Business Services
+187275	New York	
+126201		Industrial Goods|SaaS|Internet of Things
+12053168	Portland	
+141979		Media & Entertainment
+382844		Telecommunications
+107947	Indianapolis	
+125773	Atlanta	Telecommunications
+1145489	Silicon Valley	
+1552194		Health Care
+124493	London	
+147204	Sydney	
+137094		SaaS
+1538576	Silicon Valley	
+135189		Energy & Utilities
+210210		Industrial Goods
+887393		Education
+125664		Pharma & Biotech
+230612		Retail & Ecommerce
+128035	Silicon Valley	Energy & Utilities
+135792	Chicago	
+173381		Transportation & Warehousing
+226658		Travel & Hospitality
+1869707	New York	Retail & Ecommerce
+138633		Retail & Ecommerce
+141395		Health Care
+135082		Retail & Ecommerce
+12058939		Travel & Hospitality
+124678	Cincinnati	Retail & Ecommerce
+1395832	Irvine	Transportation & Warehousing
+135171	Dallas	Transportation & Warehousing
+1163758	Silicon Valley	
+140232		SaaS
+153127		Transportation & Warehousing
+180323		Health Care
+101923	Austin	
+132661	New York	Consulting & Business Services
+100441	San Francisco	
+165334		Telecommunications
+133182	Tampa	Telecommunications
+135254	Seattle	Transportation & Warehousing
+1156595		Retail & Ecommerce
+100979	Silicon Valley	Hardware & Equipment
+104503	New York	Banking
+134206	Columbus	Media & Entertainment
+149132	Silicon Valley	
+191026	London	Energy & Utilities
+5015490	Mumbai	On Demand Economy
+133547		Real Estate & Construction
+150403		Travel & Hospitality
+103306	Sydney	
+124110	Boston	
+455787	San Francisco	
+145839		Hardware & Equipment
+119526	Boston	SaaS
+124348	Silicon Valley	
+1144052	Los Angeles	
+1149881	San Francisco	
+101935		SaaS|Internet of Things
+128621		Consulting & Business Services
+144292		Consulting & Business Services
+149466		Telecommunications
+116991	Silicon Valley	Telecommunications
+374889	San Francisco	
+222896		Media & Entertainment
+175705	London	Media & Entertainment
+131513		Travel & Hospitality
+142834	New York	Retail & Ecommerce
+175686	Fort Worth	
+263625	New York	
+2236692	Seattle	
+131205		Food & Beverages
+1486806		Personal & Household Goods
+152513	New Delhi	
+177105	Silicon Valley	Health Care
+154844	Orlando	
+107300		Consulting & Business Services
+138522	Charlotte	Automobile
+147674	Boston	
+100052		Consulting & Business Services
+128026		Hardware & Equipment
+101159	New York	Media & Entertainment
+116505	Atlanta	
+149058	Raleigh	
+154102	New York	
+132343		Health Care
+137367	Houston	
+129150		Health Care
+261596	Silicon Valley	Media & Entertainment
+112859		Consulting & Business Services
+152298	London	Consulting & Business Services
+166517	Phoenix	Retail & Ecommerce
+155598		Telecommunications
+141939	Austin	
+703734	Los Angeles	Real Estate & Construction
+125019	Austin	
+185271	New Delhi	
+12010458	Silicon Valley	SaaS|On Demand Economy
+12213042	Seattle	Consulting & Business Services
+125495	Atlanta	
+203494	San Francisco	Education
+103992		Banking
+155556		Transportation & Warehousing
+170476		Real Estate & Construction
+177923	Boston	
+370706	Vancouver	
+221993		Telecommunications|Internet of Things
+100552	San Francisco	
+226005	New Delhi	Retail & Ecommerce
+150080	Melbourne	Telecommunications
+153460	Austin	
+180016		Travel & Hospitality
+118719	Silicon Valley	
+125119	San Francisco	Health Care|Internet of Things
+113615		Retail & Ecommerce
+143623		Personal & Household Goods
+102186	Silicon Valley	Health Care
+100250		On Demand Economy
+1416274		Consulting & Business Services
+217584	San Francisco	
+223576	Mumbai	Telecommunications
+1374168	Silicon Valley	
+139135		Consulting & Business Services
+126194	Vancouver	Retail & Ecommerce
+155949	New York	
+142186	Silicon Valley	
+129164		Health Care
+166752		Automobile
+177864		Media & Entertainment
+1157315		Hardware & Equipment
+122334	San Francisco	
+254671	New Delhi	
+126338	Atlanta	Industrial Goods
+4113496	Los Angeles	Consulting & Business Services|On Demand Economy
+139491	Silicon Valley	
+170374	Cambridge	Telecommunications
+123707		Transportation & Warehousing
+128273	Philadelphia	Consulting & Business Services
+135268	Phoenix	Retail & Ecommerce
+199558	New York	Transportation & Warehousing
+128378	New York	Media & Entertainment
+128732	Nashville	Health Care
+1292173	New York	Consulting & Business Services
+103144		Consulting & Business Services|SaaS
+135004		Health Care
+111706	Austin	
+122955	Mumbai	Consulting & Business Services
+162786	Silicon Valley	Hardware & Equipment
+1471117		Consulting & Business Services
+141367	New York	
+172049	London	Industrial Goods
+360750	Silicon Valley	On Demand Economy
+100102	Silicon Valley	
+122130	Silicon Valley	
+129306	San Diego	Travel & Hospitality
+101420		Retail & Ecommerce
+126617		Health Care
+196287		Education
+2672372		Consulting & Business Services
+103318	San Francisco	
+107242	Silicon Valley	
+290338	New York	Consulting & Business Services
+715551	Austin	
+753340	Silicon Valley	
+125302		Telecommunications
+153216		Automobile
+125096	Chicago	Consulting & Business Services
+129747	Irvine	Consulting & Business Services
+142400	San Francisco	
+5299803	Silicon Valley	
+196591		Retail & Ecommerce
+129486	San Diego	Health Care
+135723	Indianapolis	Media & Entertainment
+6411954	San Francisco	Consulting & Business Services
+286524		Travel & Hospitality
+143892		Telecommunications
+5858586	Austin	
+12025317	San Francisco	
+229495	Silicon Valley	
+129294		Energy & Utilities
+127644	San Francisco	
+162130	New York	
+714333		Media & Entertainment
+135065	Silicon Valley	
+135275	New York	
+131040		Media & Entertainment
+132371		Pharma & Biotech
+170915		Hardware & Equipment
+102551	Silicon Valley	Media & Entertainment
+125172	Silicon Valley	Consulting & Business Services
+202449		Telecommunications
+126177	Silicon Valley	Artificial Intelligence
+128466	London	
+250902	San Francisco	
+135797		Health Care
+128642	Silicon Valley	
+188999	Phoenix	
+134940	Silicon Valley	
+1837947	Austin	
+129657		Hardware & Equipment
+155579		Transportation & Warehousing
+185864		Real Estate & Construction
+126020	Charlotte	
+131169	London	Health Care
+124092	Los Angeles	
+172369	New York	
+187793	San Francisco	
+148103		Food & Beverages
+100331	Boston	Hardware & Equipment
+163510	Chicago	Consulting & Business Services
+126837	Silicon Valley	Hardware & Equipment
+382172	Boston	
+427841	London	
+100283		On Demand Economy
+102264		Telecommunications
+173543		Energy & Utilities
+122975	San Francisco	On Demand Economy
+126630	San Francisco	Consulting & Business Services
+123443		Health Care
+101412	Seattle	Retail & Ecommerce|Artificial Intelligence|Internet of Things|On Demand Economy
+149538	Montreal	
+124077		Telecommunications
+135876	San Francisco	Retail & Ecommerce
+139659	San Diego	
+149695	Chicago	Media & Entertainment
+221934	Silicon Valley	
+261651	Boston	
+486273	London	
+122299	Silicon Valley	
+124829	Chicago	
+12030202	Pittsburgh	
+126345		Health Care
+207072	Chicago	
+369401	Silicon Valley	
+1409820	Silicon Valley	
+126342		Real Estate & Construction
+156851		Education
+110662	New York	
+123680	Atlanta	Media & Entertainment
+142016	Silicon Valley	Consulting & Business Services
+180628	New York	Consulting & Business Services
+182119	Salt Lake City	Consulting & Business Services
+481595	San Francisco	
+122480	San Francisco	
+137492	San Francisco	
+124202	San Diego	Health Care
+217595	San Francisco	Education
+365853	New York	
+699528		Pharma & Biotech
+123736	San Diego	
+123748	New York	Food & Beverages
+2156543	Mumbai	
+126067		Automobile
+114679	San Francisco	
+1278647	Silicon Valley	
+3452765	Los Angeles	
+133430	Scottsdale	
+1143566	Cambridge	Pharma & Biotech
+187386	Washington	
+1291138		Media & Entertainment
+126344	Silicon Valley	Pharma & Biotech
+1415679	Silicon Valley	
+171790		Transportation & Warehousing
+210863		Industrial Goods
+706366		Health Care
+1189637		Automobile
+107122	Boston	Consulting & Business Services
+122894	Chicago	
+3325117		Retail & Ecommerce
+145616	Silicon Valley	
+12039534		Consulting & Business Services
+1195149	San Francisco	
+1479546	New York	Real Estate & Construction
+127590		Health Care
+134263		Real Estate & Construction
+128141	Irvine	
+1181315	San Francisco	
+153511		Consulting & Business Services
+238098	New York	
+126267		Health Care
+1402963	Austin	
+154982	Chicago	Real Estate & Construction
+183941	San Diego	
+204299	Austin	
+100507	San Francisco	SaaS
+139485	San Diego	Transportation & Warehousing
+133573		Real Estate & Construction
+100575		Education
+157948		Retail & Ecommerce
+151846	Silicon Valley	Education
+2232845	Mumbai	Food & Beverages
+119083	New York	Consulting & Business Services
+147473	Mumbai	
+208915		Travel & Hospitality
+100134	New York	
+100705	Atlanta	Banking
+9713540		Health Care
+137985	Las Vegas	Consulting & Business Services
+134185		Consulting & Business Services
+1870282	Silicon Valley	Food & Beverages
+135175		Transportation & Warehousing
+159227		Real Estate & Construction
+363860		Health Care
+181126	New York	Consulting & Business Services
+379564	San Francisco	
+141300	San Francisco	
+149133	Chicago	
+501487	Boston	
+234683		Education
+123139	San Francisco	SaaS
+135285	Miami	Real Estate & Construction
+122331		Pharma & Biotech
+1484685	London	
+174068		Travel & Hospitality
+103376	Vancouver	
+113936	Silicon Valley	Hardware & Equipment
+1178100	Boston	On Demand Economy
+371999		Telecommunications
+100334		SaaS
+137390	Omaha	
+151446	Scottsdale	
+219537	San Francisco	
+12104783	Silicon Valley	
+12148394	New York	Consulting & Business Services
+138521		Telecommunications
+134702	New York	
+139970	San Francisco	
+114231		Banking
+138247		Health Care
+127697	Montreal	Hardware & Equipment
+293033	Chicago	Real Estate & Construction
+234375		Real Estate & Construction
+12147814		Health Care
+131767		Internet of Things
+201706		Consulting & Business Services
+370286	Toronto	
+143460		Media & Entertainment
+1194454	Silicon Valley	
+126726		SaaS
+121703		Media & Entertainment
+12020662		Media & Entertainment
+115090	Los Angeles	
+135882	Atlanta	
+137491	San Francisco	
+12060111	Mumbai	
+157577		Retail & Ecommerce
+122633	Toronto	
+131309	Silicon Valley	SaaS
+104298		Media & Entertainment
+218307		Retail & Ecommerce
+126640	Omaha	
+137348	New York	Personal & Household Goods
+494068	San Francisco	
+1596850	Omaha	
+165263		Real Estate & Construction
+269633		Energy & Utilities
+108664	New York	Consulting & Business Services
+128284	Silicon Valley	Education
+122937	Austin	
+151764		Telecommunications
+131490		Hardware & Equipment
+133152		Energy & Utilities
+135760		Retail & Ecommerce
+183324		Hardware & Equipment
+12062063		Media & Entertainment
+126800	Montreal	Consulting & Business Services
+125700		Consulting & Business Services
+134097	Burlington	
+1537320	London	Retail & Ecommerce|On Demand Economy
+128028	Irvine	Pharma & Biotech
+402011	Seattle	
+120570		Retail & Ecommerce
+104692	San Francisco	
+123687	San Francisco	On Demand Economy
+173544	London	Telecommunications
+193117	Denver	
+711064	San Francisco	
+154237		Media & Entertainment
+156864		On Demand Economy
+102450	New York	
+124865	Austin	
+147425		Retail & Ecommerce
+261157	Mumbai	Energy & Utilities
+1190239	London	
+225170		Retail & Ecommerce
+122414	New York	Health Care
+261303	Silicon Valley	Personal & Household Goods|On Demand Economy
+106441	Chicago	
+151356		Health Care
+100504	Silicon Valley	SaaS
+104071	New York	Media & Entertainment
+5816641	Vancouver	
+100125	San Francisco	SaaS|On Demand Economy
+140118	Seattle	
+180305	Irvine	Health Care
+183855	San Francisco	Consulting & Business Services|On Demand Economy
+144817		Food & Beverages
+150076		Telecommunications
+1347077		Consulting & Business Services
+7672770		Health Care
+139811	Mumbai	Travel & Hospitality
+142886	Silicon Valley	
+1168669		Travel & Hospitality
+122758	Irvine	Hardware & Equipment
+139284		Energy & Utilities
+127996	New York	Internet of Things
+2239762	Louisville	
+100651	Silicon Valley	SaaS|Artificial Intelligence|Internet of Things
+126048	San Francisco	Consulting & Business Services|SaaS
+142849	New York	Media & Entertainment
+129309		Hardware & Equipment|Internet of Things
+127474	Silicon Valley	Health Care
+135394	New York	Personal & Household Goods
+130786		Telecommunications
+159446		Industrial Goods
+706941	Seattle	
+1633223	San Francisco	Food & Beverages|On Demand Economy
+103067	Silicon Valley	
+133670	Cambridge	
+139746	San Francisco	
+1575742		Consulting & Business Services
+1454727	Cambridge	Artificial Intelligence
+159534		Media & Entertainment
+12028161		Consulting & Business Services
+105907	Silicon Valley	
+124781	San Francisco	
+130659	Columbus	Energy & Utilities
+134544	Houston	Personal & Household Goods
+135098	Orlando	
+135412	Pittsburgh	Retail & Ecommerce
+154272	London	Consulting & Business Services
+12140266	San Diego	
+100526	San Francisco	
+122610	New York	Media & Entertainment
+149562		SaaS
+251723		Retail & Ecommerce|On Demand Economy
+132363		Telecommunications
+132549		Consulting & Business Services
+126018		Industrial Goods
+129905		Food & Beverages
+171808	Raleigh	Telecommunications
+130400		Industrial Goods
+126988	Minneapolis	
+130404	Houston	Energy & Utilities
+378679	San Francisco	
+12124752	Seattle	Transportation & Warehousing
+135705	Columbus	Real Estate & Construction
+221203	Silicon Valley	
+1148669	Silicon Valley	Hardware & Equipment
+125040	Boston	SaaS|Internet of Things
+125355	New York	Education
+219891	London	
+100074		Consulting & Business Services
+485357	New York	Retail & Ecommerce
+597706		Hardware & Equipment
+809817		Consulting & Business Services
+133966	Houston	Energy & Utilities
+142816	Chicago	Artificial Intelligence
+1147581		Consulting & Business Services|On Demand Economy
+130873	San Antonio	Energy & Utilities
+135739	Atlanta	Media & Entertainment
+140933	New York	
+141524	San Francisco	
+1170923	San Francisco	
+1537862	Chicago	Food & Beverages|On Demand Economy
+100777	Seattle	
+118375	Silicon Valley	
+134125		Hardware & Equipment
+126917		Pharma & Biotech
+129032		Food & Beverages
+223903		Real Estate & Construction
+135290	Las Vegas	Travel & Hospitality
+3391224	Vancouver	Transportation & Warehousing
+128145		Hardware & Equipment
+187878		Automobile
+223725		Retail & Ecommerce
+101019	Brooklyn	
+118849	Jacksonville	
+194525	London	
+1164287	Mumbai	
+1186720	San Francisco	Real Estate & Construction
+1531878	Silicon Valley	Pharma & Biotech
+134026		Health Care
+101079	Silicon Valley	SaaS
+102229	Silicon Valley	
+128622		Consulting & Business Services
+381922	Austin	
+482914	San Francisco	Consulting & Business Services
+12064712	San Francisco	SaaS
+1577473		Food & Beverages
+4429280		On Demand Economy
+125753	New York	Media & Entertainment
+141818	Silicon Valley	
+164450	New York	
+164493	Dallas	SaaS
+1864596	Atlanta	Consulting & Business Services
+361131		Retail & Ecommerce
+492821		Consulting & Business Services
+124060	San Francisco	
+141133	New York	Education
+133360	Irvine	Retail & Ecommerce
+126905		SaaS
+155929		Media & Entertainment
+182196		Pharma & Biotech
+139413	Melbourne	SaaS
+265256	Silicon Valley	
+135579		Transportation & Warehousing
+1724099	New York	
+132611		Food & Beverages
+201148		SaaS
+129358	New York	
+135313	New York	Personal & Household Goods
+223735		Retail & Ecommerce
+126037	Silicon Valley	Hardware & Equipment
+265246	London	Travel & Hospitality
+135161		Energy & Utilities
+212498		Pharma & Biotech
+101917	Silicon Valley	
+123582	Silicon Valley	
+122473	San Francisco	
+126847		Pharma & Biotech
+1472143		Automobile
+105382	San Francisco	
+111702	Chicago	
+157827		Media & Entertainment
+140243	Philadelphia	Health Care
+148382		Food & Beverages
+128695		Consulting & Business Services
+102157	San Diego	
+166862	New York	Media & Entertainment
+130899		SaaS
+120398	Silicon Valley	
+1174842	New York	
+126831		Automobile
+363017		Media & Entertainment
+701145		Travel & Hospitality
+212112	Mumbai	
+4483156	San Diego	
+12010414		Transportation & Warehousing
+1855111	San Francisco	
+132542		Automobile
+132258		Consulting & Business Services
+103981	London	Consulting & Business Services
+1668547	San Antonio	Health Care
+100106	Boston	SaaS
+103659	Silicon Valley	
+185255	San Francisco	
+133042	New York	
+163051	Dallas	Transportation & Warehousing
+135873	Pittsburgh	Retail & Ecommerce
+243075	New York	Media & Entertainment
+119454	Chicago	Consulting & Business Services
+135508	Houston	Energy & Utilities
+1183543		Pharma & Biotech
+281265	San Diego	
+1633233	Silicon Valley	Artificial Intelligence
+1575901	New York	
+192667	Denver	
+264540	London	
+141283	London	
+149489	Silicon Valley	SaaS
+370669	Atlanta	
+100261	New York	Education
+101700	New York	Banking
+149080	New Delhi	
+126180		SaaS
+133438		Telecommunications
+136536	Houston	Health Care
+138389	Kansas City	
+175418	Los Angeles	Education
+131906	Minneapolis	Health Care
+163206	Vancouver	
+149621		Energy & Utilities
+125737	Indianapolis	Hardware & Equipment
+133548		Consulting & Business Services
+120302		SaaS
+128792		Retail & Ecommerce
+129444		Food & Beverages
+139369		Consulting & Business Services
+4367084		Education
+145963	Silicon Valley	
+173519	Los Angeles	
+129311	Los Angeles	Media & Entertainment
+134335	Philadelphia	Pharma & Biotech
+121479		Banking
+171539		Consulting & Business Services
+181026		Real Estate & Construction
+123315	Nashville	
+127603	New York	
+163063		Food & Beverages|On Demand Economy
+178886		SaaS
+123429		SaaS
+135136		Retail & Ecommerce
+148400		Travel & Hospitality
+175632		Transportation & Warehousing
+1819252	Silicon Valley	
+1847530	New York	
+362252	San Francisco	
+125957	Silicon Valley	
+148707	New York	
+1485791	Silicon Valley	
+127970		Media & Entertainment
+100266	Silicon Valley	
+190292	San Francisco	Internet of Things
+150099		Consulting & Business Services
+128641		Hardware & Equipment
+135586		Health Care
+125448		Hardware & Equipment|Internet of Things
+150184		Automobile
+370381		Health Care
+4372313		Retail & Ecommerce
+100376	San Francisco	
+141605	San Francisco	
+137453	Pittsburgh	Real Estate & Construction
+100170		Media & Entertainment
+126325		Consulting & Business Services
+131635		Real Estate & Construction
+184430		Transportation & Warehousing
+101277	Seattle	
+133469	Charlotte	
+224412	Mumbai	
+136292		Transportation & Warehousing
+131512		Travel & Hospitality
+136801		SaaS
+221528		Retail & Ecommerce
+102531	New York	
+123360		Consulting & Business Services
+1850072	New York	Media & Entertainment
+105625	Silicon Valley	Hardware & Equipment
+223052	Mumbai	
+202296		Education
+493839	Dallas	
+1373295	San Francisco	
+217575	New York	
+102259		Telecommunications|SaaS
+134686		Telecommunications
+166983		Retail & Ecommerce
+105823	San Francisco	
+212727	New York	Media & Entertainment
+412304	Silicon Valley	
+1470997	New York	Artificial Intelligence
+1725620	San Francisco	On Demand Economy
+127025		Consulting & Business Services
+153308		Travel & Hospitality
+1193874		Health Care
+143877	New York	
+202872	Pittsburgh	
+486140	San Francisco	Real Estate & Construction
+128811		Travel & Hospitality
+163690		Food & Beverages
+695411		Consulting & Business Services
+272855	Orlando	Retail & Ecommerce
+289217	Cincinnati	Pharma & Biotech
+149537		Telecommunications|Internet of Things
+324124		Real Estate & Construction
+100085	San Francisco	
+127401	Cambridge	Pharma & Biotech
+122541	New York	Pharma & Biotech
+123478		Personal & Household Goods
+179501	New York	
+680750	San Francisco	
+106881	New York	SaaS
+124347	Silicon Valley	
+710312		Health Care
+1582097	New York	
+271220		Telecommunications
+1280780	Austin	
+1427008	San Francisco	
+100168	Silicon Valley	SaaS
+122320	Silicon Valley	Banking
+136663	Boston	
+154373	London	
+163922		Energy & Utilities
+171958		Hardware & Equipment
+100397	Silicon Valley	SaaS
+126836	Minneapolis	Consulting & Business Services|SaaS
+131861		Industrial Goods
+178636		Telecommunications
+225697	New Delhi	
+125573		Pharma & Biotech
+255185	New Delhi	
+124866		Hardware & Equipment|SaaS
+123539	New York	
+140836	New York	
+695006	Washington	
+122732	San Francisco	
+135190	Dallas	Energy & Utilities
+117825	Columbus	
+124755	Boston	
+100206	Boston	Retail & Ecommerce
+100513	Austin	Retail & Ecommerce
+100535	Boston	
+1575788	Boston	
+103698		Automobile
+118493	Silicon Valley	
+130021	New York	Media & Entertainment
+714665	London	
+126733		Telecommunications|Internet of Things
+130026		Retail & Ecommerce
+199780		Travel & Hospitality
+362688		Media & Entertainment
+124224	San Francisco	Banking
+126951	Nashville	SaaS
+502571		Automobile
+100247	San Francisco	Media & Entertainment
+378834		Telecommunications
+130853		Retail & Ecommerce
+1576630		Media & Entertainment
+139700	Silicon Valley	SaaS
+364214	Austin	
+146301	Silicon Valley	Energy & Utilities
+100107	San Francisco	Media & Entertainment
+135108	Omaha	
+132921	Silicon Valley	SaaS
+308936	Austin	Education
+184619		Transportation & Warehousing
+122591	San Francisco	
+131021		Industrial Goods
+135349		Consulting & Business Services
+202039	London	Consulting & Business Services
+1293255	Seattle	
+696654	New York	
+150200	San Francisco	
+154673	London	Artificial Intelligence
+1720361	New York	
+141026		Pharma & Biotech
+224436		Travel & Hospitality
+124733	Silicon Valley	
+195847	Phoenix	Consulting & Business Services
+136788		Travel & Hospitality
+122868	Portland	
+179635	Melbourne	
+132209		Health Care
+135902	Charlotte	Telecommunications
+123305		SaaS
+128679		Telecommunications
+8902064		Consulting & Business Services
+9674604	Silicon Valley	
+126925		Personal & Household Goods|Internet of Things
+126740	Silicon Valley	Hardware & Equipment|Artificial Intelligence
+129562	Los Angeles	
+135129	Fort Worth	Transportation & Warehousing
+133592		Personal & Household Goods
+151710		Industrial Goods
+102145	Burlington	SaaS
+102313	San Francisco	
+496281	New York	
+188994		Real Estate & Construction
+125916	Denver	SaaS
+170400	London	Food & Beverages
+1186010	London	Travel & Hospitality
+160854		Transportation & Warehousing
+4442983	New Delhi	Consulting & Business Services
+120390		Education
+487336		Hardware & Equipment
+714881		Consulting & Business Services
+439160	Austin	
+2235721	New Delhi	
+126339	Atlanta	Retail & Ecommerce
+169765		Transportation & Warehousing
+134733		Transportation & Warehousing
+1385724	Minneapolis	Health Care
+131492		Hardware & Equipment
+1157749		Internet of Things
+139318	Cambridge	Pharma & Biotech
+141517	Austin	
+140857	Silicon Valley	
+8142237		On Demand Economy
+105915	Cambridge	Telecommunications
+134177	Fort Worth	Hardware & Equipment
+499714	Silicon Valley	
+126562		Health Care
+130035		Energy & Utilities
+137349		Personal & Household Goods
+139709	Mumbai	
+153567	Chicago	Transportation & Warehousing
+123630	Austin	
+194228		Retail & Ecommerce
+100381	Philadelphia	
+101479	Silicon Valley	Health Care
+124081	Silicon Valley	
+142464	Omaha	
+141104	New York	
+195441	New Delhi	Automobile
+1831596	San Francisco	
+125796	Silicon Valley	
+131165	Cambridge	Hardware & Equipment|Internet of Things
+124621		Consulting & Business Services
+131013		Health Care
+161193	San Francisco	
+715333	Silicon Valley	Internet of Things
+153786	Chicago	Food & Beverages
+222734		Retail & Ecommerce
+121329	San Francisco	Media & Entertainment
+144811	Silicon Valley	
+135793		Food & Beverages
+163415		Transportation & Warehousing
+365638		Health Care
+454867		Pharma & Biotech
+128349	Pittsburgh	
+9266052	Mumbai	Retail & Ecommerce|On Demand Economy
+108757		SaaS
+132108		Consulting & Business Services
+180688		Hardware & Equipment
+100151	New York	Education|On Demand Economy
+128190	Houston	Energy & Utilities
+12155129	Silicon Valley	
+168429		Food & Beverages
+130856	Chicago	
+166272	New York	Real Estate & Construction
+142398	New York	
+1427108	Tampa	
+1861644	Silicon Valley	
+129501		Telecommunications
+124775	Silicon Valley	SaaS
+125134	New York	
+135185	Houston	Energy & Utilities
+11884959	Seattle	
+12096559	New York	
+129718		Telecommunications
+170874		Retail & Ecommerce
+100765	Austin	
+126893	Silicon Valley	Media & Entertainment
+131379	Silicon Valley	
+148952	San Francisco	Consulting & Business Services
+155366	New York	
+125415		Hardware & Equipment
+9218914		Consulting & Business Services
+100980	Silicon Valley	SaaS|Internet of Things
+103018	Silicon Valley	
+140746		Travel & Hospitality
+216123		Consulting & Business Services
+117693	New York	Consulting & Business Services
+124152	Denver	
+495824	Silicon Valley	Consulting & Business Services
+372561		Real Estate & Construction
+135529	Atlanta	
+1164150	Mumbai	Media & Entertainment
+10851227	San Francisco	
+129879		Health Care
+123372	New York	
+129833	New York	Media & Entertainment
+1827789	New York	On Demand Economy
+363088		Education
+217990	San Francisco	Retail & Ecommerce|On Demand Economy
+495852	Toronto	Media & Entertainment
+126211	San Francisco	
+1401654		Food & Beverages
+123336		SaaS
+147682		Media & Entertainment
+1185161	New Delhi	
+12137718	Austin	
+130348		Consulting & Business Services
+1487557		Personal & Household Goods
+124485		Consulting & Business Services
+139303		Media & Entertainment
+202599	Silicon Valley	SaaS
+100282		On Demand Economy
+129784		Health Care
+297354		Pharma & Biotech
+116312	San Francisco	
+122289		Personal & Household Goods
+111700		Consulting & Business Services
+142577	New York	Consulting & Business Services
+249339	Mumbai	
+102260	Silicon Valley	Hardware & Equipment|SaaS|Artificial Intelligence|Internet of Things
+211078	San Diego	
+120550	Toronto	Education
+1488758		Education
+128760	Silicon Valley	
+160106	Chicago	
+153079		Transportation & Warehousing
+174278		Personal & Household Goods
+695416		Consulting & Business Services
+142751	Irvine	
+113261		Consulting & Business Services
+1595894	Houston	
+4464493	Minneapolis	
+100637		SaaS
+125356		Media & Entertainment
+106608	Kansas City	Consulting & Business Services
+130175	Melbourne	
+135359	Chicago	Telecommunications
+143398	San Francisco	Food & Beverages|On Demand Economy
+497325	Silicon Valley	
+190144		Retail & Ecommerce
+368731		Travel & Hospitality
+580133		Retail & Ecommerce
+124876	New York	
+382895	Pittsburgh	Media & Entertainment
+4408338		Transportation & Warehousing
+147366	Jacksonville	Health Care
+363380		Consulting & Business Services
+138126		Personal & Household Goods
+148834		Health Care
+123954	Silicon Valley	
+481797	Houston	Consulting & Business Services
+1855292		On Demand Economy
+1657871	London	Media & Entertainment
+151422		Travel & Hospitality
+141117	San Diego	
+129103		Retail & Ecommerce
+143020		On Demand Economy
+208800	Irvine	
+1582192	New York	Real Estate & Construction
+135438		Hardware & Equipment
+143901		Automobile
+1165209	San Francisco	
+102915		Hardware & Equipment
+177041	New York	
+186063	Chicago	
+134771		Consulting & Business Services
+123895	Silicon Valley	Hardware & Equipment|Internet of Things
+224488	New York	
+714241	New York	
+127846		Consulting & Business Services
+132884		Transportation & Warehousing
+248488		Travel & Hospitality
+12141508		Real Estate & Construction
+106610	Jacksonville	
+115136	Boston	Consulting & Business Services
+358510		Consulting & Business Services
+142490	Irvine	Travel & Hospitality
+489886	New York	
+135201	Cincinnati	
+238246	Dallas	
+101752	San Francisco	
+126148	Dallas	Health Care
+159469	London	
+359677	San Diego	
+138051		Transportation & Warehousing
+132845	Charlotte	Food & Beverages
+9674999	Seattle	
+161485	London	
+715885	Mumbai	Food & Beverages
+1389182	London	
+123927		SaaS
+102181	New York	
+199883	San Francisco	
+141518	San Francisco	Travel & Hospitality
+143280	Mumbai	Retail & Ecommerce
+1383295	Silicon Valley	
+131550		Health Care
+132695	New York	Consulting & Business Services
+191308	Mumbai	Pharma & Biotech
+1285433	Boston	
+181633		Industrial Goods
+186073		Food & Beverages
+105841	Washington	
+122212	Burlington	Media & Entertainment
+212291	Salt Lake City	
+176873		Consulting & Business Services
+9712187		On Demand Economy
+126259		Consulting & Business Services
+129903		Food & Beverages
+138475	San Francisco	SaaS
+141410	Cambridge	
+122141	New York	Food & Beverages|On Demand Economy
+127950	New York	
+160290	Mumbai	Real Estate & Construction
+173693	Portland	
+384784		Hardware & Equipment
+494607		Hardware & Equipment
+126119	Chicago	
+139624	New Delhi	Retail & Ecommerce
+128084	Chicago	Media & Entertainment
+100442	Tampa	
+124188	San Francisco	SaaS
+114839	New York	
+100978		SaaS|Artificial Intelligence|Internet of Things
+1255531	Minneapolis	Consulting & Business Services
+150562		Telecommunications
+125413	Silicon Valley	Hardware & Equipment
+127949	New York	
+128549	Austin	
+140012	Atlanta	
+158103		Media & Entertainment
+244574	New Delhi	
+1292316	Seattle	
+1575986		SaaS
+12010715		Retail & Ecommerce
+148444	Houston	
+12117517	Chicago	
+6358325	Austin	
+125620		Hardware & Equipment
+144912	Seattle	
+164827	New York	
+132156	Toronto	Hardware & Equipment
+170414		Consulting & Business Services
+190979		Travel & Hospitality
+114187	Seattle	Consulting & Business Services|SaaS
+127023	Nashville	Health Care
+2253199	London	Retail & Ecommerce|On Demand Economy
+113766		Retail & Ecommerce
+799157		Consulting & Business Services
+104120	New York	
+1186852	Silicon Valley	
+104477	Silicon Valley	Consulting & Business Services
+130448		SaaS
+117142	Brooklyn	
+1829905	Silicon Valley	
+131128	Charlotte	Energy & Utilities
+134675	Silicon Valley	Health Care
+139979	Silicon Valley	
+169354	London	Media & Entertainment
+133868		Automobile
+12121972		Consulting & Business Services
+103809	New York	Media & Entertainment
+118403	San Francisco	SaaS
+143556		Telecommunications
+215009		Consulting & Business Services
+128886	Columbus	
+200757	New York	Artificial Intelligence
+124126		Retail & Ecommerce
+137592		Consulting & Business Services
+147466		Education
+100167	Atlanta	
+125638	Silicon Valley	Real Estate & Construction
+127087		Telecommunications
+139674		Retail & Ecommerce
+129472	San Diego	Telecommunications
+140211	Houston	SaaS
+263634		Travel & Hospitality
+360567	Scottsdale	Real Estate & Construction
+136798		SaaS
+203223	Silicon Valley	Transportation & Warehousing|On Demand Economy
+136203		Telecommunications
+112573	San Francisco	
+137489	Irvine	Personal & Household Goods
+140407	Silicon Valley	
+101991		Consulting & Business Services
+133554		Hardware & Equipment
+1175014		Energy & Utilities
+101638	San Francisco	SaaS
+111242	New York	Banking|Insurance
+1403165	Toronto	
+12035773	Silicon Valley	
+100486	Silicon Valley	
+143167	Austin	
+129983		Health Care
+122971	Silicon Valley	Hardware & Equipment
+1425956	New York	
+670520		Consulting & Business Services
+223642	Melbourne	Consulting & Business Services
+1838056	New Delhi	Personal & Household Goods
+368599	New York	
+124429		SaaS|Artificial Intelligence
+106612	London	
+126812	Burlington	Health Care
+153867	Toronto	Real Estate & Construction
+711695	Toronto	Telecommunications
+132904		Pharma & Biotech
+121427	Silicon Valley	
+143106	San Francisco	
+150864	New York	
+12028145	Silicon Valley	Telecommunications
+185636	Chicago	Real Estate & Construction
+102265		Telecommunications
+127520		Industrial Goods
+131921	Cincinnati	Consulting & Business Services
+132682	Silicon Valley	
+1173303	London	
+1851687	San Francisco	On Demand Economy
+109909		Retail & Ecommerce
+130507		Education
+114123	Silicon Valley	Banking
+124179	Los Angeles	Consulting & Business Services
+1151274	New York	
+135284	Columbus	Retail & Ecommerce
+264130	Charlotte	
+129999	Houston	
+733947	San Diego	Consulting & Business Services
+115057	New York	Personal & Household Goods
+124745	Silicon Valley	
+128935		Energy & Utilities
+142560	Irvine	
+251678	San Francisco	
+138998	Minneapolis	Real Estate & Construction
+162433	Montreal	Telecommunications
+498187		Transportation & Warehousing
+132627	Chicago	Consulting & Business Services
+135295	Houston	Consulting & Business Services
+103217		Travel & Hospitality
+133362	New York	Food & Beverages
+381899	New York	
+263203	Boston	
+711799	Toronto	
+126689		Telecommunications
+1413972		Education
+141606	Chicago	Health Care
+153231	Seattle	Retail & Ecommerce
+117507	San Francisco	
+134899		Travel & Hospitality
+12334718		Pharma & Biotech
+100095	San Francisco	
+116839	Boston	Consulting & Business Services
+129794		Hardware & Equipment
+123722	Silicon Valley	
+358130	Seattle	
+221933	Chicago	Health Care
+1391874	London	
+188055		Consulting & Business Services
+2238933		Health Care
+135737	London	
+135777	Houston	Consulting & Business Services
+175966		Travel & Hospitality
+100175	New York	
+139895	San Francisco	Travel & Hospitality|On Demand Economy
+1288544	Toronto	Media & Entertainment
+12119896		Consulting & Business Services
+125396	San Francisco	Health Care
+147440	Miami	Travel & Hospitality
+236419		Transportation & Warehousing
+301478		Media & Entertainment
+135757	Chicago	Food & Beverages
+140150		Health Care
+306656	Los Angeles	
+121032		Consulting & Business Services
+142235		Travel & Hospitality
+486871		Transportation & Warehousing
+104282	Chicago	Retail & Ecommerce
+135366	Columbus	
+168272	Fort Worth	Health Care
+1190385	Boston	
+146281		Food & Beverages
+137233	Boston	Health Care
+144414	Minneapolis	Education
+130500		Pharma & Biotech
+104457	San Francisco	
+130434		Hardware & Equipment
+124418	Seattle	Real Estate & Construction
+190253	Toronto	
+1148492	San Francisco	On Demand Economy
+100083	Brooklyn	Media & Entertainment
+100436	New York	Banking
+212359	San Francisco	
+359234	San Francisco	
+4812898	New York	
+104772	San Francisco	
+129462	San Francisco	
+126478	Cambridge	SaaS|Artificial Intelligence
+126960	Denver	
+141356	San Francisco	Consulting & Business Services
+184486	San Francisco	Travel & Hospitality
+202551	Boston	
+1284496	Irvine	Consulting & Business Services
+103328	Seattle	
+125111	New York	Consulting & Business Services
+154308	London	Telecommunications
+211394	Silicon Valley	Consulting & Business Services
+219967	New York	
+386054		Health Care
+102281	Boston	Energy & Utilities
+135638	Charlotte	Industrial Goods
+128187		Automobile
+103358	Las Vegas	
+135138	Miami	Energy & Utilities
+128310	New York	
+1475684		Retail & Ecommerce
+142379	Silicon Valley	Telecommunications
+1402475	Portland	
+8727148	Chicago	
+128917		SaaS
+103340	San Francisco	
+139298	Boston	Telecommunications
+128558	Philadelphia	Education
+171952	New York	SaaS
+171547		Automobile
+100912	New York	
+125626	San Francisco	
+5957535	Silicon Valley	
+100292		SaaS
+122267	Atlanta	
+1410082	London	
+149632	San Francisco	
+127211		Industrial Goods
+8443231		Consulting & Business Services
+135397	Phoenix	Transportation & Warehousing
+135454	Louisville	Food & Beverages
+1395327	San Francisco	Consulting & Business Services
+4598074	Los Angeles	Consulting & Business Services
+211457		Food & Beverages
+357674		Hardware & Equipment
+156303	Dallas	Travel & Hospitality
+167624	Mumbai	Pharma & Biotech
+105939	Silicon Valley	
+1576625		Consulting & Business Services
+125918	San Francisco	Real Estate & Construction
+135117	Silicon Valley	Food & Beverages
+136896	Burlington	
+370064	New York	Media & Entertainment
+110408	Cambridge	
+111996	San Francisco	Artificial Intelligence
+217933		SaaS
+130153	Silicon Valley	Hardware & Equipment
+4380138	Mumbai	
+490204	San Francisco	On Demand Economy
+8227110	Cambridge	Pharma & Biotech
+106323		Consulting & Business Services
+107767		Pharma & Biotech
+104591	New York	
+125322	San Francisco	Retail & Ecommerce
+1292234		Travel & Hospitality
+153190	Austin	
+165063	Brooklyn	Media & Entertainment
+1155876	London	Transportation & Warehousing
+4406310	Mumbai	
+123756		SaaS
+106443	San Francisco	Travel & Hospitality
+140900	San Francisco	
+123537		Automobile
+130799		Consulting & Business Services
+119551	Silicon Valley	
+1824222	Silicon Valley	Health Care
+144273		Transportation & Warehousing
+154920		Food & Beverages
+100021	Silicon Valley	SaaS
+500665	San Francisco	Education
+126909	San Francisco	Consulting & Business Services
+185088	San Francisco	Consulting & Business Services
+100310	San Francisco	Retail & Ecommerce
+122704	San Diego	
+12034127		Health Care
+119275		Health Care
+428864		Real Estate & Construction
+133889	Houston	Food & Beverages
+177591	Sydney	
+1186076	Silicon Valley	
+1424519	Cambridge	Education
+1531619	Chicago	
+5258599	New York	
+107467	New York	SaaS
+133819	Silicon Valley	Energy & Utilities
+5954333	Denver	
+149733		Telecommunications
+1395944	Silicon Valley	
+174486		Retail & Ecommerce
+171396	Toronto	Travel & Hospitality
+707445	San Francisco	Health Care
+100287	Silicon Valley	
+141856	San Diego	Pharma & Biotech
+138663	San Francisco	Health Care
+370390	San Francisco	
+135766	London	Food & Beverages
+122542		Health Care
+119636		Consulting & Business Services
+1633238	New Delhi	Health Care
+103797		Transportation & Warehousing
+128765		Retail & Ecommerce
+132486		Real Estate & Construction
+151009		Retail & Ecommerce|On Demand Economy
+194710	New York	
+384487	Denver	Health Care
+132392	New York	
+207369	Omaha	
+163660	New York	Consulting & Business Services
+105875		SaaS
+126183	Boston	SaaS
+144185	Melbourne	
+392026	Vancouver	
+143726		Consulting & Business Services
+122509	Silicon Valley	
+164349		Food & Beverages
+139733	Silicon Valley	Pharma & Biotech
+143500	Toronto	
+130768	Irvine	Automobile
+239528	Mumbai	
+142770	Vancouver	
+226174	New Delhi	
+102324		SaaS
+125347	Boston	
+137329	New York	
+142718	New York	
+158278	Chicago	Consulting & Business Services
+139860		Telecommunications
+252400		Media & Entertainment
+100402	San Francisco	
+131421	New York	Travel & Hospitality
+199973	Jacksonville	Real Estate & Construction
+182254		Consulting & Business Services
+107751	San Diego	Pharma & Biotech
+132290	Mumbai	Consulting & Business Services
+106106		Media & Entertainment
+135362		Automobile
+126079	Silicon Valley	
+126592	Silicon Valley	
+12224662	Minneapolis	
+487814	Boston	Media & Entertainment
+706315	San Francisco	Pharma & Biotech
+169007		Food & Beverages
+137473	New York	Consulting & Business Services
+135814		Hardware & Equipment
+134229		Food & Beverages
+100067	Silicon Valley	Banking
+114835	San Francisco	
+12050156	Silicon Valley	
+129222		Education
+100329	Silicon Valley	Hardware & Equipment
+171605		Industrial Goods
+201903	Silicon Valley	
+134193		SaaS
+128150		Consulting & Business Services
+137226		On Demand Economy
+1153570	London	
+7914281	Silicon Valley	
+123039	Austin	
+171507		Retail & Ecommerce
+122406	Cleveland	Consulting & Business Services
+142761		Retail & Ecommerce
+779508	Silicon Valley	
+124230		Hardware & Equipment
+123393	Charlotte	Consulting & Business Services
+126524	Mumbai	Consulting & Business Services
+142538	New York	
+143372	New York	Media & Entertainment
+125886		Retail & Ecommerce
+101450	Minneapolis	Retail & Ecommerce
+124096	Houston	
+587626	New Delhi	Travel & Hospitality
+938701	Orlando	
+1617852		Travel & Hospitality
+120888	Atlanta	Consulting & Business Services
+124349	San Francisco	Retail & Ecommerce
+123214		Consulting & Business Services
+12226376	Indianapolis	
+127503		Health Care
+154111		Retail & Ecommerce
+1843419		Retail & Ecommerce
+100421	New York	SaaS
+127321	London	Industrial Goods
+100976		SaaS
+108985		Media & Entertainment
+126916		Pharma & Biotech
+141785		Food & Beverages|On Demand Economy
+126273	San Francisco	
+214819	San Francisco	Consulting & Business Services
+173074	Silicon Valley	SaaS
+198439	Mumbai	
+1849793	New York	
+179787		Energy & Utilities
+135554	Houston	Energy & Utilities
+1484621	San Francisco	
+126614		Health Care
+203702		Personal & Household Goods
+1425688		Consulting & Business Services
+124315	Indianapolis	
+132016	Los Angeles	Consulting & Business Services
+135132	Atlanta	Transportation & Warehousing
+379309	London	
+12035200	London	
+167069		Energy & Utilities
+129337	New York	Consulting & Business Services|On Demand Economy
+1894159	Silicon Valley	
+3670065	Atlanta	On Demand Economy
+100782	Silicon Valley	SaaS
+126902	Portland	
+2550497	London	
+12267873	Minneapolis	
+103776	New York	
+129008	Salt Lake City	
+103449		Telecommunications
+141871		Telecommunications
+1279821		Retail & Ecommerce
+131448	San Diego	
+135736		Real Estate & Construction
+218793		Industrial Goods
+100027	San Francisco	
+157463	Austin	
+135194	Silicon Valley	Industrial Goods
+154922	New York	Personal & Household Goods
+1437004		Industrial Goods
+125146	Silicon Valley	Pharma & Biotech
+130608	Toronto	Real Estate & Construction
+137444	Las Vegas	Consulting & Business Services
+12281122		Consulting & Business Services
+103392		Consulting & Business Services
+129034		Food & Beverages
+336267		Retail & Ecommerce
+127856	Kansas City	Media & Entertainment
+4498930	London	
+157494	Chicago	Education
+136583		Consulting & Business Services|SaaS
+371567		Consulting & Business Services
+123316	Atlanta	
+135209		Industrial Goods
+169557	Vancouver	
+124753	Minneapolis	Health Care
+125412	Dallas	Hardware & Equipment|Internet of Things
+135188	Birmingham	
+1838078	New Delhi	
+1382060		On Demand Economy
+122524	Atlanta	
+130421	Denver	Food & Beverages
+146293	Chicago	
+131617		Retail & Ecommerce
+113067	Vancouver	Consulting & Business Services
+126843	Boston	
+209213	Silicon Valley	
+4252589	Silicon Valley	
+135026	Silicon Valley	
+317120	Fort Worth	Food & Beverages
+12117435	Boston	Consulting & Business Services
+109687	London	Retail & Ecommerce
+131864	Denver	Real Estate & Construction
+143102	Silicon Valley	
+159987	London	
+1182356	Silicon Valley	
+166288		Health Care
+4426456		Retail & Ecommerce
+111712	New York	Consulting & Business Services
+125020	Silicon Valley	Telecommunications
+102584		SaaS|Artificial Intelligence
+135196		Consulting & Business Services
+495405		Consulting & Business Services
+123907	Burlington	
+363283	Silicon Valley	
+127745	New York	
+383663	London	Consulting & Business Services
+736642	San Francisco	
+126263		Hardware & Equipment
+130486		SaaS
+100547	San Francisco	Media & Entertainment
+108991	New York	Media & Entertainment
+127557	Dallas	
+133560	Montreal	Real Estate & Construction
+135137		Personal & Household Goods
+198454		Health Care
+357705		Pharma & Biotech
+100214	Silicon Valley	Consulting & Business Services
+125262	Burlington	Health Care
+135707		Retail & Ecommerce
+139771		Hardware & Equipment
+159166		Transportation & Warehousing
+115282	London	
+124586	London	Personal & Household Goods
+211805	Silicon Valley	
+711061	San Francisco	
+152568		Transportation & Warehousing
+161229	Toronto	
+165767	London	
+138759		Education
+104501	Atlanta	Banking
+129977		Real Estate & Construction
+182832		Telecommunications
+113391	Philadelphia	Media & Entertainment
+124313		Pharma & Biotech
+173136	Cambridge	
+1820126	Austin	On Demand Economy
+2067513	Silicon Valley	
+194156		Pharma & Biotech
+678708		Telecommunications
+124079	Silicon Valley	
+130609	New York	Real Estate & Construction
+126561	New York	
+130234	Silicon Valley	Hardware & Equipment
+186540	London	Industrial Goods
+127987		Food & Beverages
+128438		Media & Entertainment
+392042		Consulting & Business Services
+111246	Columbus	Consulting & Business Services
+113964	Silicon Valley	
+100306	New York	
+11219675	San Francisco	
+213169	San Antonio	Education
+9669830	Silicon Valley	
+129780		SaaS
+135889		Energy & Utilities
+8227296		Retail & Ecommerce|On Demand Economy
+12051315		Transportation & Warehousing
+100135	San Francisco	
+127551	Salt Lake City	Pharma & Biotech
+1504233		Transportation & Warehousing
+1995873		Real Estate & Construction
+141962	Washington	Transportation & Warehousing
+195708	Phoenix	
+122510	San Francisco	
+1583959	New York	Travel & Hospitality
+130691		Telecommunications
+100497	Boston	Banking
+113976	Silicon Valley	
+127613		Consulting & Business Services
+142546	London	
+126634		Retail & Ecommerce
+199703	Dallas	Retail & Ecommerce
+1575753		Consulting & Business Services
+100239	New York	Retail & Ecommerce
+103171	San Francisco	SaaS
+2228884		Travel & Hospitality
+114225	Cambridge	
+123869	Cleveland	
+1843225	Silicon Valley	
+100075	New York	
+106739	Silicon Valley	
+1180322	New York	
+1519701	Chicago	
+12054935	Denver	
+123836	Silicon Valley	Energy & Utilities
+496313	Silicon Valley	
+125938		Retail & Ecommerce
+100082	San Francisco	Consulting & Business Services
+8145153	San Francisco	
+124157		SaaS
+126010		Media & Entertainment
+160621	San Francisco	
+170044	Silicon Valley	
+165235		Transportation & Warehousing
+110354	Austin	Retail & Ecommerce
+173252	Houston	
+180825	Boston	
+6127013	Silicon Valley	
+12048509	Silicon Valley	
+135264	Houston	Energy & Utilities
+135566	Philadelphia	Automobile
+135368	Charlotte	Personal & Household Goods
+372907		Transportation & Warehousing
+166074	San Diego	Health Care
+12021390	Mumbai	On Demand Economy
+211826		Telecommunications
+125611	Burlington	
+157864	Orlando	Travel & Hospitality
+2226685		Retail & Ecommerce
+156411	Silicon Valley	Travel & Hospitality
+1282389		Consulting & Business Services
+126266	Indianapolis	Pharma & Biotech
+10013932	Chicago	Health Care
+167889		Education
+122808	Boston	Consulting & Business Services
+122973	San Francisco	
+632081		Education
+356855	Seattle	
+1295958	New York	
+375070	New York	
+1632547	Silicon Valley	
+126051		Retail & Ecommerce
+127829		Industrial Goods
+150894		Consulting & Business Services
+101043	Silicon Valley	SaaS
+129248	Houston	Energy & Utilities
+149015		Automobile
+135593		Industrial Goods
+178797	Atlanta	
+119646		Consulting & Business Services
+147707	Boston	
+2441018	Washington	Health Care
+129400		Health Care
+149668		Retail & Ecommerce
+579107		Transportation & Warehousing
+115996	Silicon Valley	
+132112	Houston	
+131468		Hardware & Equipment
+100599		Automobile
+125483		Hardware & Equipment
+1408139	Silicon Valley	
+122248		Consulting & Business Services
+104868	Atlanta	
+139804	San Francisco	
+129902	Portland	Retail & Ecommerce
+943245	San Francisco	Energy & Utilities
+368268		Health Care
+123140	Seattle	
+126427	Silicon Valley	Hardware & Equipment
+128818	New York	Media & Entertainment
+162861		Health Care
+418808		Health Care
+135296	Chicago	
+4489571	Seattle	Artificial Intelligence
+1486475	Chicago	
+1280052		Pharma & Biotech
+1490907		Hardware & Equipment
+3760781		SaaS
+123093		SaaS
+185779		Education
+1664283	Cambridge	
+127759		Hardware & Equipment
+175670		Automobile
+196656	Chicago	Transportation & Warehousing
+689960	New York	
+141378		Media & Entertainment
+319810		Retail & Ecommerce
+4454318		Retail & Ecommerce
+134013	Austin	
+139505	Silicon Valley	Pharma & Biotech
+205990	Irvine	Real Estate & Construction
+123609	San Francisco	
+150676	San Francisco	
+1147295		Retail & Ecommerce
+115690	San Francisco	Transportation & Warehousing|On Demand Economy
+137380		Consulting & Business Services
+4850692	Houston	Energy & Utilities
+324243		Consulting & Business Services
+122895	Montreal	Consulting & Business Services
+4488118	Mumbai	
+1670968		Automobile
+357696	San Francisco	
+135646		Travel & Hospitality
+125126		Telecommunications
+170923	London	
+1835091	London	
+141007	Irvine	Artificial Intelligence
+123102		Consulting & Business Services|SaaS
+124316		SaaS
+223631		Retail & Ecommerce
+117262	Austin	
+139730	Silicon Valley	
+142516	Silicon Valley	
+128628		Health Care
+148291		Health Care
+233389		Transportation & Warehousing
+198360	San Francisco	
+126131		Hardware & Equipment
+139206		Retail & Ecommerce
+188233		Industrial Goods
+1620881		On Demand Economy
+101545	Los Angeles	Pharma & Biotech
+221110	Tampa	Consulting & Business Services
+135160		Energy & Utilities
+154283		Consulting & Business Services
+1170487		Industrial Goods
+135515	Omaha	Transportation & Warehousing
+1190430	Silicon Valley	Pharma & Biotech
+213214	San Francisco	
+366805	Dallas	Telecommunications
+371910	New Delhi	
+1189946	San Francisco	Pharma & Biotech
+128597		Personal & Household Goods
+128842	Nashville	Health Care
+130416	London	Consulting & Business Services
+166648	Atlanta	
+709067	Vancouver	
+1285541	Toronto	
+178068		Real Estate & Construction
+547738		Industrial Goods
+147723	Silicon Valley	
+151582	Toronto	
+125772		Telecommunications
+1577319		Energy & Utilities
+126798	Cleveland	
+1233393	Boston	
+1489734		Media & Entertainment
+12014076	New Delhi	
+127499		Industrial Goods
+138533	Kansas City	Real Estate & Construction
+140492	Boston	
+1171576	Philadelphia	Transportation & Warehousing
+12217111	Silicon Valley	
+102079	Silicon Valley	SaaS
+119273	Minneapolis	Health Care
+4868617		Retail & Ecommerce
+2229256	Montreal	
+111944		Consulting & Business Services
+1575054	Atlanta	
+184636		Personal & Household Goods
+111136	Silicon Valley	Hardware & Equipment
+1530681	Boston	Real Estate & Construction
+124650	Seattle	Consulting & Business Services
+1381666		On Demand Economy
+371253	San Francisco	
+125442		Retail & Ecommerce
+488514	Silicon Valley	
+1287609	Silicon Valley	
+213606		Transportation & Warehousing
+100524	Silicon Valley	
+135016	Cincinnati	Health Care
+132791		Hardware & Equipment
+135180		Energy & Utilities
+293193		Consulting & Business Services
+139161	Silicon Valley	Personal & Household Goods
+128293		Travel & Hospitality
+191367	San Francisco	SaaS
+271191	London	Media & Entertainment
+492462	Tampa	
+122705	Silicon Valley	
+132195	San Antonio	
+130693		Telecommunications
+213553		Pharma & Biotech
+683326	Minneapolis	Consulting & Business Services
+1479126	Mumbai	
+1819120	Silicon Valley	Education
+109959		SaaS
+128462		Health Care
+164476		SaaS
+141124	Silicon Valley	
+697481	San Francisco	Retail & Ecommerce
+418399	Mumbai	Telecommunications
+357774		Consulting & Business Services
+373666		Media & Entertainment
+129352	Phoenix	Consulting & Business Services
+130051	Charlotte	SaaS
+124521		Consulting & Business Services
+12017989		On Demand Economy
+155308	Silicon Valley	
+1174249	Silicon Valley	
+1306948	London	Consulting & Business Services
+126268		Consulting & Business Services|SaaS
+141467	Los Angeles	
+147549	Columbus	Industrial Goods
+141046	New York	Artificial Intelligence
+698830	New York	Consulting & Business Services
+105775		Telecommunications
+150971		Industrial Goods
+415863		Food & Beverages
+126658	Boston	
+137809	San Francisco	
+705491	Silicon Valley	
+132842		Transportation & Warehousing
+133095	Austin	SaaS
+172673	Silicon Valley	Internet of Things
+1836580	Silicon Valley	
+135600		Pharma & Biotech
+4455238		Consulting & Business Services
+168129	New York	Media & Entertainment
+207315	London	
+114895	San Francisco	
+119277	Irvine	Pharma & Biotech
+137977		Food & Beverages
+3935844		Consulting & Business Services
+103031	Silicon Valley	Media & Entertainment
+110374	Boston	
+153380	Cambridge	
+696054	Toronto	
+218823		Energy & Utilities
+244325		Retail & Ecommerce
+100196	London	Retail & Ecommerce
+124760	Pittsburgh	
+142609	San Francisco	
+145588	London	Consulting & Business Services
+208020	New York	Consulting & Business Services
+100368		Media & Entertainment
+129984		Health Care
+135231		Retail & Ecommerce
+114111	New York	Banking
+125535	Silicon Valley	
+155416		Hardware & Equipment
+132693	Austin	
+183811		Food & Beverages
+134168	New York	Real Estate & Construction
+1831768	New York	
+369875	Sydney	
+124367		SaaS
+134366		Food & Beverages
+159951		Energy & Utilities
+107296	Boston	Consulting & Business Services
+155419	Chicago	
+158382		Telecommunications
+151737		Consulting & Business Services
+157933		Personal & Household Goods
+170458	New York	
+150134		Telecommunications
+150152		Telecommunications
+262318		Personal & Household Goods
+129443	Chicago	Consulting & Business Services
+135756	Birmingham	
+176449		Energy & Utilities
+198406		Education
+262338		Telecommunications
+8227029		Automobile
+122133	Silicon Valley	
+6793829	Silicon Valley	
+695433	New York	
+133336		Personal & Household Goods
+137661		Retail & Ecommerce
+177970		Transportation & Warehousing
+135211	Austin	Retail & Ecommerce
+249677	New York	
+1288944	New York	
+1470661	Austin	Consulting & Business Services
+168273		Retail & Ecommerce
+679604	New York	
+695788	London	Consulting & Business Services
+157402	London	
+205486	Vancouver	
+125128		Industrial Goods
+102667	San Francisco	Media & Entertainment
+124416	San Francisco	
+101418		Retail & Ecommerce
+125319		Personal & Household Goods
+491292	Silicon Valley	
+1190062	San Francisco	
+260531	Seattle	
+12096752	New York	Travel & Hospitality
+123461	San Francisco	
+132254	San Francisco	
+100647	Silicon Valley	SaaS
+130405	Houston	Energy & Utilities
+176551	Irvine	
+106061		Retail & Ecommerce
+100508	Silicon Valley	
+135304	New York	
+123657	New York	Consulting & Business Services
+1838873	San Francisco	
+106159	San Francisco	
+137189	San Francisco	
+185126	London	
+12156739	San Francisco	
+501539		Hardware & Equipment
+122478	San Francisco	Consulting & Business Services|SaaS
+136335	Burlington	
+112355	Silicon Valley	
+123338	Silicon Valley	Telecommunications|SaaS
+371286	Boston	
+12016049	Silicon Valley	
+100358	Silicon Valley	SaaS
+110840	Cambridge	Consulting & Business Services
+737618	San Francisco	
+171659		Hardware & Equipment
+101497	Silicon Valley	Pharma & Biotech
+159348	Chicago	
+190749		Consulting & Business Services
+1403263		Retail & Ecommerce
+100020	Silicon Valley	SaaS
+126264	San Diego	Telecommunications|Internet of Things
+918835	Miami	Internet of Things
+128576		Hardware & Equipment
+100520	Chicago	
+156600	San Diego	
+1575673	San Francisco	Consulting & Business Services
+126265		Hardware & Equipment
+123122	Mumbai	Consulting & Business Services
+488743	New York	Consulting & Business Services
+135440	Portland	
+143202	San Francisco	
+112995		SaaS
+129650		Pharma & Biotech
+114681	Silicon Valley	Media & Entertainment
+135142	Atlanta	Energy & Utilities
+109133	Silicon Valley	SaaS
+2235318	San Francisco	
+102899		Energy & Utilities
+106604		Banking
+206935		Consulting & Business Services
+103942	Silicon Valley	
+142620	Silicon Valley	
+141725		On Demand Economy
+224160		Retail & Ecommerce
+130611	Indianapolis	Real Estate & Construction
+130385		SaaS
+136270		Travel & Hospitality
+133377	Houston	Energy & Utilities
+138198	Silicon Valley	Health Care
+123245	Silicon Valley	SaaS
+124722	Austin	
+131207	Pittsburgh	
+138974	Denver	Energy & Utilities
+1154791	Seattle	Pharma & Biotech
+1535209	Seattle	
+117327	Seattle	
+121547	Silicon Valley	
+142098		Health Care
+141335	Minneapolis	
+4371062	New Delhi	Retail & Ecommerce
+129192	Silicon Valley	
+381451	Nashville	
+162978		Energy & Utilities
+103622	Boston	
+124371	Silicon Valley	
+2239760	London	
+124118	New York	Retail & Ecommerce
+130616	Toronto	
+150271		Media & Entertainment
+275568		Consulting & Business Services
+315416		Real Estate & Construction
+172098	San Francisco	
+8797560	San Francisco	
+130044	Tampa	
+139797	Salt Lake City	Health Care
+224883	Melbourne	Retail & Ecommerce
+189663	Seattle	Real Estate & Construction
+198551	London	Hardware & Equipment
+125813		SaaS
+128795	Louisville	Food & Beverages
+138631	Boston	
+131380	New York	
+123121		Banking
+156377		Health Care
+115270	Silicon Valley	
+122621	Silicon Valley	
+104254	San Francisco	
+105767	Silicon Valley	Media & Entertainment
+113387	San Francisco	Media & Entertainment|On Demand Economy
+498700	San Francisco	
+1584120	New York	Consulting & Business Services
+126500		Retail & Ecommerce
+100070	Sydney	On Demand Economy
+102401	San Francisco	
+486953	Silicon Valley	Health Care
+704474	London	
+128874	Silicon Valley	
+206926	Silicon Valley	
+173942	Boston	
+196718	Silicon Valley	
+369196	Minneapolis	
+100659	Silicon Valley	SaaS
+163590	Vancouver	
+133468	London	
+1375398	San Francisco	
+100017	Silicon Valley	
+112879	New York	
+263107		Consulting & Business Services
+124585	Cambridge	Pharma & Biotech
+172027		Retail & Ecommerce
+2239240	Phoenix	
+207138		Real Estate & Construction
+12035782	Mumbai	Retail & Ecommerce
+233010		Retail & Ecommerce|On Demand Economy
+266752		Health Care
+116567	San Francisco	Travel & Hospitality|On Demand Economy
+133961	New York	Retail & Ecommerce
+135354	Seattle	Transportation & Warehousing
+137735		Food & Beverages
+145733	London	
+966672	New York	On Demand Economy
+7184823		Consulting & Business Services
+103944	Silicon Valley	SaaS
+141251	Portland	
+212445	Silicon Valley	
+179539		Real Estate & Construction
+5379148		Hardware & Equipment
+123639	New York	
+138884	Washington	Consulting & Business Services
+122990	Philadelphia	Consulting & Business Services
+123204	Portland	
+127144	Melbourne	
+149916	Washington	
+125684		Pharma & Biotech
+161777		Hardware & Equipment
+101864	New York	Consulting & Business Services
+107911	Chicago	
+126340		Retail & Ecommerce
+132649		Energy & Utilities
+142475		On Demand Economy
+142582	Silicon Valley	
+115552		SaaS
+141807	Dallas	
+150201	Nashville	Consulting & Business Services
+175514	Kansas City	Transportation & Warehousing
+100413	New York	Media & Entertainment
+128994	Silicon Valley	Pharma & Biotech
+1413467	Indianapolis	
+697636		Pharma & Biotech
+100886		Consulting & Business Services
+494064		Health Care
+130968		Industrial Goods
+135754		Consulting & Business Services
+102513	San Francisco	Media & Entertainment
+130331	Los Angeles	Real Estate & Construction
+2405794	Silicon Valley	Consulting & Business Services
+2991940	Birmingham	
+245078	Denver	
+258682	Mumbai	Travel & Hospitality
+212344	Atlanta	
+9710844		Transportation & Warehousing
+135896		Health Care
+149862		Energy & Utilities
+164440	New York	SaaS
+133248		Automobile
+199936	Houston	Real Estate & Construction
+260879	Boston	
+123262	Birmingham	
+135951	Silicon Valley	
+156819	New York	Travel & Hospitality
+173024		Telecommunications
+264821		Telecommunications
+135221	Dallas	Energy & Utilities
+144282	London	Energy & Utilities
+123092		Hardware & Equipment
+109513	Fort Worth	Media & Entertainment
+179756	Melbourne	
+6104889	Cambridge	
+122459		Artificial Intelligence
+145551	Melbourne	
+429115	Mumbai	
+106758	New York	
+126199	Silicon Valley	
+268111		Transportation & Warehousing
+101230	Silicon Valley	SaaS
+106567	Silicon Valley	
+238899	Mumbai	
+146770		Consulting & Business Services
+195153		Health Care
+216432		Consulting & Business Services
+12029828		Travel & Hospitality
+141329	New York	
+157335	Atlanta	
+137218	Las Vegas	Travel & Hospitality
+227826		Media & Entertainment
+103566	New York	SaaS
+122151	Toronto	
+127958	Irvine	
+164023	San Francisco	
+130792	Houston	Energy & Utilities
+224977	Mumbai	
+220219		Consulting & Business Services
+12022133		Food & Beverages
+102217	Silicon Valley	Telecommunications|Internet of Things
+106771	New York	
+213691	San Francisco	Energy & Utilities
+125482		Automobile
+1194341		Media & Entertainment
+116314	New York	
+124409	Portland	
+152043		Consulting & Business Services
+185288		Health Care
+193088	Silicon Valley	Energy & Utilities
+135200		Transportation & Warehousing
+122577	Silicon Valley	
+140690	London	
+135620	New York	
+680530		Real Estate & Construction
+124176	New York	Consulting & Business Services
+130894	Columbus	
+197317	Boston	Education
+123835	Silicon Valley	Energy & Utilities
+129840	Indianapolis	
+183970	Silicon Valley	
+149924		Energy & Utilities
+113517	Portland	
+166306	New York	Consulting & Business Services
+133857	Atlanta	Real Estate & Construction
+100002	San Francisco	SaaS
+131941	Louisville	Health Care
