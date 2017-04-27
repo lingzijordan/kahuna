@@ -63,9 +63,17 @@ func InsertToMongo(data formats.CompanyDataJsonRecords) {
 				if err != nil {
 					fmt.Println("what is error here")
 				}
-				fmt.Println("no error")
 			}
 		}(sourceInChan, c)
+	}
+
+	index := mgo.Index{
+		Key: []string{"$text:ceoname", "$text:companynamelong"},
+	}
+
+	err = c.EnsureIndex(index)
+	if err != nil {
+		panic(err)
 	}
 
 	wg.Wait()
