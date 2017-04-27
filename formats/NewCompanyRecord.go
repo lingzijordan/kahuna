@@ -1,12 +1,13 @@
 package formats
 
 type MappedCompanyRecord struct {
-	CompanyId     string
-	City          string
-	Sector        []string
-	Rating        int
-	NumberOfVotes int
-	IsWinner      bool
+	CompanyId        int
+	City             string
+	Sector           []string
+	Rating           int
+	NumberOfVotes    int
+	IsCityWinner     bool
+	IsIndustryWinner bool
 }
 
 type MappedCompanyRecords []*MappedCompanyRecord

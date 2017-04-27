@@ -1,6 +1,9 @@
 package mappers
 
 import (
+	"errors"
+	"fmt"
+
 	"github.com/zling/zi-goproject/data"
 	"github.com/zling/zi-goproject/formats"
 )
@@ -28,4 +31,18 @@ func MapCities(records []*formats.Record) (formats.MappedCompanyRecords, []strin
 	}
 
 	return results, unMappedCities
+}
+
+func MapCity(city string) (string, error) {
+	cityMap := data.GetCityMapping()
+	var mappedCity string
+
+	value, ok := cityMap[city]
+	if !ok {
+		return "", errors.New(fmt.Sprintf("can't map to city ", city))
+	} else {
+		mappedCity = value
+	}
+
+	return mappedCity, nil
 }

@@ -3,9 +3,17 @@ package mappers
 import (
 	"errors"
 
+	log "github.com/golang/glog"
+
 	"github.com/zling/zi-goproject/data"
 	"github.com/zling/zi-goproject/formats"
 )
+
+var newSectorCompanyMapping map[int][]string
+
+func init() {
+	newSectorCompanyMapping = data.GetNewSectorMapping("../../files/newSector.txt")
+}
 
 func industryMapper(industry string, maps map[string]string) (string, error) {
 	if industry != "" {
@@ -19,6 +27,51 @@ func industryMapper(industry string, maps map[string]string) (string, error) {
 	}
 
 	return "", errors.New("industry field is empty.")
+}
+
+func removeDuplicates(elements []string) []string {
+	// Use map to record duplicates as we find them.
+	encountered := map[string]bool{}
+	result := []string{}
+
+	for _, v := range elements {
+		if encountered[v] == true {
+			// Do not add duplicate.
+		} else {
+			// Record this element as an encountered element.
+			encountered[v] = true
+			// Append to result slice.
+			result = append(result, v)
+		}
+	}
+	// Return the new slice.
+	return result
+}
+
+func MapSector(sectors []string, companyId int) []string {
+	sectorMap := data.GetIndustryMapping()
+	var mappedSectors []string
+
+	for _, sector := range sectors {
+		if sector == "" {
+			continue
+		}
+		mappedSector, err := industryMapper(sector, sectorMap)
+		if err != nil {
+			log.Warning("industry can't be mapped ", sector)
+		} else {
+			mappedSectors = append(mappedSectors, mappedSector)
+		}
+	}
+
+	values, ok := newSectorCompanyMapping[companyId]
+	if !ok {
+		log.Warning("company can't be mapped to a new sector ", companyId)
+		return removeDuplicates(mappedSectors)
+	}
+	mappedSectors = append(mappedSectors, values...)
+
+	return removeDuplicates(mappedSectors)
 }
 
 func addToIndustries(industry string, mappedIndustries []string) []string {
@@ -36,7 +89,7 @@ func MapSectors(records []*formats.Record) (formats.MappedCompanyRecords, []stri
 	var results formats.MappedCompanyRecords
 	var unMappedSectors []string
 	sectorMap := data.GetIndustryMapping()
-	newSectorCompanyMapping := data.GetNewSectorMapping("files/newSector.txt")
+	//newSectorCompanyMapping := data.GetNewSectorMapping("files/newSector.txt")
 
 	for _, record := range records {
 		var mappedIndustries []string

@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"log"
 	"os"
+	"strconv"
 	"strings"
 
 	"github.com/zling/zi-goproject/formats"
@@ -28,8 +29,10 @@ func GetCompanyRawRecords(fileName string) []*formats.Record {
 			continue
 		}
 
+		i, _ := strconv.Atoi(arr[0])
+
 		record := &formats.Record{
-			CompanyId:                  arr[0],
+			CompanyId:                  i,
 			CompanyUrl:                 arr[1],
 			CompanyNameLong:            arr[2],
 			CompanyNameShort:           arr[3],

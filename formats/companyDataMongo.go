@@ -1,7 +1,7 @@
 package formats
 
-type CompanyData struct {
-	CompanyId        string
+type CompanyDataMongo struct {
+	CompanyId        int `bson:"_id,omitempty"`
 	CompanyUrl       string
 	CompanyNameLong  string
 	CompanyNameShort string
@@ -11,7 +11,8 @@ type CompanyData struct {
 	NumberOfVotes    int
 	Rating           int
 	City             string
-	Sector           []string
+	Sectors          []string
 	IsCityWinner     bool
 	IsIndustryWinner bool
+	MappedSegments   []string
 }

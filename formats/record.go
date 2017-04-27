@@ -1,7 +1,7 @@
 package formats
 
 type Record struct {
-	CompanyId                  string
+	CompanyId                  int
 	CompanyUrl                 string
 	CompanyNameLong            string
 	CompanyNameShort           string
