@@ -40,6 +40,10 @@ func InsertToMongo(data formats.CompanyDataJsonRecords) {
 		go func(inChan chan *formats.CompanyDataJson, c *mgo.Collection) {
 			defer wg.Done()
 			for elem := range inChan {
+				var isWinner bool
+				if elem.IsCityWinner || elem.IsIndustryWinner {
+					isWinner = true
+				}
 				document := &formats.CompanyDataMongo{
 					CompanyId:        elem.CompanyId,
 					CompanyUrl:       elem.CompanyUrl,
@@ -54,7 +58,8 @@ func InsertToMongo(data formats.CompanyDataJsonRecords) {
 					Sectors:          elem.MappedSectors,
 					IsCityWinner:     elem.IsCityWinner,
 					IsIndustryWinner: elem.IsIndustryWinner,
-					MappedSegments:   elem.MappedSegments,
+					IsWinner:         isWinner,
+					Segments:         elem.MappedSegments,
 				}
 
 				upsertdata := bson.M{"$set": document}

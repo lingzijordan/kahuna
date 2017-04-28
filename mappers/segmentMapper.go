@@ -7,6 +7,7 @@ import (
 )
 
 const (
+	OVERALL     = "Overall"
 	ENTERPRISES = "Enterprises"
 	SMBS        = "SMBs"
 	EARLY_STAGE = "Early Stage Companies"
@@ -35,6 +36,8 @@ func MapSegments(yearFounded string, revenue int) []string {
 	if year >= 2015 {
 		segments = append(segments, NEW_KIDS)
 	}
+
+	segments = append(segments, OVERALL)
 
 	return segments
 }

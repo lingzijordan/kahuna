@@ -105,32 +105,30 @@ func SelectWinners(ceoList formats.CompanyDataJsonRecords) formats.CompanyDataJs
 		numberOfAwards, ok := cityAwardCount[city]
 		if !ok {
 			ceo.IsCityWinner = false
-			continue
-		}
-		cityCount, ok := cityCounter[city]
-		if !ok && ceo.CeoRating >= 80 {
-			ceo.IsCityWinner = true
-			cityCounter[city] = 1
-			continue
-		} else if cityCount < numberOfAwards && ceo.CeoRating >= 80 {
-			ceo.IsCityWinner = true
-			cityCounter[city] = cityCount + 1
+		} else {
+			cityCount, ok := cityCounter[city]
+			if !ok && ceo.CeoRating >= 80 {
+				ceo.IsCityWinner = true
+				cityCounter[city] = 1
+			} else if cityCount < numberOfAwards && ceo.CeoRating >= 80 {
+				ceo.IsCityWinner = true
+				cityCounter[city] = cityCount + 1
+			}
 		}
 
 		for _, sector := range sectors {
 			numberOfAwards, ok := sectorAwardCount[sector]
 			if !ok {
 				ceo.IsIndustryWinner = false
-				continue
-			}
-			sectorCount, ok := sectorCounter[sector]
-			if !ok && ceo.CeoRating >= 80 {
-				ceo.IsIndustryWinner = true
-				sectorCounter[sector] = 1
-				continue
-			} else if sectorCount < numberOfAwards && ceo.CeoRating >= 80 {
-				ceo.IsIndustryWinner = true
-				sectorCounter[sector] = sectorCount + 1
+			} else {
+				sectorCount, ok := sectorCounter[sector]
+				if !ok && ceo.CeoRating >= 80 {
+					ceo.IsIndustryWinner = true
+					sectorCounter[sector] = 1
+				} else if sectorCount < numberOfAwards && ceo.CeoRating >= 80 {
+					ceo.IsIndustryWinner = true
+					sectorCounter[sector] = sectorCount + 1
+				}
 			}
 		}
 	}

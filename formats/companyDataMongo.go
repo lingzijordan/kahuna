@@ -14,5 +14,6 @@ type CompanyDataMongo struct {
 	Sectors          []string
 	IsCityWinner     bool
 	IsIndustryWinner bool
-	MappedSegments   []string
+	IsWinner         bool
+	Segments         []string
 }
