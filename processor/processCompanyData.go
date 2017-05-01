@@ -80,7 +80,6 @@ func marshalAndMapToCityAndIndustry(companyRecords <-chan string, results chan<-
 		sectors = addWhenNonEmpty(sectors, companyData.Sector4)
 		sectors = addWhenNonEmpty(sectors, companyData.Sector5)
 		companyData.MappedSectors = mappers.MapSector(sectors, companyData.CompanyId)
-		companyData.MappedSegments = mappers.MapSegments(companyData.YearFounded, companyData.CompanyRevenue)
 
 		if companyData.CityName != "" {
 			companyData.MappedCity, err = mappers.MapCity(companyData.CityName)
@@ -88,6 +87,8 @@ func marshalAndMapToCityAndIndustry(companyRecords <-chan string, results chan<-
 				log.Warning(err)
 			}
 		}
+
+		companyData.MappedSegments = mappers.MapSegments(companyData.YearFounded, companyData.CompanyRevenue, companyData.MappedCity)
 
 		results <- &companyData
 	}

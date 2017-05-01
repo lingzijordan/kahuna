@@ -12,12 +12,23 @@ const (
 	SMBS        = "SMBs"
 	EARLY_STAGE = "Early Stage Companies"
 	NEW_KIDS    = "New Kids on the Block"
+	USOVERALL   = "US Overall"
 	BILLION     = 1000000000
 	MILLION     = 1000000
 )
 
-func MapSegments(yearFounded string, revenue int) []string {
+func MapSegments(yearFounded string, revenue int, city string) []string {
 	year, err := strconv.Atoi(yearFounded)
+	nonUsCities := map[string]bool{
+		"London":    true,
+		"Toronto":   true,
+		"New Delhi": true,
+		"Mumbai":    true,
+		"Vancouver": true,
+		"Montreal":  true,
+		"Melbourne": true,
+		"Sydney":    true,
+	}
 	if err != nil {
 		log.Error("year conversion failed.")
 	}
@@ -35,6 +46,10 @@ func MapSegments(yearFounded string, revenue int) []string {
 	}
 	if year >= 2015 {
 		segments = append(segments, NEW_KIDS)
+	}
+	_, ok := nonUsCities[city]
+	if !ok {
+		segments = append(segments, USOVERALL)
 	}
 
 	segments = append(segments, OVERALL)
