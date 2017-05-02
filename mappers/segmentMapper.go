@@ -38,10 +38,10 @@ func MapSegments(yearFounded string, revenue int, city string) []string {
 	if revenue > BILLION {
 		segments = append(segments, ENTERPRISES)
 	}
-	if year >= 2010 && revenue < BILLION {
+	if year <= 2008 && revenue < BILLION {
 		segments = append(segments, SMBS)
 	}
-	if (year >= 2010 && year <= 2015) && revenue < 50*MILLION {
+	if (year >= 2009 && year <= 2014) && revenue < 50*MILLION {
 		segments = append(segments, EARLY_STAGE)
 	}
 	if year >= 2015 {

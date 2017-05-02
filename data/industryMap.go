@@ -2,11 +2,14 @@ package data
 
 func GetIndustryMapping() map[string]string {
 	return map[string]string{
-		"Artificial Intelligence":        "Artificial Intelligence",
-		"Automobiles & Parts":            "Automobile",
-		"Diversified Financial Services": "Banking",
-		"Mortgage Finance":               "Banking",
-		"Investment Banking & Brokerage": "Banking",
+		"Software, Internet & Computer Services": "Tech",
+		"Marketing & Creative Agencies":          "Marketing & Creative Agencies",
+		"Airlines":                               "Airlines",
+		"Artificial Intelligence":                "Artificial Intelligence",
+		"Automobiles & Parts":                    "Automobile",
+		"Diversified Financial Services":         "Banking",
+		"Mortgage Finance":                       "Banking",
+		"Investment Banking & Brokerage":         "Banking",
 		"Banks":                            "Banking",
 		"Business Support Services":        "Consulting & Business Services",
 		"Management Consulting Services":   "Consulting & Business Services",

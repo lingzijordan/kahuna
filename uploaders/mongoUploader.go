@@ -1,6 +1,7 @@
 package uploaders
 
 import (
+	"flag"
 	"fmt"
 	"sync"
 
@@ -9,9 +10,28 @@ import (
 	"gopkg.in/mgo.v2/bson"
 )
 
+var (
+	username   string
+	password   string
+	ip         string
+	port       string
+	database   string
+	collection string
+)
+
+func init() {
+	flag.StringVar(&username, "username", "devtest", "a string")
+	flag.StringVar(&password, "password", "devtest", "a string")
+	flag.StringVar(&ip, "ip", "devdb.owler.com", "a string")
+	flag.StringVar(&port, "port", "37117", "a string")
+	flag.StringVar(&database, "database", "owler", "a string")
+	flag.StringVar(&collection, "collection", "ceo_rating1", "a string")
+
+}
+
 func InsertToMongo(data formats.CompanyDataJsonRecords) {
 	//password := "d3vdb2@$!"
-	url := fmt.Sprintf("mongodb://devtest:devtest@devdb.owler.com:37117/owler")
+	url := fmt.Sprintf("mongodb://%s:%s@%s:%s/%s", username, password, ip, port, database)
 	session, err := mgo.Dial(url)
 	if err != nil {
 		panic(err)
@@ -19,7 +39,7 @@ func InsertToMongo(data formats.CompanyDataJsonRecords) {
 	defer session.Close()
 	session.SetMode(mgo.Monotonic, true)
 
-	c := session.DB("owler").C("ceo_rating1")
+	c := session.DB(database).C(collection)
 
 	err = session.Ping()
 	if err != nil {

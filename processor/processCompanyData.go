@@ -11,7 +11,7 @@ import (
 	"github.com/zling/zi-goproject/mappers"
 )
 
-func ReadCompanyRawDataJsonFile(path string) formats.CompanyDataJsonRecords {
+func ReadCompanyRawDataJsonFile(path string, newSectorCompanyMapping map[int][]string) formats.CompanyDataJsonRecords {
 
 	file, err := os.Open(path)
 	if err != nil {
@@ -26,7 +26,7 @@ func ReadCompanyRawDataJsonFile(path string) formats.CompanyDataJsonRecords {
 
 	for w := 1; w <= 3; w++ {
 		wg.Add(1)
-		go marshalAndMapToCityAndIndustry(companyRecords, results, wg)
+		go marshalAndMapToCityAndIndustry(companyRecords, results, wg, newSectorCompanyMapping)
 	}
 
 	go func() {
@@ -59,7 +59,7 @@ func addWhenNonEmpty(result []string, elem string) []string {
 	return result
 }
 
-func marshalAndMapToCityAndIndustry(companyRecords <-chan string, results chan<- *formats.CompanyDataJson, wg *sync.WaitGroup) {
+func marshalAndMapToCityAndIndustry(companyRecords <-chan string, results chan<- *formats.CompanyDataJson, wg *sync.WaitGroup, newSectorCompanyMapping map[int][]string) {
 
 	defer wg.Done()
 
@@ -79,7 +79,7 @@ func marshalAndMapToCityAndIndustry(companyRecords <-chan string, results chan<-
 		sectors = addWhenNonEmpty(sectors, companyData.Sector3)
 		sectors = addWhenNonEmpty(sectors, companyData.Sector4)
 		sectors = addWhenNonEmpty(sectors, companyData.Sector5)
-		companyData.MappedSectors = mappers.MapSector(sectors, companyData.CompanyId)
+		companyData.MappedSectors = mappers.MapSector(sectors, companyData.CompanyId, newSectorCompanyMapping)
 
 		if companyData.CityName != "" {
 			companyData.MappedCity, err = mappers.MapCity(companyData.CityName)

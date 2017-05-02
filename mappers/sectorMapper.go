@@ -9,12 +9,6 @@ import (
 	"github.com/zling/zi-goproject/formats"
 )
 
-var newSectorCompanyMapping map[int][]string
-
-func init() {
-	newSectorCompanyMapping = data.GetNewSectorMapping("../../files/newSector.txt")
-}
-
 func industryMapper(industry string, maps map[string]string) (string, error) {
 	if industry != "" {
 		value, ok := maps[industry]
@@ -48,7 +42,7 @@ func removeDuplicates(elements []string) []string {
 	return result
 }
 
-func MapSector(sectors []string, companyId int) []string {
+func MapSector(sectors []string, companyId int, newSectorCompanyMapping map[int][]string) []string {
 	sectorMap := data.GetIndustryMapping()
 	var mappedSectors []string
 
@@ -85,7 +79,7 @@ func addToIndustries(industry string, mappedIndustries []string) []string {
 	return mappedIndustries
 }
 
-func MapSectors(records []*formats.Record) (formats.MappedCompanyRecords, []string) {
+func MapSectors(records []*formats.Record, newSectorCompanyMapping map[int][]string) (formats.MappedCompanyRecords, []string) {
 	var results formats.MappedCompanyRecords
 	var unMappedSectors []string
 	sectorMap := data.GetIndustryMapping()
