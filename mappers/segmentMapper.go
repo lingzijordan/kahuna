@@ -2,6 +2,7 @@ package mappers
 
 import (
 	"strconv"
+	"strings"
 
 	log "github.com/golang/glog"
 )
@@ -18,6 +19,10 @@ const (
 )
 
 func MapSegments(yearFounded string, revenue int, city string) []string {
+	arr := strings.Split(yearFounded, "/")
+	if len(arr) > 1 {
+		yearFounded = arr[1]
+	}
 	year, err := strconv.Atoi(yearFounded)
 	nonUsCities := map[string]bool{
 		"London":    true,
